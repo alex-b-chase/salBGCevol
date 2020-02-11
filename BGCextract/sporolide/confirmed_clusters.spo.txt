@@ -1,0 +1,13 @@
+SP_CNT084.cluster009
+SP_CNT133.cluster013
+SP_CNT609.cluster014
+ST_CNB440.cluster011
+ST_CNB476.cluster004
+ST_CNH898.cluster006
+ST_CNR699.cluster005
+ST_CNS197.cluster004
+ST_CNS416.cluster006
+ST_CNT250.cluster003
+ST_CNT261.cluster004
+ST_CNY678.cluster004
+ST_CNY681.cluster006
