@@ -1,7 +1,7 @@
 Relevant files for the analysis of the distribution of biosynthetic gene clusters (BGCs) in the marine sediment  bacterium, *Salinispora*
 
 # salBGCevol
-Evolution of the diversity and distribution of BGCs in the marine sediment bacterium Salinispora
+Evolution of the diversity and distribution of BGCs in the marine sediment bacterium Salinispora. Originally ran with antiSMASH v4 and BiG-SCAPE v1 but since been updated to antiSMASH v5 and BiG-SCAPE v1.1
 
 
 
