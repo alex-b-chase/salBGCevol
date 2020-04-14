@@ -31,7 +31,7 @@ done
 Here is the output from this screening of minIDs:
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/alex-b-chase/salBGCevol/tree/master/images/corepangenomeXblastID.png">
+  <img width="460" height="300" src="../images/corepangenomeXblastID.png">
 </p>
 
 There was a nice inflection point at 85% so we can use all the genomes now and re-run ROARY with this parameter.
