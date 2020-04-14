@@ -31,7 +31,7 @@ done
 Here is the output from this screening of minIDs:
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/alex-b-chase/salBGCevol/images/corepangenomeXblastID.png">
+  <img width="460" height="300" src="https://github.com/alex-b-chase/salBGCevol/tree/master/images/corepangenomeXblastID.png">
 </p>
 
 There was a nice inflection point at 85% so we can use all the genomes now and re-run ROARY with this parameter.
@@ -39,5 +39,5 @@ There was a nice inflection point at 85% so we can use all the genomes now and r
 We can do some nice stats in R with the vegan package to look at how the presence/absence of flex genes structure Salinispora diversity:
 
 <p align="center">
-  <img width="460" height="500" src="https://github.com/alex-b-chase/salBGCevol/images/flexgenome.png">
+  <img width="460" height="500" src="https://github.com/alex-b-chase/salBGCevol/tree/master/images/flexgenome.png">
 </p>
