@@ -14,7 +14,7 @@ python $BIGDIR/bigscape.py \
 --mix --no_classify
 ```
 
-BiG-SCAPE computes a similarity score between each pairwise BGC. This data can be used to visualize the network (this is the final network but we will walk through other stuff first):
+BiG-SCAPE computes a similarity score between each pairwise BGC. This data can be used to visualize the network (this is the final network but we will walk through other stuff first). Each node is a BGC colored by the species of the strain. Black nodes are MIBIG refernce clusters with names of the reference BGC. Edges connecting nodes reflect similarity scores computed by BiG-SCAPE.
 
 <p align="center">
   <img width="560" height="500" src="../images/bgcnetwork-01.png">
