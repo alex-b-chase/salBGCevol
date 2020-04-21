@@ -29,7 +29,9 @@ From previous analyses by AB Chase at the beginning of this project, using antiS
 | cutoff value    | GCFs      | Method |
 | --------------- |:---------:| -----:|
 | 0.15 | 502 | Not Mixed |
+| 0.25 | 442 | Not Mixed |
 | 0.3  | 431 | Not Mixed |
+| 0.4 | 409  | Not Mixed |
 | 0.5 | 407  | Not Mixed |
 | 0.3 | 367  |  Mixed |
 
