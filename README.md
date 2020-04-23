@@ -8,7 +8,6 @@ Evolution of the diversity and distribution of BGCs in the marine sediment bacte
 </p>
 
 
-
 Originally ran with antiSMASH v4 and BiG-SCAPE v1 but since been updated to antiSMASH v5 and BiG-SCAPE v1.1
 
 # Software and Databases Used
