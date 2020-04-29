@@ -1,0 +1,559 @@
+100226.15	Streptomyces coelicolor A3(2)	100226	Complete	3	9054847	72
+1003195.11	Streptomyces cattleya NRRL 8057 = DSM 46488	1003195	Complete	2	8092553	73.01
+1003195.29	Streptomyces cattleya NRRL 8057 = DSM 46488	1003195	Complete	2	8095515	73.01
+1007676.4	Lactobacillus ginsenosidimutans strain EMML 3041	1007676	Complete	1	2590556	36.71
+1033837.3	Lactobacillus kefiranofaciens ZW3	1033837	Complete	3	2354088	37.36
+1036182.3	Actinoplanes atraurantiacus strain CGMCC 4.6857	1036182	WGS	71	10906727	70.69
+103690.10	Nostoc sp. PCC 7120	103690	Complete	7	7211789	41.3
+1042156.4	Clostridium sp. SY8519	1042156	Complete	1	2835737	50.74
+1052585.4	Bacillus subtilis subsp. spizizenii TU-B-10	1052585	Complete	1	4207222	43.82
+1054460.4	Streptococcus pseudopneumoniae IS7493	1054460	Complete	1	2190731	0.395
+106370.16	Frankia sp. CcI3	106370	Complete	1	5433628	70.1
+1068978.7	Amycolatopsis methanolica 239	1068978	Complete	1	7237391	71.53
+1069533.5	Streptococcus infantarius subsp. infantarius CJ18	1069533	Complete	2	2008249	37.5743
+1069534.5	Lactobacillus ruminis ATCC 27782	1069534	Complete	1	2066652	43.5
+1071400.3	Lactobacillus buchneri CD034	1071400	Complete	2	2557037	44.252
+1076934.5	Streptococcus lutetiensis 033	1076934	Complete	1	1975547	37.7
+1096856.3	Pseudonocardia sp. EC080619-01	1096856	Complete	3	7205934	73.28
+1104325.3	Enterococcus faecium NRRL B-2354	1104325	Complete	2	2849891	37.8496
+110662.5	Synechococcus sp. CC9605	110662	Complete	1	2510659	59
+1115512.3	Escherichia hermannii NBRC 105704	1115512	WGS	44	4495280	54.08
+1120949.3	Actinoplanes globisporus DSM 43857	1120949	WGS	69	10987776	70.9
+1121088.10	Bacillus coagulans DSM 1 = ATCC 7050	1121088	Complete	1	3366995	46.9
+1121272.3	Catelliglobosispora koreensis DSM 44566	1121272	WGS	48	7688048	64.4
+1121272.3	Catelliglobosispora koreensis DSM 44566	1121272	WGS	48	7688048	64.4
+1121335.3	Clostridium stercorarium subsp. stercorarium DSM 8532	1121335	Complete	1	2974379	42.24
+1122182.3	Longispora albida DSM 44784	1122182	WGS	29	6821201	70.3
+1122182.3	Longispora albida DSM 44784	1122182	WGS	29	6821201	70.3
+1128398.3	Clostridium acidurici 9a	1128398	Complete	2	3108248	29.899
+1128668.3	Micromonospora sp. S2903	1128668	WGS	1130	6453819	71.56555
+113562.5	Actinoplanes derwentensis strain DSM 43941	113562	Complete	1	10654181	69.36
+113562.5	Actinoplanes derwentensis strain DSM 43941	113562	Complete	1	10654181	69.36
+113567.3	Actinoplanes italicus strain DSM 43146	113567	WGS	71	11152790	70.385765
+113571.3	Actinoplanes rectilineatus strain NRRL B-16090	113571	WGS	312	10320296	70.6
+1138383.4	Mycobacterium intracellulare MOTT-64	1138383	Complete	1	5501090	68.1
+1138871.3	Mycobacterium yongonense 05-1390	1138871	Complete	3	5662088	67.9502
+1140.7	Synechococcus elongatus PCC 7942	1140	Complete	2	2742269	55.4
+1144548.3	Xiangella phaseoli strain CGMCC 4.7038	1144548	WGS	30	6507138	71.31
+1144548.5	Xiangella phaseoli strain DSM 45730	1144548	WGS	28	6497946	71.3374
+1144548.5	Xiangella phaseoli strain DSM 45730	1144548	WGS	28	6497946	71.3374
+1150864.3	Micromonospora lupini str. Lupac 08	1150864	WGS	50	7321224	71.96
+1156913.3	Amycolatopsis orientalis HCCB10007	1156913	Complete	1	8948591	69
+1160279.3	Microcystis sp. T1-4	1160279	WGS	449	4693747	42.78
+1169151.3	Micromonospora sp. CNB394	1169151	WGS	93	6340679	72.7
+1172030.3	Micromonospora sp. WMMB235	1172030	WGS	2	7031295	72.83
+1173263.3	Synechococcus sp. PCC 7502	1173263	Complete	3	3583735	40.62
+1182568.3	Deinococcus puniceus strain DY1	1182568	Complete	1	2971983	62.65
+1182571.5	Deinococcus swuensis DY59	1182571	Complete	1	3531443	67.41
+1183438.3	Gloeobacter kilaueensis JS1	1183438	Complete	1	4724791	60.5
+1185415.3	Micromonospora wenchangensis strain CCTCC AA 2012002	1185415	WGS	150	7513761	73.04
+1193095.6	Lactobacillus hokkaidonensis LOOC260	1193095	Complete	3	2400586	38.22
+1198245.3	Micromonospora avicenniae strain DSM 45758	1198245	WGS	63	6823298	71.53
+1202450.10	Mycobacterium haemophilum DSM 44634 = ATCC 29548	1202450	Complete	1	4235765	63.95
+121292.4	Arthrobacter sulfonivorans strain Ar51	121292	Complete	2	5056151	64.64
+1214101.3	Streptomyces davawensis JCM 4913	1214101	Complete	2	9555950	70.5935
+1214242.5	Streptomyces collinus Tu 365	1214242	Complete	3	8377286	72.5501
+121616.4	Micromonospora matsumotoense strain DSM 44100	121616	WGS	57	7755577	72.27
+1216932.3	Clostridium sp. M2/40	1216932	Complete	2	3617025	29.4714
+1218177.5	Streptomyces sp. GBA 94-10	1218177	Complete	2	7224475	72.96
+1219083.7	Thermotoga elfii NBRC 107921	1123383	Complete	1	2169860	38.7
+1219084.8	Thermotoga hypogea NBRC 106472	1123384	Complete	1	2165165	49.5
+1223307.4	Streptomyces sp. PVA 94-07	1223307	Complete	3	7106149	73.05
+1223307.4	Streptomyces sp. PVA 94-07	1223307	Complete	3	7106149	73.05
+1232724.3	Mycobacterium indicus pranii MTCC 9506	1232724	Complete	1	5589007	68
+1246626.3	Bacillus lehensis G1	1246626	Complete	1	3993073	39.9
+1246995.3	Actinoplanes friuliensis DSM 7358	1246995	Complete	1	9376071	70.4
+1246995.3	Actinoplanes friuliensis DSM 7358	1246995	Complete	1	9376071	70.4
+1262449.8	Clostridium pasteurianum DSM 525 = ATCC 6013	1262449	Complete	1	4352101	29.94
+1280380.3	Synechococcus sp. KORDI-100	1280380	Complete	1	2789000	57.5
+1287878.3	Actinoplanes lutulentus strain CGMCC 4.7090	1287878	WGS	51	9887594	69.18792
+1288362.3	Actinoplanes sp. ATCC 53533	1288362	WGS	722	13273592	70.98435
+1300150.4	Enterococcus mundtii QU 25	1300150	Complete	6	3351060	38.3228
+1302863.3	Streptococcus oligofermentans AS 1.3089	1302863	Complete	1	2142100	42.1
+1303692.3	Streptomyces fulvissimus DSM 40593	1303692	Complete	1	7905758	71.5
+1304.173	Streptococcus salivarius strain NCTC 8618	1304	Complete	1	2188923	40.15
+1308.54	Streptococcus thermophilus strain S9	1308	Complete	1	1787436	39.1
+1314.192	Streptococcus pyogenes strain NGAS322	1314	Complete	1	1950469	38.32
+1316408.3	Streptococcus sp. HSISM1	1316408	Complete	1	2334592	41.4
+1316414.3	Enterococcus sp. HSIEG1	1316414	Complete	1	3447851	40.5
+1318633.3	Streptococcus iniae SF1	1318633	Complete	1	2149844	36.7
+1343740.8	Streptomyces rapamycinicus NRRL 5491	1343740	Complete	1	12700734	70.6
+1345695.3	Clostridium saccharobutylicum DSM 13864	1345695	Complete	1	5107814	28.7
+134676.15	Actinoplanes sp. SE50/110 strain ACP50	134676	Complete	1	9240166	71.32
+134676.3	Actinoplanes sp. SE50/110	134676	Complete	1	9239851	71.32
+134676.3	Actinoplanes sp. SE50/110	134676	Complete	1	9239851	71.32
+1348623.7	Bacillus megaterium NBRC 15308 = ATCC 14581	1348623	Complete	7	5746640	37.83
+1348663.4	Kitasatospora cheerisanensis KCTC 2395	1348663	WGS	178	8035179	73.5
+1352936.5	Streptomyces roseochromogenus subsp. oscitans DS 12.976	1352936	Complete	2	9782257	68.8
+1352941.4	Streptomyces niveus NCIMB 11891	1352941	Complete	5	8726876	69.44
+1354275.3	Mycobacterium vaccae 95051	1354275	Complete	1	6235754	68.59
+135735.6	Bacillus endophyticus strain Hbe603	135735	Complete	1	4865574	36.64
+135947.3	Actinoplanes awajinensis subsp. mycoplanecinus strain NRRL B-16712	135947	WGS	353	11392731	71.14
+1367477.3	Bacillus infantis NRRL B-14911	1367477	Complete	1	4884713	46
+137265.3	Asanoa ishikariensis strain DSM 44718	137265	WGS	11	9085759	70.78
+137265.3	Asanoa ishikariensis strain DSM 44718	137265	WGS	11	9085759	70.78
+1396.149	Bacillus cereus Al Hakam	1396	Complete	7	5676963	35.63
+1403539.3	Streptomyces lydicus A02	1403539	Complete	1	9300149	70.7
+1405.10	Bacillus mycoides ATCC 6462	1405	Complete	4	5637053	35.38
+1408.93	Bacillus pumilus strain NJ-M2	1408	Complete	1	3793419	41.3
+1408159.3	Thermotoga caldifontis AZM44c09	1408159	Complete	1	2014912	51.33
+1408160.3	Thermotoga profunda AZM34c06	1408160	Complete	1	2187612	38.8
+1412544.3	Salmonella enterica subsp. enterica serovar Enteritidis str. EC20120505	1412544	Complete	1	4685203	51.6
+1415541.3	Micromonospora sp. NRRL B-16802	1415541	WGS	142	6774213	70.9
+1415774.5	Clostridium botulinum 202F	1415774	Complete	2	3914604	27.43
+1415775.6	Clostridium baratii str. Sullivan	1415775	Complete	2	3338630	28.25
+1420897.3	Micromonospora sp. S4605	1420897	WGS	496	7512417	73.08532
+1432557.3	Escherichia coli ISC11	1432557	WGS	97	4976867	51.78
+1437453.6	Streptomyces leeuwenhoekii strain type strain (C34 = DSM 42122 = NRRL B-24963)	1437453	Complete	3	8122491	72.68
+1441095.3	Bacillus sp. FJAT-4402	1441095	Complete	1	4597707	40.44
+1444768.4	Kitasatospora sp. MBT63	1444768	WGS	847	9857127	72.9
+1449346.3	Kitasatospora azatica KCTC 9699	1449346	WGS	3	8272299	71.6
+1449347.3	Kitasatospora mediocidica KCTC 9733	1449347	WGS	7	8681761	71.9
+1450148.3	Micromonospora globispora strain S2901	1450148	WGS	795	6673183	71.69352
+1450149.3	Micromonospora sp. S2904	1450149	WGS	506	6579334	71.97131
+1454205.3	Moorea producens JHB1
+1458985.3	Moorea producens PAL-8-15-08-1
+1464048.3	Micromonospora parva strain NRRL B-2680	1464048	WGS	88	7127351	71.3
+146891.8	Prochlorococcus marinus str. AS9601	146891	Complete	1	1669886	31.32
+1479.5	Bacillus smithii strain DSM 4216	1479	Complete	2	3381292	40.75
+1479020.3	Verrucosispora sp. FIM060022	1479020	WGS	29	6426968	70.92794
+1479020.3	Verrucosispora sp. FIM060022	1479020	WGS	29	6426968	70.92794
+148814.16	Lactobacillus kunkeei strain MP2	148814	Complete	1	1614522	36.86
+1492.48	Clostridium butyricum strain KNU-L09	1492	Complete	2	4627894	28.74
+1494608.3	Arthrobacter sp. PAMC25486	1494608	Complete	1	4593579	62.79
+1501269.3	Prochlorococcus sp. MIT 0801	1501269	Complete	1	1929203	34.91
+1519.11	Clostridium tyrobutyricum strain KCTC 5387	1519	Complete	2	3134437	31.01
+1529886.3	Bacillus atrophaeus subsp. globigii strain BSS	1529886	Complete	1	4175060	43.2
+1530042.3	Micromonospora costi strain CS1-12	1530042	WGS	20	7182425	73.00156
+1538.8	Clostridium ljungdahlii strain DSM 13528	1538	Complete	1	4630065	23
+1538294.3	Micromonospora sp. HK10	1538294	WGS	256	6916919	73.35
+1545702.3	Lactobacillus sp. wkB8	1545702	Complete	2	1932531	36.71
+1545728.4	Mycobacterium sp. EPa45	1545728	Complete	1	6177406	66.35
+1565991.4	Bacillus sp. X1(2014)	1565991	Complete	1	3422674	38.13
+1581038.3	Bacillus sp. FJAT-22090	1581038	Complete	1	4215291	35.62
+1600.4	Lactobacillus acetotolerans strain NBRC 13120	1600	Complete	1	1704859	36.72
+160490.10	Streptococcus pyogenes M1 GAS	160490	Complete	1	1852441	38.5
+1612.27	Lactobacillus farciminis strain CNCM-I-3699-S	1612	Complete	3	2465324	35.32
+1618207.4	Arthrobacter sp. IHBB 11108	1618207	Complete	2	3599434	58.98
+1621261.3	Micromonospora sp. NBRC 110037	1621261	WGS	24	6795311	72.92
+1624.19	Lactobacillus salivarius JCM1046	1624	Complete	5	2320461	32.99
+1641402.3	Pseudonocardia sp. HH130629-09	1641402	Complete	2	6300975	73.49
+164756.15	Mycobacterium sp. MCS	164756	Complete	2	5920523	68.4
+164757.10	Mycobacterium sp. JLS	164757	Complete	1	6048425	68.4
+1655439.3	Jishengella sp. NA12	1655439	WGS	609	7306627	71.526054
+1655439.3	Jishengella sp. NA12	1655439	WGS	609	7306627	71.526054
+1661387.3	Micromonospora sp. RV43	1661387	WGS	376	8069233	72.46
+167539.5	Prochlorococcus marinus subsp. marinus str. CCMP1375	167539	Complete	1	1751080	36.4
+167542.7	Prochlorococcus marinus str. MIT 9515	167542	Complete	1	1704176	30.8
+167546.4	Prochlorococcus marinus str. MIT 9301	167546	Complete	1	1641879	31.3
+1690248.3	Arthrobacter sp. LS16	1690248	Complete	1	3851242	64.32
+170187.11	Streptococcus pneumoniae TIGR4	170187	Complete	1	2160842	39.7
+1703936.3	Micromonospora sp. TSRI0369	1703936	WGS	27	6969462	72.79
+1704044.3	Arthrobacter sp. ERGS1:01	1704044	Complete	3	4936686	65.37
+1705566.3	Bacillus sp. FJAT-18017	1705566	Complete	1	5265521	42.42
+1710355.3	Actinoplanes sp. TFC3	1710355	WGS	24	7752284	68.91
+1710356.3	Salmonella enterica subsp. salamae serovar 57:z29:z42	1710356	Complete	1	4719375	52.05
+171101.6	Streptococcus pneumoniae R6	171101	Complete	1	2038615	39.7
+1718947.3	Micromonospora sp. CB01531	1718947	WGS	148	9244015	71.49
+1725411.3	Streptomyces sp. CdTB01	1725411	Complete	2	10191567	71.53
+1736486.3	Kitasatospora sp. Root187	1736486	WGS	52	7494243	71.35
+1766.6	Mycobacterium fortuitum strain CT6	1766	Complete	1	6254616	66.22
+1768108.4	Deinococcus actinosclerus strain BM2	1768108	Complete	1	3264334	70.6
+1771.11	Mycobacterium phlei strain CCUG 21000	1771	Complete	1	5349645	69.44
+1771959.3	Arthrobacter sp. ATCC 21022	1771959	Complete	1	4434904	63.41
+1774.35	Mycobacterium chelonae strain ATCC 35752	1774	Complete	1	4898027	63.92
+1784.14	Mycobacterium simiae strain MO323	1784	Complete	1	5938797	66.28
+1869.4	Actinoplanes utahensis NRRL 12052	1869	WGS	141	9489843	71.16
+1874.5	Micromonospora chalcea strain DSM 43026	1874	WGS	186	7002789	72.7843
+1877.5	Micromonospora echinospora strain DSM 43816	1877	Complete	1	7775586	72.31
+1877.5	Micromonospora echinospora strain DSM 43816	1877	Complete	1	7775586	72.31
+1881.4	Micromonospora viridifaciens strain DSM 43909	1881	Complete	1	7073985	72.09
+1881.4	Micromonospora viridifaciens strain DSM 43909	1881	Complete	1	7073985	72.09
+1888.4	Streptomyces albus DSM 41398	1888	Complete	1	8384669	72.64
+1889.10	Streptomyces ambofaciens strain DSM 40697	1889	Complete	1	8137876	72.33
+1894969.3	Micromonospora globbae strain WPS1-2	1894969	WGS	96	7087181	73.177124
+1894970.3	Micromonospora sp. MS1-9	1894970	WGS	34	7069771	72.19132
+1894971.3	Jishengella sp. AZ1-13	1894971	WGS	83	5963223	71.89966
+1894971.3	Jishengella sp. AZ1-13	1894971	WGS	83	5963223	71.89966
+189918.11	Mycobacterium sp. KMS	189918	Complete	3	6256079	68.2
+1907.4	Streptomyces glaucescens GLA.O	1907	Complete	2	7623774	72.91
+1920666.3	Micromonospora sp. Rc5 strain Rc5	1920666	WGS	563	7720860	73.63
+1945509.3	Micromonospora sp. MH33	1945509	WGS	662	7683772	72.771645
+195102.6	Clostridium perfringens str. 13	195102	Complete	2	3085740	28.5
+195103.10	Clostridium perfringens ATCC 13124	195103	Complete	1	3256683	28.4
+195253.3	Synechococcus sp. PCC 6312	195253	Complete	2	3720499	48.5
+198094.11	Bacillus anthracis str. Ames	198094	Complete	1	5227293	35.4
+2024580.3	Plantactinospora sp. KBS50	2024580	Complete	1	6689726	72.91
+2024580.3	Plantactinospora sp. KBS50	2024580	Complete	1	6689726	72.91
+203119.11	Clostridium thermocellum ATCC 27405	203119	Complete	1	3843301	39
+2033844.3	Actinoplanes sp. SE50	2033844	Complete	1	9239482	71.32
+2033844.3	Actinoplanes sp. SE50	2033844	Complete	1	9239482	71.32
+2035244.4	Micromonospora sp. CNZ299	2035244	WGS	1	7178201	71.1
+2035246.4	Plantactinospora sp. CNZ320	2035246	WGS	2	8072677	71.47
+2035246.4	Plantactinospora sp. CNZ320	2035246	WGS	2	8072677	71.47
+2035247.4	Micromonospora sp. CNZ309	2035247	WGS	1	7274739	73.26
+2035249.4	Verrucosispora sp. CNZ293	2035249	WGS	1	6585081	70.96
+2035249.4	Verrucosispora sp. CNZ293	2035249	WGS	1	6585081	70.96
+2039870.3	Micromonospora sp. WMMA2032	2039870	Complete	1	6483419	73.66
+2039870.3	Micromonospora sp. WMMA2032	2039870	Complete	1	6483419	73.66
+2039878.3	Micromonospora sp. WMMA1996	2039878	WGS	10	6444826	73.76
+2064.6	Kitasatospora griseola strain MF730-N6	2064	WGS	8	7966157	72.73
+2069341.3	Verrucosispora sp. ts21	2069341	WGS	230	6764973	70.62086
+2069341.3	Verrucosispora sp. ts21	2069341	WGS	230	6764973	70.62086
+2071627.3	Plantactinospora sp. BB1	2071627	Complete	1	8386853	72.39976
+2071627.3	Plantactinospora sp. BB1	2071627	Complete	1	8386853	72.39976
+208435.3	Streptococcus agalactiae 2603V/R	208435	Complete	1	2160267	35.6
+208439.3	Amycolatopsis japonica strain MG417-CF17 (=DSM 44213)	208439	Complete	2	9053857	68.8928
+209261.6	Salmonella enterica subsp. enterica serovar Typhi str. Ty2	209261	Complete	1	4791961	52.1
+2094022.3	Micromonospora sp. MW13	2094022	WGS	152	7086037	73.283165
+2108470.3	Plantactinospora sp. BC1	2108470	Complete	1	8333965	72.3833
+2108470.3	Plantactinospora sp. BC1	2108470	Complete	1	8333965	72.3833
+2116518.3	Micromonospora arborensis strain NRRL 8041	2116518	WGS	203	7299236	70.931755
+212717.8	Clostridium tetani E88	212717	Complete	2	2873333	28.6
+2135446.3	Micromonospora sp. RP3T	2135446	WGS	174	7134265	72.98395
+216594.6	Mycobacterium marinum M	216594	Complete	2	6660144	65.7
+2172006.3	Micromonospora sp. LB19	2172006	WGS	440	7270680	70.88186
+2175620.3	Curtobacterium sp. MCLR17_036	2175620	WGS	96	3465431	71.885735
+2175632.3	Curtobacterium sp. MCLR17_054	2175632	WGS	52	3927711	70.863976
+2175635.3	Curtobacterium sp. MCLR17_058	2175635	WGS	42	3800007	71.02929
+2175640.3	Curtobacterium sp. MCPF17_051	2175640	WGS	36	3558624	71.00888
+2175645.3	Curtobacterium sp. MCPF17_002	2175645	WGS	45	3805790	71.09439
+2175646.3	Curtobacterium sp. MCSS17_007	2175646	WGS	24	3292762	71.6937
+2175648.3	Curtobacterium sp. MCLR17_007	2175648	WGS	47	3782799	71.05379
+2175655.3	Curtobacterium sp. MCPF17_052	2175655	WGS	31	3539297	70.99167
+2175658.3	Curtobacterium sp. MCBD17_029	2175658	WGS	28	3285849	71.71851
+2175666.3	Curtobacterium sp. MCSS17_015	2175666	WGS	14	3308246	71.3235
+2175670.3	Curtobacterium sp. MCBD17_028	2175670	WGS	34	3462573	71.79418
+2175674.3	Curtobacterium sp. MCBD17_040	2175674	WGS	53	3975065	71.04264
+218493.5	Salmonella bongori NCTC 12419	218493	Complete	1	4460105	52
+218495.5	Streptococcus uberis 0140J	218495	Complete	1	1852352	36.6
+2201999.3	Micromonospora sp. B006	2201999	Complete	1	7040153	72.7996
+2201999.3	Micromonospora sp. B006	2201999	Complete	1	7040153	72.7996
+2202420.4	Micromonospora sp. 4G51	2202420	WGS	541	7881248	72.022194
+2202421.3	Micromonospora sp. 5R2A7	2202421	WGS	369	6509818	72.30489
+220341.7	Salmonella enterica subsp. enterica serovar Typhi str. CT18	220341	Complete	3	5133713	51.9
+2203715.3	Micromonospora sp. LB32	2203715	WGS	345	7149450	71.03878
+2203716.3	Micromonospora sp. LB39	2203716	WGS	408	7748575	70.58747
+2203717.3	Micromonospora sp. LB41	2203717	WGS	339	6771505	72.86172
+220668.9	Lactobacillus plantarum WCFS1	220668	Complete	4	3348625	44.4
+224013.5	Nostoc piscinale CENA21	224013	Complete	1	7094556	40.54
+224308.179	Bacillus subtilis subsp. subtilis str. 168	224308	Complete	1	4215619	43.51
+224308.43	Bacillus subtilis subsp. subtilis str. 168	224308	Complete	1	4215606	43.5
+224324.8	Aquifex aeolicus VF5	224324	Complete	2	1590791	43.3
+224324.8	Aquifex aeolicus VF5	224324	Complete	2	1590791	43.3
+2248752.3	Micromonospora sp. LHW51205	2248752	WGS	24	6677882	73.00191
+226185.9	Enterococcus faecalis V583	226185	Complete	4	3359974	37.4
+226186.12	Bacteroides thetaiotaomicron VPI-5482	226186	Complete	2	6293399	42.9
+226900.8	Bacillus cereus ATCC 14579	226900	Complete	2	5427083	35.3
+227882.9	Streptomyces avermitilis MA-4680	227882	Complete	2	9119895	70.7
+2282290.3	Micromonospora sp. NGC1-4	2282290	WGS	28	7058875	72.185905
+2294034.3	Verrucosispora sp. LHW63014	2294034	WGS	183	6714237	71.015274
+2294034.3	Verrucosispora sp. LHW63014	2294034	WGS	183	6714237	71.015274
+230091.4	Micromonospora endolithica strain JCM 12677	230091	WGS	40	6971005	72.47823
+243160.12	Burkholderia mallei ATCC 23344	243160	Complete	2	5835527	68.5
+243230.17	Deinococcus radiodurans R1	243230	Complete	4	3284156	66.6
+243230.17	Deinococcus radiodurans R1	243230	Complete	4	3284156	66.6
+243274.17	Thermotoga maritima MSB8	243274	Complete	1	1869612	46.25
+243274.5	Thermotoga maritima MSB8	243274	Complete	1	1860725	46.2
+243277.26	Vibrio cholerae O1 biovar El Tor str. N16961	243277	Complete	2	4033464	47.5
+243277.26	Vibrio cholerae O1 biovar El Tor str. N16961	243277	Complete	2	4033464	47.5
+246198.10	Prevotella intermedia 17	246198	Complete	2	2699437	43.48
+246787.4	Bacteroides cellulosilyticus strain WH2	246787	Complete	1	7084828	42.7
+2478709.3	Micromonospora sp. BL-1	2478709	WGS	422	6463112	72.944786
+2478710.3	Micromonospora sp. BL-4	2478710	WGS	283	6413259	72.206566
+2478711.3	Micromonospora sp. CV-4	2478711	WGS	454	6368040	72.15083
+2485143.3	Micromonospora sp. Llam0	2485143	WGS	2	8899775	70.6299
+2486853.3	Actinoplanes sp. LAM7112	2486853	WGS	129	10124196	70.01338
+2487138.3	Micromonospora sp. PPF5-17	2487138	WGS	227	5908624	73.12809
+2487710.3	Micromonospora sp. HM5-17	2487710	WGS	51	6173543	72.38277
+251221.4	Gloeobacter violaceus PCC 7421	251221	Complete	1	4659019	62
+251221.4	Gloeobacter violaceus PCC 7421	251221	Complete	1	4659019	62
+257314.6	Lactobacillus johnsonii NCC 533	257314	Complete	1	1992676	34.6
+258052.3	Kitasatospora arboriphila strain NRRL B-24581	258052	WGS	45	5748041	64.5
+260799.14	Bacillus anthracis str. Sterne	260799	Complete	1	5228663	35.4
+261594.21	Bacillus anthracis str. 'Ames Ancestor'	261594	Complete	3	5503926	35.2
+261654.4	Micromonospora auratinigra strain DSM 44815	261654	Complete	1	6758600	73.62
+261654.4	Micromonospora auratinigra strain DSM 44815	261654	Complete	1	6758600	73.62
+262316.17	Mycobacterium avium subsp. paratuberculosis K-10	262316	Complete	1	4829781	69.3
+263358.5	Verrucosispora maris AB-18-032	263358	Complete	2	6732271	70.85
+263358.5	Verrucosispora maris AB-18-032	263358	Complete	2	6732271	70.85
+264199.4	Streptococcus thermophilus LMG 18311	264199	Complete	1	1796846	39.1
+264731.4	Prevotella ruminicola 23	264731	Complete	1	3619559	47.7
+266117.10	Rubrobacter xylanophilus DSM 9941	266117	Complete	1	3225748	70.5
+266117.10	Rubrobacter xylanophilus DSM 9941	266117	Complete	1	3225748	70.5
+266834.11	Sinorhizobium meliloti 1021	266834	Complete	3	6691694	62.2
+269084.6	Synechococcus elongatus PCC 6301	269084	Complete	1	2696255	55.5
+269084.6	Synechococcus elongatus PCC 6301	269084	Complete	1	2696255	55.5
+272558.8	Bacillus halodurans C-125	272558	Complete	1	4202352	43.7
+272559.17	Bacteroides fragilis NCTC 9343 strain ATCC 25285	272559	Complete	2	5241700	43.1
+272560.6	Burkholderia pseudomallei K96243	272560	Complete	2	7247547	68.1
+272562.8	Clostridium acetobutylicum ATCC 824	272562	Complete	2	4132880	30.9
+272563.8	Clostridium difficile 630	272563	Complete	2	4298133	29.1
+272621.13	Lactobacillus acidophilus NCFM	272621	Complete	1	1993560	34.7
+278137.3	Mycobacterium gilvum Spyr1	278137	Complete	3	5783292	67.76
+279010.13	Bacillus licheniformis DSM 13 = ATCC 14580	279010	Complete	1	4222597	46.2
+28072.8	Nostoc sp. PCC 7524	28072	Complete	3	6718869	41.53
+28116.7	Bacteroides ovatus strain ATCC 8483	28116	Complete	1	6472489	41.88
+281309.8	Bacillus thuringiensis serovar konkukian str. 97-27	281309	Complete	2	5314794	35.4
+285665.4	Micromonospora coriariae strain DSM 44875	285665	Complete	1	6929787	71.76
+285665.4	Micromonospora coriariae strain DSM 44875	285665	Complete	1	6929787	71.76
+285676.39	Micromonospora saelicesensis strain PSN13	285676	WGS	41	7378898	71.07345
+290340.10	Arthrobacter aurescens TC1	290340	Complete	3	5226648	62.4
+290340.10	Arthrobacter aurescens TC1	290340	Complete	3	5226648	62.4
+290399.4	Arthrobacter sp. FB24	290399	Complete	4	5070478	65.4
+290402.41	Clostridium beijerinckii NCIMB 8052	290402	Complete	1	6000632	29.9
+291594.5	Micromonospora rifamycinica strain DSM 44983	291594	Complete	1	7011369	72.99
+291594.5	Micromonospora rifamycinica strain DSM 44983	291594	Complete	1	7011369	72.99
+295405.11	Bacteroides fragilis YCH46	295405	Complete	2	5310990	43.2
+298653.7	Frankia sp. EAN1pec	298653	Complete	1	8982042	71.2
+298653.7	Frankia sp. EAN1pec	298653	Complete	1	8982042	71.2
+298654.4	Frankia sp. EuI1c	298654	Complete	1	8815781	72.3
+299146.4	Micromonospora narathiwatensis strain DSM 45248	299146	Complete	1	6612057	72.59
+299146.4	Micromonospora narathiwatensis strain DSM 45248	299146	Complete	1	6612057	72.59
+299152.5	Micromonospora siamensis strain DSM 45097	299152	Complete	1	6250219	73.2
+299152.5	Micromonospora siamensis strain DSM 45097	299152	Complete	1	6250219	73.2
+307121.4	Micromonospora krabiensis strain DSM 45344	307121	Complete	1	7074838	72.81
+307121.4	Micromonospora krabiensis strain DSM 45344	307121	Complete	1	7074838	72.81
+309803.4	Thermotoga neapolitana DSM 4359	309803	Complete	1	1884562	46.9
+312309.11	Vibrio fischeri ES114	312309	Complete	3	4273718	38.3
+314315.12	Lactobacillus sakei subsp. sakei 23K	314315	Complete	1	1884661	41.3
+315730.11	Bacillus weihenstephanensis KBAB4	315730	Complete	5	5872743	35.5
+315749.8	Bacillus cytotoxicus NVH 391-98	315749	Complete	2	4094159	35.9
+315750.8	Bacillus pumilus SAFR-032	315750	Complete	1	3704465	41.3
+316278.4	Synechococcus sp. RCC307	316278	Complete	1	2224914	60.8
+316279.6	Synechococcus sp. CC9902	316279	Complete	1	2234828	54.2
+317936.3	Nostoc sp. PCC 7107	317936	Complete	1	6329823	40.36
+319795.16	Deinococcus geothermalis DSM 11300	319795	Complete	3	3247018	66.5
+32049.15	Synechococcus sp. PCC 7002	32049	Complete	7	3409935	49.2
+32051.5	Synechococcus sp. WH 7803	32051	Complete	1	2366980	60.2
+321327.21	Synechococcus sp. JA-3-3Ab	321327	Complete	1	2932766	60.2
+321332.11	Synechococcus sp. JA-2-3B'a(2-13)	321332	Complete	1	3046682	58.5
+321967.11	Lactobacillus casei ATCC 334	321967	Complete	2	2924325	46.6
+324831.13	Lactobacillus gasseri ATCC 33323	324831	Complete	1	1894360	35.3
+326423.5	Bacillus amyloliquefaciens FZB42	326423	Complete	1	3918589	46.5
+326424.15	Frankia alni ACN14a	326424	Complete	1	7497934	72.8
+326425.4	Lactobacillus helveticus CNRZ32	326425	Complete	1	2225962	36.9
+331272.8	Burkholderia cenocepacia HI2424	331272	Complete	4	7702840	66.8
+334390.5	Lactobacillus fermentum IFO 3956	334390	Complete	1	2098685	51.5
+334390.5	Lactobacillus fermentum IFO 3956	334390	Complete	1	2098685	51.5
+33876.3	Catenuloplanes japonicus strain NRRL B-16061	33876	WGS	133	10971538	71.6
+33876.3	Catenuloplanes japonicus strain NRRL B-16061	33876	WGS	133	10971538	71.6
+347254.3	Streptococcus salivarius CCHSS3	1048332	Complete	1	2217184	39.87
+350058.8	Mycobacterium vanbaalenii PYR-1	350058	Complete	1	6491865	67.8
+356851.6	Micromonospora chokoriensis strain DSM 45160	356851	Complete	1	6897819	71.46
+356851.6	Micromonospora chokoriensis strain DSM 45160	356851	Complete	1	6897819	71.46
+356852.4	Micromonospora coxensis strain DSM 45161	356852	Complete	1	6769793	73.58
+356852.4	Micromonospora coxensis strain DSM 45161	356852	Complete	1	6769793	73.58
+357809.8	Clostridium phytofermentans ISDg	357809	Complete	1	4847594	35.3
+362242.7	Mycobacterium ulcerans Agy99	362242	Complete	2	5805761	65.4
+362257.4	Streptomyces vietnamensis GIM4.0001	362257	Complete	2	9153777	71.99
+362948.14	Lactobacillus salivarius UCC118	362948	Complete	4	2133977	33
+365659.3	Streptococcus mitis B6	365659	Complete	1	2146611	40
+366394.8	Sinorhizobium medicae WSM419	366394	Complete	4	6817576	61.1
+38300.4	Streptomyces pristinaespiralis strain HCCB 10218	38300	Complete	1	8532592	71.54
+386415.7	Clostridium novyi NT	386415	Complete	1	2547720	28.9
+387344.15	Lactobacillus brevis ATCC 367	387344	Complete	3	2340228	46.1
+388919.9	Streptococcus sanguinis SK36	388919	Complete	1	2388435	43.4
+390333.7	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842	390333	Complete	1	1864998	49.7
+390874.12	Thermotoga petrophila RKU-1	390874	Complete	1	1823511	46.1
+390989.3	Actinocatenispora sera strain NRRL B-24477	390989	WGS	78	6947236	72.7
+390989.3	Actinocatenispora sera strain NRRL B-24477	390989	WGS	78	6947236	72.7
+391295.8	Streptococcus suis 05ZYH33	391295	Complete	1	2096309	41.1
+394.7	Sinorhizobium fredii NGR234	394	Complete	3	6891900	62.4
+394.7	Sinorhizobium fredii NGR234	394	Complete	3	6891900	62.4
+394503.7	Clostridium cellulolyticum H10	394503	Complete	1	4068724	37.4
+398511.4	Bacillus pseudofirmus OF4	398511	Complete	3	4249248	39.9
+40041.11	Streptococcus equi subsp. zooepidemicus strain H70	40041	Complete	1	2149868	41.5
+40318.3	Streptomyces nodosus ATCC 14899	40318	Complete	1	7714110	70.8
+405566.6	Lactobacillus helveticus DPC 4571	405566	Complete	1	2080931	37.1
+408015.6	Streptomyces xiamenensis strain MCCC 1A01550	408015	Complete	1	5961401	72.02
+413999.7	Clostridium botulinum A str. ATCC 3502	413999	Complete	2	3903260	28.2
+41514.7	Salmonella enterica subsp. arizonae serovar 62:z4,z23:- strain RSK2980	41514	Complete	1	4600800	51.4
+416591.5	Thermotoga lettingae TMO	416591	Complete	1	2135342	38.7
+42256.3	Rubrobacter radiotolerans strain RSPS-4	42256	Complete	4	3267233	66.7537
+431943.8	Clostridium kluyveri DSM 555	431943	Complete	2	4023800	32
+435590.9	Bacteroides vulgatus ATCC 8482	435590	Complete	1	5163189	42.2
+435590.9	Bacteroides vulgatus ATCC 8482	435590	Complete	1	5163189	42.2
+435591.13	Parabacteroides distasonis ATCC 8503	435591	Complete	1	4811379	45.1
+439292.5	Bacillus selenitireducens MLS10	439292	Complete	1	3592487	48.6
+439699.3	Pseudosporangium ferrugineum strain DSM 45348	439699	WGS	92	8653585	72.49034
+439699.3	Pseudosporangium ferrugineum strain DSM 45348	439699	WGS	92	8653585	72.49034
+44008.19	Enterococcus cecorum strain SA3	44008	Complete	1	2320599	35.98
+441771.6	Clostridium botulinum A str. Hall	441771	Complete	1	3760560	28.2
+444103.5	Streptomyces sp. CNQ-509	444103	Complete	1	8039333	73.07
+449447.4	Microcystis aeruginosa NIES-843	449447	Complete	1	5842795	42.3
+449447.4	Microcystis aeruginosa NIES-843	449447	Complete	1	5842795	42.3
+452652.3	Kitasatospora setae KM-6054	452652	Complete	1	8783278	73.1
+452652.3	Kitasatospora setae KM-6054	452652	Complete	1	8783278	73.1
+452863.6	Arthrobacter chlorophenolicus A6	452863	Complete	3	4980870	66
+455632.4	Streptomyces griseus subsp. griseus NBRC 13350	455632	Complete	1	8545929	72.2
+455632.4	Streptomyces griseus subsp. griseus NBRC 13350	455632	Complete	1	8545929	72.2
+457406.3	Micromonospora sp. M42	457406	WGS	288	6612018	72.6
+457423.5	Actinoplanes teichomyceticus ATCC 31121	457423	Complete	1	8287152	72.748344
+457423.5	Actinoplanes teichomyceticus ATCC 31121	457423	Complete	1	8287152	72.748344
+457425.27	Streptomyces albus J1074	457425	Complete	1	6841649	73.32
+467705.9	Streptococcus gordonii str. Challis substr. CH1	467705	Complete	1	2196662	40.5
+477245.3	Streptomyces cyaneogriseus subsp. noncyanogenus strain NMWT 1	477245	Complete	1	7762396	72.86
+47850.4	Micromonospora aurantiaca strain 110B(2018) strain 110B(2018) strain 110B(2018)	47850	Complete	1	7255264	72.77093
+47850.4	Micromonospora aurantiaca strain 110B(2018) strain 110B(2018) strain 110B(2018)	47850	Complete	1	7255264	72.77093
+47853.6	Micromonospora carbonacea strain JXNU-1	47853	WGS	3	7626891	73.86
+47854.6	Micromonospora chersina strain DSM 44151	47854	WGS	2	6683691	73.57
+47855.4	Micromonospora citrea strain DSM 43903	47855	WGS	2	7208999	73.82
+47857.4	Micromonospora echinaurantiaca strain DSM 43904	47857	Complete	1	7203233	73.2
+47857.4	Micromonospora echinaurantiaca strain DSM 43904	47857	Complete	1	7203233	73.2
+47858.4	Micromonospora echinofusca strain DSM 43913	47858	Complete	1	7002627	73.31
+47858.4	Micromonospora echinofusca strain DSM 43913	47858	Complete	1	7002627	73.31
+47863.3	Micromonospora globosa strain NRRL B-2673	47863	WGS	121	6862505	73
+47864.4	Micromonospora halophytica strain DSM 43171	47864	WGS	64	6275885	72.94
+47865.5	Micromonospora inositola strain DSM 43819	47865	Complete	1	6708094	72.21
+47865.5	Micromonospora inositola strain DSM 43819	47865	Complete	1	6708094	72.21
+47866.4	Micromonospora inyonensis strain DSM 46123	47866	WGS	4	6923970	71.88
+47871.4	Micromonospora peucetia strain DSM 43363	47871	WGS	2	7365767	72.28
+47872.5	Micromonospora purpureochromogenes strain DSM 43821	47872	Complete	1	6674234	72.98
+47872.5	Micromonospora purpureochromogenes strain DSM 43821	47872	Complete	1	6674234	72.98
+47874.4	Micromonospora rosaria strain DSM 803	47874	WGS	310	7383286	73.38
+479978.7	Micromonospora tulbaghiae strain CNY-010	479978	Complete	1	7228472	72.53052
+479978.7	Micromonospora tulbaghiae strain CNY-010	479978	Complete	1	7228472	72.53052
+486410.3	Streptococcus dysgalactiae subsp. equisimilis GGS_124	486410	Complete	1	2106340	39.6
+487521.10	Mycobacterium intracellulare ATCC 13950	487521	Complete	1	5402402	68.1
+499177.3	Clostridium sticklandii DSM 519	499177	Complete	1	2715461	33.3
+502347.3	Escherichia albertii TW07627	502347	WGS	43	4746590	49.9
+508765.6	Clostridium botulinum B str. Eklund 17B	935198	Complete	2	3847969	27.5
+511145.12	Escherichia coli str. K-12 substr. MG1655	511145	Complete	1	4639675	50.8
+511437.3	Lactobacillus buchneri NRRL B-30929	511437	Complete	4	2588309	44.23
+511691.3	Streptococcus mutans NN2025	511691	Complete	1	2013587	36.85
+512350.3	Actinoplanes xinjiangensis strain DSM 45184	512350	WGS	86	10797414	70.74683
+512565.3	Actinoplanes missouriensis 431	512565	Complete	1	8773466	70.8
+512565.3	Actinoplanes missouriensis 431	512565	Complete	1	8773466	70.8
+515350.8	Jishengella endophytica strain 202201	515350	WGS	32	6675835	73.00354
+515350.8	Jishengella endophytica strain 202201	515350	WGS	32	6675835	73.00354
+515350.9	Jishengella endophytica strain JCM 18317	515350	WGS	148	6538017	70.912926
+52697.3	Actinoplanes regularis strain DSM 43151	52697	WGS	76	10031706	70.34
+529122.4	Bacillus thuringiensis YBT-1518	529122	Complete	6	6655215	35.2915
+53345.7	Enterococcus durans strain KLDS6.0930	53345	Complete	3	3071879	37.83
+53366.3	Catellatospora citrea strain DSM 44097	53366	WGS	4	9327955	71.517426
+53367.5	Asanoa ferruginea strain DSM 44099	53367	WGS	1	9071909	70.8481
+53367.5	Asanoa ferruginea strain DSM 44099	53367	WGS	1	9071909	70.8481
+53371.3	Pilimelia anulata strain NRRL B-3741	53371	WGS	81	6980005	69.9
+53371.3	Pilimelia anulata strain NRRL B-3741	53371	WGS	81	6980005	69.9
+543632.4	Actinoplanes subtropicus strain NRRL B-24665	543632	WGS	216	11257336	71.2
+545693.3	Bacillus megaterium QM B1551	545693	Complete	8	5522942	37.9
+546414.3	Deinococcus deserti VCD115	546414	Complete	4	3855329	63
+547162.3	Verrucosispora sediminis strain CGMCC 4.3550	547162	WGS	34	6407610	70.97
+547162.3	Verrucosispora sediminis strain CGMCC 4.3550	547162	WGS	34	6407610	70.97
+552526.8	Streptococcus equi subsp. zooepidemicus MGCS10565	552526	Complete	1	2024171	41.8
+553174.6	Prevotella melaninogenica ATCC 25845	553174	Complete	2	3168282	41
+557436.4	Lactobacillus reuteri DSM 20016	557436	Complete	1	1999618	38.9
+560556.3	Asanoa hainanensis strain CGMCC 4.5593	560556	WGS	44	8644972	71.19
+560556.3	Asanoa hainanensis strain CGMCC 4.5593	560556	WGS	44	8644972	71.19
+56427.3	Couchioplanes caeruleus subsp. caeruleus strain DSM 43634	56427	WGS	598	8360800	71.09
+56427.3	Couchioplanes caeruleus subsp. caeruleus strain DSM 43634	56427	WGS	598	8360800	71.09
+56438.3	Couchioplanes caeruleus strain DSM 43634	56438	WGS	2	8428293	71.07413
+56438.3	Couchioplanes caeruleus strain DSM 43634	56438	WGS	2	8428293	71.07413
+568701.4	Moorea bouillonii PNG5-198
+568703.9	Lactobacillus rhamnosus GG	568703	Complete	1	3010111	46.7
+568814.3	Streptococcus suis BM407	568814	Complete	2	2170808	41
+568872.4	Micromonospora rhizosphaerae strain DSM 45431	568872	WGS	3	7181580	71.61
+572418.5	Mycobacterium africanum GM041182	572418	Complete	1	4389314	65.59
+573061.5	Clostridium cellulovorans 743B	573061	Complete	1	5262222	31
+585054.5	Escherichia fergusonii ATCC 35469	585054	Complete	2	4643861	49.9
+585423.3	Synechococcus sp. KORDI-49	585423	Complete	1	2585813	61.4
+585425.3	Synechococcus sp. KORDI-52	585425	Complete	1	2572069	59.1
+589240.3	Micromonospora pisi strain DSM 45175	589240	WGS	1	8739867	70.15727
+591167.6	Streptomyces flavogriseus ATCC 33331	591167	Complete	3	7656104	71
+591365.3	Streptococcus intermedius JTH08	591365	Complete	1	1933610	29.3
+592022.4	Bacillus megaterium DSM 319	592022	Complete	1	5097447	38.1
+592872.3	Micromonospora sp. M71_S20	592872	WGS	5	7811463	73.19408
+59310.6	Streptococcus macedonicus ACA-DC 198	1116231	Complete	1	2130034	37.63
+59374.5	Fibrobacter succinogenes subsp. succinogenes S85	59374	Complete	1	3842635	48.1
+59374.5	Fibrobacter succinogenes subsp. succinogenes S85	59374	Complete	1	3842635	48.1
+59374.8	Fibrobacter succinogenes subsp. succinogenes S85 (Prj:47)	59374	Complete	1	3843004	48.05
+59919.7	Prochlorococcus marinus subsp. pastoris str. CCMP1986	59919	Complete	1	1657990	30.8
+59920.5	Prochlorococcus marinus str. NATL2A	59920	Complete	1	1842899	35.1
+610130.3	Clostridium saccharolyticum WM1	610130	Complete	1	4662871	28
+63737.11	Nostoc punctiforme PCC 73102	63737	Complete	6	9059191	41.4
+63737.11	Nostoc punctiforme PCC 73102	63737	Complete	6	9059191	41.4
+637909.5	Streptococcus gallolyticus UCN34	637909	Complete	1	2350911	37.6
+637971.3	Lactobacillus koreensis strain 26-25	637971	Complete	1	3006812	49.23
+644283.4	Micromonospora aurantiaca ATCC 27029	644283	Complete	1	7025559	72.9
+644283.4	Micromonospora aurantiaca ATCC 27029	644283	Complete	1	7025559	72.9
+64471.13	Synechococcus sp. CC9311	64471	Complete	1	2606748	52.4
+648999.4	Micromonospora sp. L5	648999	Complete	1	6962533	72.9
+648999.4	Micromonospora sp. L5	648999	Complete	1	6962533	72.9
+649639.5	Bacillus cellulosilyticus DSM 2522	649639	Complete	1	4681672	36.3
+649831.3	Actinoplanes sp. N902-109	649831	Complete	1	9228054	71.3
+649831.3	Actinoplanes sp. N902-109	649831	Complete	1	9228054	71.3
+657309.4	Bacteroides xylanisolvens XB1A	657309	Complete	1	5976145	40.67
+657310.3	Enterococcus sp. 7L76	657310	Complete	1	3096657	35.39
+66692.6	Bacillus clausii KSM-K16	66692	Complete	1	4303871	44.8
+667015.3	Bacteroides salanitronis DSM 18170 strain DSM 18179	667015	Complete	4	4308663	46.49
+675635.11	Pseudonocardia dioxanivorans CB1190	675635	Complete	3	7303989	73.22
+675635.11	Pseudonocardia dioxanivorans CB1190	675635	Complete	3	7303989	73.22
+683228.4	Micromonospora yangpuensis strain DSM 45577	683228	WGS	2	6524299	72.02
+68570.5	Streptomyces albulus strain NK660	68570	Complete	2	9372401	72.32
+686309.4	Micromonospora haikouensis strain DSM 45626	686309	WGS	97	7581395	73.73
+688269.3	Thermotoga thermarum DSM 5069	688269	Complete	1	2039943	40.32
+692420.6	Bacillus amyloliquefaciens DSM 7	692420	Complete	1	3980199	46.08
+693977.3	Deinococcus proteolyticus MRP	693977	Complete	5	2886836	65.64
+693979.3	Bacteroides helcogenes P 36-108	693979	Complete	1	3998906	44.7
+695560.3	Lactobacillus amylovorus GRL 1112	695560	Complete	1	2067702	38.2
+709876.10	Micromonospora noduli strain MED15	709876	WGS	43	7230291	71.07028
+709881.3	Micromonospora cremea strain DSM 45599	709881	WGS	2	7759667	71.47
+709883.12	Micromonospora zamorensis strain DSM 45600	709883	Complete	1	7096032	71.2
+709883.12	Micromonospora zamorensis strain DSM 45600	709883	Complete	1	7096032	71.2
+709986.3	Deinococcus maricopensis DSM 21211	709986	Complete	1	3498530	69.83
+710111.3	Frankia sp. QA3	710111	Complete	1	7590853	72.48
+710421.3	Mycobacterium chubuense NBB4	710421	Complete	3	6342624	37.7
+710685.3	Mycobacterium rhodesiae NBB3	710685	Complete	1	6415739	65.49
+710686.3	Mycobacterium smegmatis JS623	212767	Complete	3	7057652	65.08
+712938.3	Lactobacillus fermentum CECT 5716	712938	Complete	1	2100449	51.4
+713604.12	Amycolatopsis mediterranei S699	713604	Complete	1	10246920	71.29
+713604.4	Amycolatopsis mediterranei S699	713604	Complete	1	10236779	71.29
+714313.3	Lactobacillus sanfranciscensis TMW 1.1304	714313	Complete	3	1375770	34.85
+717608.3	Clostridium cf. saccharolyticum K10	717608	Complete	1	3769775	48.13
+720554.3	Clostridium clariflavum DSM 19732	720554	Complete	1	4897678	35.72
+720555.4	Bacillus atrophaeus 1942	720555	Complete	1	4168266	43.22
+745366.4	Micromonospora humi strain DSM 45647	745366	WGS	37	6662588	73.56
+74546.5	Prochlorococcus marinus str. MIT 9312	74546	Complete	1	1709204	31.2
+74546.5	Prochlorococcus marinus str. MIT 9312	74546	Complete	1	1709204	31.2
+74547.5	Prochlorococcus marinus str. MIT 9313	74547	Complete	1	2410873	50.7
+745776.4	Deinococcus gobiensis I-0	745776	Complete	7	4406036	69.1514
+748671.3	Lactobacillus crispatus ST1	748671	Complete	1	2043161	36.88
+749414.3	Streptomyces bingchenggensis BCW-1	749414	Complete	1	11936683	70.75
+749414.3	Streptomyces bingchenggensis BCW-1	749414	Complete	1	11936683	70.75
+759913.3	Streptococcus dysgalactiae subsp. equisimilis AC-2713	759913	Complete	1	2179445	39.52
+76123.5	Prevotella enoeca strain F0113	76123	Complete	1	2861432	46.47
+767031.3	Prevotella denticola F0289	767031	Complete	1	2937589	50.36
+767031.3	Prevotella denticola F0289	767031	Complete	1	2937589	50.36
+768486.3	Enterococcus hirae ATCC 9790	768486	Complete	2	2856440	36.8638
+78331.5	Mycobacterium canettii CIPT 140010059	1048245	Complete	1	4482059	65.62
+796606.3	Bacillus methanolicus MGA3	796606	Complete	3	3425208	38.6304
+83332.12	Mycobacterium tuberculosis H37Rv	83332	Complete	1	4411532	65.6
+84022.6	Clostridium aceticum strain DSM 1496	84022	Complete	2	4207037	35.28
+84588.4	Synechococcus sp. WH 8102	84588	Complete	1	2434428	59.4
+861360.3	Arthrobacter arilaitensis Re117	861360	Complete	2	3909664	59.28
+862751.12	Streptomyces sp. SirexAA-E	862751	Complete	1	7414440	71.75
+862967.3	Streptococcus intermedius B196	862967	Complete	1	1996214	37.6
+862969.3	Streptococcus constellatus subsp. pharyngis C1050	862969	Complete	1	1991156	38.1
+862971.3	Streptococcus anginosus C238	862971	Complete	1	2233640	38.2
+86416.3	Clostridium pasteurianum BC1	86416	Complete	2	5044100	30.582
+86662.17	Bacillus weihenstephanensis strain WSBC 10204	86662	Complete	1	5608349	35.24
+875328.3	Mycobacterium sp. JDM601	875328	Complete	1	4643668	68.37
+891391.3	Lactobacillus acidophilus 30SC	891391	Complete	3	2097766	38.13
+908937.9	Prevotella dentalis DSM 3688	908937	Complete	4	3350206	55.85
+927666.3	Streptococcus oralis Uo5	927666	Complete	1	1958690	41.14
+929506.3	Clostridium botulinum BKT015925	929506	Complete	6	3207592	28.23
+930171.3	Arthrobacter phenanthrenivorans Sphe3	930171	Complete	3	4535320	65.7
+93059.6	Prochlorococcus marinus str. MIT 9211	93059	Complete	1	1688963	38
+93060.4	Prochlorococcus marinus str. MIT 9215	93060	Complete	1	1738790	31.1
+931276.5	Clostridium saccharoperbutylacetonicum N1-4(HMT) strain N1-4(HMT)	931276	Complete	2	6666445	29.498
+936154.3	Streptococcus parauberis KCTC 11537	936154	Complete	1	2143887	35.55
+937777.3	Deinococcus peraridilitoris DSM 19664	937777	Complete	3	4513714	63.69
+941639.3	Bacillus coagulans 2-6	941639	Complete	1	3073079	47.29
+946078.4	Micromonospora sediminicola strain DSM 45794	946078	WGS	5	6885700	73.59
+946334.3	Actinoplanes sp. OR16	946334	Complete	1	9293892	70.34378
+946334.3	Actinoplanes sp. OR16	946334	Complete	1	9293892	70.34378
+953739.5	Streptomyces venezuelae ATCC 10712	953739	Complete	1	8226158	72.4
+981539.3	Streptococcus gallolyticus subsp. gallolyticus ATCC 43143	981539	Complete	1	2362241	37.52
+981540.3	Streptococcus pasteurianus ATCC 43144	981540	Complete	1	2100077	37.38
+98228.3	Bacillus sp. OxB-1	98228	Complete	1	3594618	47.85

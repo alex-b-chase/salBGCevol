@@ -32,7 +32,7 @@ This will be out first attempt to establish this as we are comparing BGCs blindl
 When we look at the results (Panel B), we see the interspecies v. intraspecies comparisons holds up extremely well! We see a delineation at 95% ANI again demarcating species boundaries. However, this time we see some BGCs filling in this gap, suggesting these BGCs may have been recently transferred (highlighted in green). These are definitely the exception, rather than the rule as only 1.4% of the comparisons fail to follow the species delineation. And of these 1.4% the average ANI was 96.5%, further suggesting that these were relatively distant transfer events.
 
 <p align="center">
-  <img width="760" height="400" src="../images/bgcANIvgenomeANI-01.png">
+  <img width="660" height="400" src="../images/bgcANIvgenomeANI-01.png">
 </p>
 
 Again, this was a pretty coarse way to assess HGT of the BGCs, the rest of the project will go into further depth. And even the ones with elevated ANI values may just be BGC fragments hitting a conserved BGC region within Salinispora. This is a nice start but a long ways to go!
