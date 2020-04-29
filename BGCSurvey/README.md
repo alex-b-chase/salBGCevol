@@ -18,7 +18,7 @@ Next, we took all genomes containing the 21 marker genes ("passed genomes"), and
 
 Although, Moorea, Streptomyces, and Kitasatospora contained more BGCs than all other genera we screened, after standardizing for genome size, Salinispora contained the most BGCs as a function of its genome size at a whooping 18% of its genome dedicated to BGC and metabolite production. Other general patterns were a pronounced uptick in the number of BGCs in the Actinobacterium phylum, suggesting BGCs may be a conserved trait across the phyla.
 
-## Comparisons of number of BGCs
+## Evidence for BGC transfer between genera?
 
 A prevailing idea in the field of natural products is that BGCs are rampantly exchanged. Further, previous work in Salinispora has identified Streptomyces and Verrucosispora as a source for HGT BGC exchange.
 
