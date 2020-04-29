@@ -13,7 +13,7 @@ First, we screened each genome for 21 conserved phylogenetic marker genes, and u
 Next, we took all genomes containing the 21 marker genes ("passed genomes"), and identified BGCs with antiSMASH v5. We calculated the percent of the genome dedicated to secondary metabolism (# of bp in BGCs / # of bp in genome), as well as the number of BGCs in total.
 
 <p align="center">
-  <img width="520" height="336" src="../images/totalBGCpotential-01.png">
+  <img width="780" height="504" src="../images/totalBGCpotential-01.png">
 </p>
 
 Although, Moorea, Streptomyces, and Kitasatospora contained more BGCs than all other genera we screened, after standardizing for genome size, Salinispora contained the most BGCs as a function of its genome size at a whooping 18% of its genome dedicated to BGC and metabolite production. Other general patterns were a pronounced uptick in the number of BGCs in the Actinobacterium phylum, suggesting BGCs may be a conserved trait across the phyla.
@@ -25,5 +25,5 @@ A prevailing idea in the field of natural products is that BGCs are rampantly ex
 So, I quickly screened %GC and codon usage biases of identified BGCs and compared across genera and to the genome average. These Salinispora genomic metrics for BGCs seem to match the genome average quite well. Not conclusive but appears that BGCs are conserved and not acquired by foreign genera.
 
 <p align="center">
-  <img width="233" height="254" src="../images/BGCcomparison_CW-GC-01.png">
+  <img width="699" height="762" src="../images/BGCcomparison_CW-GC-01.png">
 </p>
