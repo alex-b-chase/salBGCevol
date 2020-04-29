@@ -59,7 +59,13 @@ With a resolution of 1.0, we achieved a modularity of 0.927 and this equated to 
 
 So, in summary we have 305 GCFs and 206 BGC network communities - both numbers not too far off from Letzel et al.
 
-Using some multivariate stats, we can visualize both of these designations in a NMDS plot:
+Here is the output for strains X GCFs nested with the BGC modules:
+
+<p align="center">
+  <img width="860" height="450" src="../images/GCF2mod.abundance-01.png">
+</p>
+
+Now that we have the abundance of each GCF and BGC module, we can use some multivariate stats in R. For instance we can run ecodist to see the effects of species designation and/or site of isolation on the ditribution of GCFs across Salinispora strains. Finally, we can compare the two methods of GCFs and BGC modules by visualizing both of these designations in a NMDS plot:
 
 <p align="center">
   <img width="560" height="350" src="../images/mds-BGCs-01.png">
