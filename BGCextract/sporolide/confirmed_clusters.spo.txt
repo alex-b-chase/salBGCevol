@@ -1,0 +1,13 @@
+SpCNT084_FJ.contig_13.region002
+SpCNT133_FJ.contig_14.region002
+SpCNT609_FJ.contig_17.region001
+StCNB440_BA.contig_0.region012
+StCNB476_BA.contig_1.region001
+StCNH898_BA.contig_2.region003
+StCNR699_BA.contig_2.region002
+StCNS197_BA.contig_2.region002
+StCNS416_BA.contig_2.region003
+StCNT250_BA.contig_1.region002
+StCNT261_BA.contig_2.region001
+StCNY678_YU.contig_5.region002
+StCNY681_YU.contig_3.region002
