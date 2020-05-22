@@ -1,4 +1,4 @@
-## Evolutionary Processes 
+# Evolutionary Processes 
 
 We wanted to evaluate alternative processes contributing to BGC evolution. To start, we computed whole-BGC alignments using [MUGSY](http://mugsy.sourceforge.net/)
 
@@ -12,7 +12,7 @@ maf2fasta.pl 1 < ${BGC}.maf > ${BGC}.fasta
 ## now need to remove \"= sign\" from end of files 
 grep -v "=" ${BGC}.fasta > mugsy_out/${BGC}.aln
 ```
-# BGC Phylogenies and Recombination
+## BGC Phylogenies and Recombination
 
 We can use this alignment to build a whole-BGC phylogeny
 
@@ -60,7 +60,7 @@ do
 done
 ```
 
-# Phylogenetic Visualization
+## Phylogenetic Visualization
 
 Finally, we can output a visualization of the phylogenies in R with species metadata:
 
