@@ -1,0 +1,143 @@
+bgcname	cluster	bp_count	repseq	genedescription
+staurosporine	cluster0	1308	rebG	4'-demethylrebeccamycin synthase
+staurosporine	cluster1	1515	rebO	Flavin-dependent L-tryptophan oxidase RebO
+staurosporine	cluster2	1707	tfdB	2,4-dichlorophenol 6-monooxygenase
+staurosporine	cluster3	1257	yjiB	Putative cytochrome P450 YjiB
+staurosporine	cluster4	657	gerF	dTDP-4-dehydro-6-deoxyglucose 3-epimerase
+staurosporine	cluster5	1227	LFOLEMLJ_01454	Cytochrome P450 107B1
+staurosporine	cluster6	1122	megDII	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+staurosporine	cluster7	3216	rebD	Dichlorochromopyrrolate synthase
+staurosporine	cluster8	1005	fcl_1	GDP-L-fucose synthase
+staurosporine	cluster9	849	LFOLEMLJ_01449	27-O-demethylrifamycin SV methyltransferase
+sporolide	cluster1	987	BFADNKPB_02878	hypothetical protein
+sporolide	cluster10	786	rhaR_6	HTH-type transcriptional activator RhaR
+sporolide	cluster11	465	BJKHBJBP_02656	hypothetical protein
+sporolide	cluster12	498	BJKHBJBP_02672	hypothetical protein
+sporolide	cluster13	441	BJKHBJBP_02663	hypothetical protein
+sporolide	cluster14	372	BJKHBJBP_02673	hypothetical protein
+sporolide	cluster15	432	BJKHBJBP_02674	hypothetical protein
+sporolide	cluster16	633	BJKHBJBP_02660	hypothetical protein
+sporolide	cluster17	669	MKOOBEOE_02772	hypothetical protein
+sporolide	cluster18	594	MKOOBEOE_02774	hypothetical protein
+sporolide	cluster19	537	ntaB	FMN reductase (NADH) NtaB
+sporolide	cluster2	999	BJKHBJBP_02652	hypothetical protein
+sporolide	cluster20	564	BJKHBJBP_02647	hypothetical protein
+sporolide	cluster21	2169	aml	Alpha-amylase
+sporolide	cluster22	5772	MKOOBEOE_02785	hypothetical protein
+sporolide	cluster23	1653	BJKHBJBP_02648	hypothetical protein
+sporolide	cluster24	1974	BJKHBJBP_02653	hypothetical protein
+sporolide	cluster3	921	MKOOBEOE_02794	hypothetical protein
+sporolide	cluster4	987	MKOOBEOE_02786	hypothetical protein
+sporolide	cluster5	1270	GNGPOLMB_00661	IS1380 family transposase ISMsm10
+sporolide	cluster6	1359	BJKHBJBP_02658	Epi-isozizaene 5-monooxygenase/(E)-beta-farnesene synthase
+sporolide	cluster7	1083	BJKHBJBP_02649	hypothetical protein
+sporolide	cluster8	1020	BJKHBJBP_02675	Acyl-CoA dehydrogenase FadE28
+sporolide	cluster9	1065	BJKHBJBP_02650	hypothetical protein
+salinosporamide	cluster0	865	bpoC	Putative non-heme bromoperoxidase BpoC
+salinosporamide	cluster1	1914	lgrB_3	Linear gramicidin synthase subunit B
+salinosporamide	cluster2	1794	ppsE	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+salinipostin	cluster0	909	LFOLEMLJ_04756	hypothetical protein
+salinipostin	cluster1	1101	LFOLEMLJ_04758	hypothetical protein
+salinipostin	cluster2	891	fgd_4	F420-dependent glucose-6-phosphate dehydrogenase
+salinipostin	cluster3	1083	DIFGDKJP_01419	hypothetical protein
+salinipostin	cluster4	981	ndk	Nucleoside diphosphate kinase
+salinipostin	cluster5	261	LFOLEMLJ_04759	hypothetical protein
+salinichelin	cluster0	783	DEDNAJPJ_03775	hypothetical protein
+salinichelin	cluster1	879	fepC_2	Ferric enterobactin transport ATP-binding protein FepC
+salinichelin	cluster10	1833	DEDNAJPJ_03792	Putative multidrug export ATP-binding/permease protein
+salinichelin	cluster11	15504	lgrD_2	Linear gramicidin synthase subunit D
+salinichelin	cluster12	210	mbtH_3	Protein MbtH
+salinichelin	cluster13	575	HHFHFFJP_02257	hypothetical protein
+salinichelin	cluster14	585	DEDNAJPJ_03779	hypothetical protein
+salinichelin	cluster15	390	HHFHFFJP_02255	hypothetical protein
+salinichelin	cluster16	1713	DEDNAJPJ_03791	putative ABC transporter ATP-binding protein
+salinichelin	cluster2	1026	DEDNAJPJ_03795	hypothetical protein
+salinichelin	cluster3	1353	pvdA_2	L-ornithine N(5)-monooxygenase
+salinichelin	cluster4	1158	fepG_2	Ferric enterobactin transport system permease protein FepG
+salinichelin	cluster5	1068	fepD	Ferric enterobactin transport system permease protein FepD
+salinichelin	cluster6	1209	argA_1	Amino-acid acetyltransferase
+salinichelin	cluster7	948	arnA	Bifunctional polymyxin resistance protein ArnA
+salinichelin	cluster8	1584	nfdA_1	N-substituted formamide deformylase
+salinichelin	cluster9	381	DEDNAJPJ_03776	hypothetical protein
+lymphostin	cluster0	858	dnrC_2	Aklanonic acid methyltransferase DnrC
+lymphostin	cluster1	1083	LFOLEMLJ_03336	hypothetical protein
+lymphostin	cluster10	1212	LFOLEMLJ_03339	N-acetyldiaminopimelate deacetylase
+lymphostin	cluster11	1263	BAMJMEEL_00065	hypothetical protein
+lymphostin	cluster12	2436	LFOLEMLJ_03331	hypothetical protein
+lymphostin	cluster13	2527	LFOLEMLJ_03340	hypothetical protein
+lymphostin	cluster2	1971	asnB_3	Asparagine synthetase [glutamine-hydrolyzing] 1
+lymphostin	cluster3	2295	KNEBLNGO_02507	hypothetical protein
+lymphostin	cluster4	2250	LFOLEMLJ_03334	hypothetical protein
+lymphostin	cluster5	675	MGCLLBHH_01603	hypothetical protein
+lymphostin	cluster6	1470	LFOLEMLJ_03333	hypothetical protein
+lymphostin	cluster7	1524	pepPI_2	Xaa-Pro aminopeptidase 1
+lymphostin	cluster8	1803	MKCNELDG_03376	hypothetical protein
+lymphostin	cluster9	1104	mnmC	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+lomaiviticin	cluster0	969	HHFHFFJP_01345	hypothetical protein
+lomaiviticin	cluster1	972	dagK	Diacylglycerol kinase
+lomaiviticin	cluster10	255	HHFHFFJP_01335	Oxytetracycline polyketide synthase acyl carrier protein
+lomaiviticin	cluster11	1017	strE_1	dTDP-glucose 4,6-dehydratase
+lomaiviticin	cluster12	993	pafB	Protein PafB
+lomaiviticin	cluster13	1002	HADAGDMH_03358	hypothetical protein
+lomaiviticin	cluster14	1014	gfo	Glucose--fructose oxidoreductase
+lomaiviticin	cluster15	324	HHFHFFJP_01338	hypothetical protein
+lomaiviticin	cluster16	738	JPECDPKM_00483	hypothetical protein
+lomaiviticin	cluster17	771	gph_7	Phosphoglycolate phosphatase
+lomaiviticin	cluster18	612	gerF	dTDP-4-dehydro-6-deoxyglucose 3-epimerase
+lomaiviticin	cluster19	543	KNEBLNGO_01204	hypothetical protein
+lomaiviticin	cluster2	975	prcB	Proteasome subunit beta
+lomaiviticin	cluster20	573	HHFHFFJP_01349	hypothetical protein
+lomaiviticin	cluster21	432	KNPGFKEA_03448	hypothetical protein
+lomaiviticin	cluster22	321	hcaC_2	3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+lomaiviticin	cluster23	873	rfbA	Glucose-1-phosphate thymidylyltransferase 1
+lomaiviticin	cluster24	942	MKOOBEOE_02293	hypothetical protein
+lomaiviticin	cluster25	948	JPECDPKM_00445	5'-3' exonuclease
+lomaiviticin	cluster26	309	tatA	Sec-independent protein translocase protein TatA
+lomaiviticin	cluster27	795	prcA	Proteasome subunit alpha
+lomaiviticin	cluster28	831	btuD_4	Vitamin B12 import ATP-binding protein BtuD
+lomaiviticin	cluster29	840	KNPGFKEA_03447	hypothetical protein
+lomaiviticin	cluster3	966	trmI	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+lomaiviticin	cluster30	216	pup	Prokaryotic ubiquitin-like protein Pup
+lomaiviticin	cluster31	1518	dop	Depupylase
+lomaiviticin	cluster32	1359	pafA	Pup--protein ligase
+lomaiviticin	cluster33	1272	HHFHFFJP_01333	Actinorhodin polyketide putative beta-ketoacyl synthase 1
+lomaiviticin	cluster34	1329	HHFHFFJP_01334	Actinorhodin polyketide putative beta-ketoacyl synthase 2
+lomaiviticin	cluster35	192	GHFKALDJ_02817	hypothetical protein
+lomaiviticin	cluster36	2550	HHFHFFJP_01343	hypothetical protein
+lomaiviticin	cluster37	2769	helY	putative helicase HelY
+lomaiviticin	cluster38	1782	arc	Proteasome-associated ATPase
+lomaiviticin	cluster39	1693	tap	Tripeptidyl aminopeptidase
+lomaiviticin	cluster4	951	tatC	Sec-independent protein translocase protein TatC
+lomaiviticin	cluster40	1770	HHFHFFJP_01318	Putative multidrug export ATP-binding/permease protein
+lomaiviticin	cluster41	1143	rip3_1	Putative zinc metalloprotease Rip3
+lomaiviticin	cluster42	249	HHFHFFJP_01362	hypothetical protein
+lomaiviticin	cluster43	1159	novM_1	L-demethylnoviosyl transferase
+lomaiviticin	cluster44	1041	novM_2	L-demethylnoviosyl transferase
+lomaiviticin	cluster45	1053	strE_2	dTDP-glucose 4,6-dehydratase
+lomaiviticin	cluster46	1056	KNPGFKEA_03442	hypothetical protein
+lomaiviticin	cluster47	1257	vioA	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+lomaiviticin	cluster5	958	HADAGDMH_03363	hypothetical protein
+lomaiviticin	cluster6	297	JPECDPKM_00463	hypothetical protein
+lomaiviticin	cluster7	984	ppsE_1	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+lomaiviticin	cluster8	1023	rdmB	Aclacinomycin 10-hydroxylase RdmB
+lomaiviticin	cluster9	1039	pafC	Protein PafC
+salinilactam	cluster0	588	HHFHFFJP_04307	hypothetical protein
+salinilactam	cluster1	1842	mdtD_1	Putative multidrug resistance protein MdtD
+salinilactam	cluster2	267	HHFHFFJP_04308	hypothetical protein
+rifamycin	cluster0	1278	novM_1	L-demethylnoviosyl transferase
+rifamycin	cluster1	1269	LFOLEMLJ_03802	Cytochrome P450 107B1
+rifamycin	cluster10	360	bphA3	Biphenyl 2,3-dioxygenase, ferredoxin component
+rifamycin	cluster11	5376	GBEHECEC_01280	hypothetical protein
+rifamycin	cluster12	171	LFOLEMLJ_03809	hypothetical protein
+rifamycin	cluster13	687	gph_5	Phosphoglycolate phosphatase
+rifamycin	cluster14	1350	LFOLEMLJ_03795	putative aminotransferase
+rifamycin	cluster15	10548	MGFBLLNL_03405	hypothetical protein
+rifamycin	cluster16	195	suaB_2	Ferredoxin-1
+rifamycin	cluster2	1308	colD	GDP-4-keto-6-deoxy-D-mannose 3-dehydratase
+rifamycin	cluster3	1344	aroG_2	Phospho-2-dehydro-3-deoxyheptonate aldolase AroG
+rifamycin	cluster4	831	rifF	Proansamycin X synthase
+rifamycin	cluster5	1062	aroB_1	3-dehydroquinate synthase
+rifamycin	cluster6	1074	rifL	Putative UDP-kanosamine synthase oxidoreductase subunit
+rifamycin	cluster7	1020	iolU_2	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+rifamycin	cluster8	1266	LFOLEMLJ_03801	Cytochrome P450-SU2
+rifamycin	cluster9	1167	rifK	3-amino-5-hydroxybenzoate synthase

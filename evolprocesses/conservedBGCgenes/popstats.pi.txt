@@ -1,0 +1,1207 @@
+gene	variable	value	bgcname	cluster	bp_count	repseq	genedescription
+total.lomaiviticin.cluster0.aln	clade10	0	lomaiviticin	cluster0	969	HHFHFFJP_01345	hypothetical protein
+total.lomaiviticin.cluster0.aln	clade7	17.3333333333333	lomaiviticin	cluster0	969	HHFHFFJP_01345	hypothetical protein
+total.lomaiviticin.cluster0.aln	clade6	0	lomaiviticin	cluster0	969	HHFHFFJP_01345	hypothetical protein
+total.lomaiviticin.cluster0.aln	clade4	0	lomaiviticin	cluster0	969	HHFHFFJP_01345	hypothetical protein
+total.lomaiviticin.cluster0.aln	clade3	0	lomaiviticin	cluster0	969	HHFHFFJP_01345	hypothetical protein
+total.lomaiviticin.cluster0.aln	clade1	1.15151515151515	lomaiviticin	cluster0	969	HHFHFFJP_01345	hypothetical protein
+total.lomaiviticin.cluster0.aln	clade8	6.12648221343874	lomaiviticin	cluster0	969	HHFHFFJP_01345	hypothetical protein
+total.lomaiviticin.cluster0.aln	clade5	0	lomaiviticin	cluster0	969	HHFHFFJP_01345	hypothetical protein
+total.lomaiviticin.cluster0.aln	clade2	1	lomaiviticin	cluster0	969	HHFHFFJP_01345	hypothetical protein
+total.lomaiviticin.cluster1.aln	clade2	6	lomaiviticin	cluster1	972	dagK	Diacylglycerol kinase
+total.lomaiviticin.cluster1.aln	clade10	0	lomaiviticin	cluster1	972	dagK	Diacylglycerol kinase
+total.lomaiviticin.cluster1.aln	clade1	0.333333333333333	lomaiviticin	cluster1	972	dagK	Diacylglycerol kinase
+total.lomaiviticin.cluster1.aln	clade3	0	lomaiviticin	cluster1	972	dagK	Diacylglycerol kinase
+total.lomaiviticin.cluster1.aln	clade5	0	lomaiviticin	cluster1	972	dagK	Diacylglycerol kinase
+total.lomaiviticin.cluster1.aln	clade7	20	lomaiviticin	cluster1	972	dagK	Diacylglycerol kinase
+total.lomaiviticin.cluster1.aln	clade8	6.10276679841897	lomaiviticin	cluster1	972	dagK	Diacylglycerol kinase
+total.lomaiviticin.cluster1.aln	clade4	0	lomaiviticin	cluster1	972	dagK	Diacylglycerol kinase
+total.lomaiviticin.cluster1.aln	clade6	0	lomaiviticin	cluster1	972	dagK	Diacylglycerol kinase
+total.lomaiviticin.cluster10.aln	clade7	2	lomaiviticin	cluster10	255	HHFHFFJP_01335	Oxytetracycline polyketide synthase acyl carrier protein
+total.lomaiviticin.cluster10.aln	clade5	0	lomaiviticin	cluster10	255	HHFHFFJP_01335	Oxytetracycline polyketide synthase acyl carrier protein
+total.lomaiviticin.cluster10.aln	clade8	1.98418972332016	lomaiviticin	cluster10	255	HHFHFFJP_01335	Oxytetracycline polyketide synthase acyl carrier protein
+total.lomaiviticin.cluster10.aln	clade2	0	lomaiviticin	cluster10	255	HHFHFFJP_01335	Oxytetracycline polyketide synthase acyl carrier protein
+total.lomaiviticin.cluster10.aln	clade4	0	lomaiviticin	cluster10	255	HHFHFFJP_01335	Oxytetracycline polyketide synthase acyl carrier protein
+total.lomaiviticin.cluster10.aln	clade3	0	lomaiviticin	cluster10	255	HHFHFFJP_01335	Oxytetracycline polyketide synthase acyl carrier protein
+total.lomaiviticin.cluster10.aln	clade6	0	lomaiviticin	cluster10	255	HHFHFFJP_01335	Oxytetracycline polyketide synthase acyl carrier protein
+total.lomaiviticin.cluster10.aln	clade10	0	lomaiviticin	cluster10	255	HHFHFFJP_01335	Oxytetracycline polyketide synthase acyl carrier protein
+total.lomaiviticin.cluster10.aln	clade1	1	lomaiviticin	cluster10	255	HHFHFFJP_01335	Oxytetracycline polyketide synthase acyl carrier protein
+total.lomaiviticin.cluster11.aln	clade10	0	lomaiviticin	cluster11	1017	strE_1	dTDP-glucose 4,6-dehydratase
+total.lomaiviticin.cluster11.aln	clade2	5	lomaiviticin	cluster11	1017	strE_1	dTDP-glucose 4,6-dehydratase
+total.lomaiviticin.cluster11.aln	clade3	0	lomaiviticin	cluster11	1017	strE_1	dTDP-glucose 4,6-dehydratase
+total.lomaiviticin.cluster11.aln	clade6	0	lomaiviticin	cluster11	1017	strE_1	dTDP-glucose 4,6-dehydratase
+total.lomaiviticin.cluster11.aln	clade1	1.96969696969697	lomaiviticin	cluster11	1017	strE_1	dTDP-glucose 4,6-dehydratase
+total.lomaiviticin.cluster11.aln	clade4	0	lomaiviticin	cluster11	1017	strE_1	dTDP-glucose 4,6-dehydratase
+total.lomaiviticin.cluster11.aln	clade5	0	lomaiviticin	cluster11	1017	strE_1	dTDP-glucose 4,6-dehydratase
+total.lomaiviticin.cluster11.aln	clade7	18	lomaiviticin	cluster11	1017	strE_1	dTDP-glucose 4,6-dehydratase
+total.lomaiviticin.cluster11.aln	clade8	7.02766798418972	lomaiviticin	cluster11	1017	strE_1	dTDP-glucose 4,6-dehydratase
+total.lomaiviticin.cluster12.aln	clade3	0	lomaiviticin	cluster12	993	pafB	Protein PafB
+total.lomaiviticin.cluster12.aln	clade6	0	lomaiviticin	cluster12	993	pafB	Protein PafB
+total.lomaiviticin.cluster12.aln	clade5	0	lomaiviticin	cluster12	993	pafB	Protein PafB
+total.lomaiviticin.cluster12.aln	clade7	18.6666666666667	lomaiviticin	cluster12	993	pafB	Protein PafB
+total.lomaiviticin.cluster12.aln	clade8	3.99209486166008	lomaiviticin	cluster12	993	pafB	Protein PafB
+total.lomaiviticin.cluster12.aln	clade4	0	lomaiviticin	cluster12	993	pafB	Protein PafB
+total.lomaiviticin.cluster12.aln	clade2	3	lomaiviticin	cluster12	993	pafB	Protein PafB
+total.lomaiviticin.cluster12.aln	clade10	0	lomaiviticin	cluster12	993	pafB	Protein PafB
+total.lomaiviticin.cluster12.aln	clade1	1.46969696969697	lomaiviticin	cluster12	993	pafB	Protein PafB
+total.lomaiviticin.cluster13.aln	clade6	0	lomaiviticin	cluster13	1002	HADAGDMH_03358	hypothetical protein
+total.lomaiviticin.cluster13.aln	clade8	8.31620553359684	lomaiviticin	cluster13	1002	HADAGDMH_03358	hypothetical protein
+total.lomaiviticin.cluster13.aln	clade1	0.696969696969697	lomaiviticin	cluster13	1002	HADAGDMH_03358	hypothetical protein
+total.lomaiviticin.cluster13.aln	clade2	7	lomaiviticin	cluster13	1002	HADAGDMH_03358	hypothetical protein
+total.lomaiviticin.cluster13.aln	clade10	0	lomaiviticin	cluster13	1002	HADAGDMH_03358	hypothetical protein
+total.lomaiviticin.cluster13.aln	clade5	0	lomaiviticin	cluster13	1002	HADAGDMH_03358	hypothetical protein
+total.lomaiviticin.cluster13.aln	clade7	28	lomaiviticin	cluster13	1002	HADAGDMH_03358	hypothetical protein
+total.lomaiviticin.cluster13.aln	clade4	0	lomaiviticin	cluster13	1002	HADAGDMH_03358	hypothetical protein
+total.lomaiviticin.cluster13.aln	clade3	0	lomaiviticin	cluster13	1002	HADAGDMH_03358	hypothetical protein
+total.lomaiviticin.cluster14.aln	clade2	3	lomaiviticin	cluster14	1014	gfo	Glucose--fructose oxidoreductase
+total.lomaiviticin.cluster14.aln	clade10	0	lomaiviticin	cluster14	1014	gfo	Glucose--fructose oxidoreductase
+total.lomaiviticin.cluster14.aln	clade5	0	lomaiviticin	cluster14	1014	gfo	Glucose--fructose oxidoreductase
+total.lomaiviticin.cluster14.aln	clade7	20.6666666666667	lomaiviticin	cluster14	1014	gfo	Glucose--fructose oxidoreductase
+total.lomaiviticin.cluster14.aln	clade3	0	lomaiviticin	cluster14	1014	gfo	Glucose--fructose oxidoreductase
+total.lomaiviticin.cluster14.aln	clade1	3.10606060606061	lomaiviticin	cluster14	1014	gfo	Glucose--fructose oxidoreductase
+total.lomaiviticin.cluster14.aln	clade6	0	lomaiviticin	cluster14	1014	gfo	Glucose--fructose oxidoreductase
+total.lomaiviticin.cluster14.aln	clade8	5.39130434782609	lomaiviticin	cluster14	1014	gfo	Glucose--fructose oxidoreductase
+total.lomaiviticin.cluster14.aln	clade4	0	lomaiviticin	cluster14	1014	gfo	Glucose--fructose oxidoreductase
+total.lomaiviticin.cluster15.aln	clade2	1	lomaiviticin	cluster15	324	HHFHFFJP_01338	hypothetical protein
+total.lomaiviticin.cluster15.aln	clade3	0	lomaiviticin	cluster15	324	HHFHFFJP_01338	hypothetical protein
+total.lomaiviticin.cluster15.aln	clade5	0	lomaiviticin	cluster15	324	HHFHFFJP_01338	hypothetical protein
+total.lomaiviticin.cluster15.aln	clade7	5.33333333333333	lomaiviticin	cluster15	324	HHFHFFJP_01338	hypothetical protein
+total.lomaiviticin.cluster15.aln	clade10	0	lomaiviticin	cluster15	324	HHFHFFJP_01338	hypothetical protein
+total.lomaiviticin.cluster15.aln	clade4	0	lomaiviticin	cluster15	324	HHFHFFJP_01338	hypothetical protein
+total.lomaiviticin.cluster15.aln	clade6	0	lomaiviticin	cluster15	324	HHFHFFJP_01338	hypothetical protein
+total.lomaiviticin.cluster15.aln	clade8	1.67588932806324	lomaiviticin	cluster15	324	HHFHFFJP_01338	hypothetical protein
+total.lomaiviticin.cluster15.aln	clade1	0	lomaiviticin	cluster15	324	HHFHFFJP_01338	hypothetical protein
+total.lomaiviticin.cluster16.aln	clade3	0	lomaiviticin	cluster16	738	JPECDPKM_00483	hypothetical protein
+total.lomaiviticin.cluster16.aln	clade8	4.72727272727273	lomaiviticin	cluster16	738	JPECDPKM_00483	hypothetical protein
+total.lomaiviticin.cluster16.aln	clade4	0	lomaiviticin	cluster16	738	JPECDPKM_00483	hypothetical protein
+total.lomaiviticin.cluster16.aln	clade5	0	lomaiviticin	cluster16	738	JPECDPKM_00483	hypothetical protein
+total.lomaiviticin.cluster16.aln	clade10	0	lomaiviticin	cluster16	738	JPECDPKM_00483	hypothetical protein
+total.lomaiviticin.cluster16.aln	clade1	0.5	lomaiviticin	cluster16	738	JPECDPKM_00483	hypothetical protein
+total.lomaiviticin.cluster16.aln	clade6	0	lomaiviticin	cluster16	738	JPECDPKM_00483	hypothetical protein
+total.lomaiviticin.cluster16.aln	clade7	18	lomaiviticin	cluster16	738	JPECDPKM_00483	hypothetical protein
+total.lomaiviticin.cluster16.aln	clade2	3	lomaiviticin	cluster16	738	JPECDPKM_00483	hypothetical protein
+total.lomaiviticin.cluster17.aln	clade10	0	lomaiviticin	cluster17	771	gph_7	Phosphoglycolate phosphatase
+total.lomaiviticin.cluster17.aln	clade2	6	lomaiviticin	cluster17	771	gph_7	Phosphoglycolate phosphatase
+total.lomaiviticin.cluster17.aln	clade1	0.5	lomaiviticin	cluster17	771	gph_7	Phosphoglycolate phosphatase
+total.lomaiviticin.cluster17.aln	clade4	0	lomaiviticin	cluster17	771	gph_7	Phosphoglycolate phosphatase
+total.lomaiviticin.cluster17.aln	clade6	0	lomaiviticin	cluster17	771	gph_7	Phosphoglycolate phosphatase
+total.lomaiviticin.cluster17.aln	clade3	0	lomaiviticin	cluster17	771	gph_7	Phosphoglycolate phosphatase
+total.lomaiviticin.cluster17.aln	clade5	0	lomaiviticin	cluster17	771	gph_7	Phosphoglycolate phosphatase
+total.lomaiviticin.cluster17.aln	clade8	3.54940711462451	lomaiviticin	cluster17	771	gph_7	Phosphoglycolate phosphatase
+total.lomaiviticin.cluster17.aln	clade7	10.6666666666667	lomaiviticin	cluster17	771	gph_7	Phosphoglycolate phosphatase
+total.lomaiviticin.cluster18.aln	clade4	0	lomaiviticin	cluster18	612	gerF	dTDP-4-dehydro-6-deoxyglucose 3-epimerase
+total.lomaiviticin.cluster18.aln	clade10	0	lomaiviticin	cluster18	612	gerF	dTDP-4-dehydro-6-deoxyglucose 3-epimerase
+total.lomaiviticin.cluster18.aln	clade1	1.03030303030303	lomaiviticin	cluster18	612	gerF	dTDP-4-dehydro-6-deoxyglucose 3-epimerase
+total.lomaiviticin.cluster18.aln	clade5	0	lomaiviticin	cluster18	612	gerF	dTDP-4-dehydro-6-deoxyglucose 3-epimerase
+total.lomaiviticin.cluster18.aln	clade2	2	lomaiviticin	cluster18	612	gerF	dTDP-4-dehydro-6-deoxyglucose 3-epimerase
+total.lomaiviticin.cluster18.aln	clade3	0	lomaiviticin	cluster18	612	gerF	dTDP-4-dehydro-6-deoxyglucose 3-epimerase
+total.lomaiviticin.cluster18.aln	clade6	0	lomaiviticin	cluster18	612	gerF	dTDP-4-dehydro-6-deoxyglucose 3-epimerase
+total.lomaiviticin.cluster18.aln	clade7	15.3333333333333	lomaiviticin	cluster18	612	gerF	dTDP-4-dehydro-6-deoxyglucose 3-epimerase
+total.lomaiviticin.cluster18.aln	clade8	4.22134387351779	lomaiviticin	cluster18	612	gerF	dTDP-4-dehydro-6-deoxyglucose 3-epimerase
+total.lomaiviticin.cluster19.aln	clade10	0	lomaiviticin	cluster19	543	KNEBLNGO_01204	hypothetical protein
+total.lomaiviticin.cluster19.aln	clade2	0	lomaiviticin	cluster19	543	KNEBLNGO_01204	hypothetical protein
+total.lomaiviticin.cluster19.aln	clade1	0.909090909090909	lomaiviticin	cluster19	543	KNEBLNGO_01204	hypothetical protein
+total.lomaiviticin.cluster19.aln	clade4	0	lomaiviticin	cluster19	543	KNEBLNGO_01204	hypothetical protein
+total.lomaiviticin.cluster19.aln	clade7	2	lomaiviticin	cluster19	543	KNEBLNGO_01204	hypothetical protein
+total.lomaiviticin.cluster19.aln	clade3	0	lomaiviticin	cluster19	543	KNEBLNGO_01204	hypothetical protein
+total.lomaiviticin.cluster19.aln	clade5	0	lomaiviticin	cluster19	543	KNEBLNGO_01204	hypothetical protein
+total.lomaiviticin.cluster19.aln	clade6	0	lomaiviticin	cluster19	543	KNEBLNGO_01204	hypothetical protein
+total.lomaiviticin.cluster19.aln	clade8	2.22924901185771	lomaiviticin	cluster19	543	KNEBLNGO_01204	hypothetical protein
+total.lomaiviticin.cluster2.aln	clade8	17.201581027668	lomaiviticin	cluster2	975	prcB	Proteasome subunit beta
+total.lomaiviticin.cluster2.aln	clade1	0.575757575757576	lomaiviticin	cluster2	975	prcB	Proteasome subunit beta
+total.lomaiviticin.cluster2.aln	clade3	0	lomaiviticin	cluster2	975	prcB	Proteasome subunit beta
+total.lomaiviticin.cluster2.aln	clade4	0	lomaiviticin	cluster2	975	prcB	Proteasome subunit beta
+total.lomaiviticin.cluster2.aln	clade10	0	lomaiviticin	cluster2	975	prcB	Proteasome subunit beta
+total.lomaiviticin.cluster2.aln	clade2	1	lomaiviticin	cluster2	975	prcB	Proteasome subunit beta
+total.lomaiviticin.cluster2.aln	clade7	16.6666666666667	lomaiviticin	cluster2	975	prcB	Proteasome subunit beta
+total.lomaiviticin.cluster2.aln	clade5	0	lomaiviticin	cluster2	975	prcB	Proteasome subunit beta
+total.lomaiviticin.cluster2.aln	clade6	0	lomaiviticin	cluster2	975	prcB	Proteasome subunit beta
+total.lomaiviticin.cluster20.aln	clade1	1.59090909090909	lomaiviticin	cluster20	573	HHFHFFJP_01349	hypothetical protein
+total.lomaiviticin.cluster20.aln	clade2	5	lomaiviticin	cluster20	573	HHFHFFJP_01349	hypothetical protein
+total.lomaiviticin.cluster20.aln	clade4	0	lomaiviticin	cluster20	573	HHFHFFJP_01349	hypothetical protein
+total.lomaiviticin.cluster20.aln	clade6	0	lomaiviticin	cluster20	573	HHFHFFJP_01349	hypothetical protein
+total.lomaiviticin.cluster20.aln	clade10	0	lomaiviticin	cluster20	573	HHFHFFJP_01349	hypothetical protein
+total.lomaiviticin.cluster20.aln	clade3	0	lomaiviticin	cluster20	573	HHFHFFJP_01349	hypothetical protein
+total.lomaiviticin.cluster20.aln	clade5	0	lomaiviticin	cluster20	573	HHFHFFJP_01349	hypothetical protein
+total.lomaiviticin.cluster20.aln	clade7	15.3333333333333	lomaiviticin	cluster20	573	HHFHFFJP_01349	hypothetical protein
+total.lomaiviticin.cluster20.aln	clade8	6.11067193675889	lomaiviticin	cluster20	573	HHFHFFJP_01349	hypothetical protein
+total.lomaiviticin.cluster21.aln	clade2	0	lomaiviticin	cluster21	432	KNPGFKEA_03448	hypothetical protein
+total.lomaiviticin.cluster21.aln	clade7	4	lomaiviticin	cluster21	432	KNPGFKEA_03448	hypothetical protein
+total.lomaiviticin.cluster21.aln	clade3	0	lomaiviticin	cluster21	432	KNPGFKEA_03448	hypothetical protein
+total.lomaiviticin.cluster21.aln	clade4	0	lomaiviticin	cluster21	432	KNPGFKEA_03448	hypothetical protein
+total.lomaiviticin.cluster21.aln	clade8	1.22529644268775	lomaiviticin	cluster21	432	KNPGFKEA_03448	hypothetical protein
+total.lomaiviticin.cluster21.aln	clade5	0	lomaiviticin	cluster21	432	KNPGFKEA_03448	hypothetical protein
+total.lomaiviticin.cluster21.aln	clade6	0	lomaiviticin	cluster21	432	KNPGFKEA_03448	hypothetical protein
+total.lomaiviticin.cluster21.aln	clade10	0	lomaiviticin	cluster21	432	KNPGFKEA_03448	hypothetical protein
+total.lomaiviticin.cluster21.aln	clade1	0.166666666666667	lomaiviticin	cluster21	432	KNPGFKEA_03448	hypothetical protein
+total.lomaiviticin.cluster22.aln	clade6	0	lomaiviticin	cluster22	321	hcaC_2	3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+total.lomaiviticin.cluster22.aln	clade8	1.86561264822134	lomaiviticin	cluster22	321	hcaC_2	3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+total.lomaiviticin.cluster22.aln	clade5	0	lomaiviticin	cluster22	321	hcaC_2	3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+total.lomaiviticin.cluster22.aln	clade2	0	lomaiviticin	cluster22	321	hcaC_2	3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+total.lomaiviticin.cluster22.aln	clade3	0	lomaiviticin	cluster22	321	hcaC_2	3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+total.lomaiviticin.cluster22.aln	clade7	8.66666666666667	lomaiviticin	cluster22	321	hcaC_2	3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+total.lomaiviticin.cluster22.aln	clade4	0	lomaiviticin	cluster22	321	hcaC_2	3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+total.lomaiviticin.cluster22.aln	clade10	0	lomaiviticin	cluster22	321	hcaC_2	3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+total.lomaiviticin.cluster22.aln	clade1	0	lomaiviticin	cluster22	321	hcaC_2	3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+total.lomaiviticin.cluster23.aln	clade10	0	lomaiviticin	cluster23	873	rfbA	Glucose-1-phosphate thymidylyltransferase 1
+total.lomaiviticin.cluster23.aln	clade8	5.75494071146245	lomaiviticin	cluster23	873	rfbA	Glucose-1-phosphate thymidylyltransferase 1
+total.lomaiviticin.cluster23.aln	clade3	0	lomaiviticin	cluster23	873	rfbA	Glucose-1-phosphate thymidylyltransferase 1
+total.lomaiviticin.cluster23.aln	clade5	0	lomaiviticin	cluster23	873	rfbA	Glucose-1-phosphate thymidylyltransferase 1
+total.lomaiviticin.cluster23.aln	clade2	4	lomaiviticin	cluster23	873	rfbA	Glucose-1-phosphate thymidylyltransferase 1
+total.lomaiviticin.cluster23.aln	clade7	14	lomaiviticin	cluster23	873	rfbA	Glucose-1-phosphate thymidylyltransferase 1
+total.lomaiviticin.cluster23.aln	clade1	0.712121212121212	lomaiviticin	cluster23	873	rfbA	Glucose-1-phosphate thymidylyltransferase 1
+total.lomaiviticin.cluster23.aln	clade4	0	lomaiviticin	cluster23	873	rfbA	Glucose-1-phosphate thymidylyltransferase 1
+total.lomaiviticin.cluster23.aln	clade6	0	lomaiviticin	cluster23	873	rfbA	Glucose-1-phosphate thymidylyltransferase 1
+total.lomaiviticin.cluster24.aln	clade10	0	lomaiviticin	cluster24	942	MKOOBEOE_02293	hypothetical protein
+total.lomaiviticin.cluster24.aln	clade3	0	lomaiviticin	cluster24	942	MKOOBEOE_02293	hypothetical protein
+total.lomaiviticin.cluster24.aln	clade5	0	lomaiviticin	cluster24	942	MKOOBEOE_02293	hypothetical protein
+total.lomaiviticin.cluster24.aln	clade1	3.5	lomaiviticin	cluster24	942	MKOOBEOE_02293	hypothetical protein
+total.lomaiviticin.cluster24.aln	clade2	3	lomaiviticin	cluster24	942	MKOOBEOE_02293	hypothetical protein
+total.lomaiviticin.cluster24.aln	clade4	0	lomaiviticin	cluster24	942	MKOOBEOE_02293	hypothetical protein
+total.lomaiviticin.cluster24.aln	clade7	21.3333333333333	lomaiviticin	cluster24	942	MKOOBEOE_02293	hypothetical protein
+total.lomaiviticin.cluster24.aln	clade6	0	lomaiviticin	cluster24	942	MKOOBEOE_02293	hypothetical protein
+total.lomaiviticin.cluster24.aln	clade8	5.72332015810277	lomaiviticin	cluster24	942	MKOOBEOE_02293	hypothetical protein
+total.lomaiviticin.cluster25.aln	clade3	0	lomaiviticin	cluster25	948	JPECDPKM_00445	5-3 exonuclease
+total.lomaiviticin.cluster25.aln	clade10	0	lomaiviticin	cluster25	948	JPECDPKM_00445	5-3 exonuclease
+total.lomaiviticin.cluster25.aln	clade4	0	lomaiviticin	cluster25	948	JPECDPKM_00445	5-3 exonuclease
+total.lomaiviticin.cluster25.aln	clade1	1.16666666666667	lomaiviticin	cluster25	948	JPECDPKM_00445	5-3 exonuclease
+total.lomaiviticin.cluster25.aln	clade2	3	lomaiviticin	cluster25	948	JPECDPKM_00445	5-3 exonuclease
+total.lomaiviticin.cluster25.aln	clade5	0	lomaiviticin	cluster25	948	JPECDPKM_00445	5-3 exonuclease
+total.lomaiviticin.cluster25.aln	clade6	0	lomaiviticin	cluster25	948	JPECDPKM_00445	5-3 exonuclease
+total.lomaiviticin.cluster25.aln	clade8	5.24110671936759	lomaiviticin	cluster25	948	JPECDPKM_00445	5-3 exonuclease
+total.lomaiviticin.cluster25.aln	clade7	18.6666666666667	lomaiviticin	cluster25	948	JPECDPKM_00445	5-3 exonuclease
+total.lomaiviticin.cluster26.aln	clade10	0	lomaiviticin	cluster26	309	tatA	Sec-independent protein translocase protein TatA
+total.lomaiviticin.cluster26.aln	clade2	0	lomaiviticin	cluster26	309	tatA	Sec-independent protein translocase protein TatA
+total.lomaiviticin.cluster26.aln	clade3	0	lomaiviticin	cluster26	309	tatA	Sec-independent protein translocase protein TatA
+total.lomaiviticin.cluster26.aln	clade1	0.166666666666667	lomaiviticin	cluster26	309	tatA	Sec-independent protein translocase protein TatA
+total.lomaiviticin.cluster26.aln	clade8	1.20948616600791	lomaiviticin	cluster26	309	tatA	Sec-independent protein translocase protein TatA
+total.lomaiviticin.cluster26.aln	clade4	0	lomaiviticin	cluster26	309	tatA	Sec-independent protein translocase protein TatA
+total.lomaiviticin.cluster26.aln	clade5	0	lomaiviticin	cluster26	309	tatA	Sec-independent protein translocase protein TatA
+total.lomaiviticin.cluster26.aln	clade6	0	lomaiviticin	cluster26	309	tatA	Sec-independent protein translocase protein TatA
+total.lomaiviticin.cluster26.aln	clade7	5.33333333333333	lomaiviticin	cluster26	309	tatA	Sec-independent protein translocase protein TatA
+total.lomaiviticin.cluster27.aln	clade1	0.954545454545454	lomaiviticin	cluster27	795	prcA	Proteasome subunit alpha
+total.lomaiviticin.cluster27.aln	clade2	3	lomaiviticin	cluster27	795	prcA	Proteasome subunit alpha
+total.lomaiviticin.cluster27.aln	clade3	0	lomaiviticin	cluster27	795	prcA	Proteasome subunit alpha
+total.lomaiviticin.cluster27.aln	clade6	0	lomaiviticin	cluster27	795	prcA	Proteasome subunit alpha
+total.lomaiviticin.cluster27.aln	clade8	8.62450592885375	lomaiviticin	cluster27	795	prcA	Proteasome subunit alpha
+total.lomaiviticin.cluster27.aln	clade4	0	lomaiviticin	cluster27	795	prcA	Proteasome subunit alpha
+total.lomaiviticin.cluster27.aln	clade10	0	lomaiviticin	cluster27	795	prcA	Proteasome subunit alpha
+total.lomaiviticin.cluster27.aln	clade7	19.3333333333333	lomaiviticin	cluster27	795	prcA	Proteasome subunit alpha
+total.lomaiviticin.cluster27.aln	clade5	0	lomaiviticin	cluster27	795	prcA	Proteasome subunit alpha
+total.lomaiviticin.cluster28.aln	clade1	0.984848484848485	lomaiviticin	cluster28	831	btuD_4	Vitamin B12 import ATP-binding protein BtuD
+total.lomaiviticin.cluster28.aln	clade2	0	lomaiviticin	cluster28	831	btuD_4	Vitamin B12 import ATP-binding protein BtuD
+total.lomaiviticin.cluster28.aln	clade10	0	lomaiviticin	cluster28	831	btuD_4	Vitamin B12 import ATP-binding protein BtuD
+total.lomaiviticin.cluster28.aln	clade6	0	lomaiviticin	cluster28	831	btuD_4	Vitamin B12 import ATP-binding protein BtuD
+total.lomaiviticin.cluster28.aln	clade8	8.3399209486166	lomaiviticin	cluster28	831	btuD_4	Vitamin B12 import ATP-binding protein BtuD
+total.lomaiviticin.cluster28.aln	clade3	0	lomaiviticin	cluster28	831	btuD_4	Vitamin B12 import ATP-binding protein BtuD
+total.lomaiviticin.cluster28.aln	clade5	0	lomaiviticin	cluster28	831	btuD_4	Vitamin B12 import ATP-binding protein BtuD
+total.lomaiviticin.cluster28.aln	clade7	10	lomaiviticin	cluster28	831	btuD_4	Vitamin B12 import ATP-binding protein BtuD
+total.lomaiviticin.cluster28.aln	clade4	0	lomaiviticin	cluster28	831	btuD_4	Vitamin B12 import ATP-binding protein BtuD
+total.lomaiviticin.cluster29.aln	clade2	1	lomaiviticin	cluster29	840	KNPGFKEA_03447	hypothetical protein
+total.lomaiviticin.cluster29.aln	clade3	0	lomaiviticin	cluster29	840	KNPGFKEA_03447	hypothetical protein
+total.lomaiviticin.cluster29.aln	clade1	2.09090909090909	lomaiviticin	cluster29	840	KNPGFKEA_03447	hypothetical protein
+total.lomaiviticin.cluster29.aln	clade6	0	lomaiviticin	cluster29	840	KNPGFKEA_03447	hypothetical protein
+total.lomaiviticin.cluster29.aln	clade8	4.27667984189723	lomaiviticin	cluster29	840	KNPGFKEA_03447	hypothetical protein
+total.lomaiviticin.cluster29.aln	clade4	0	lomaiviticin	cluster29	840	KNPGFKEA_03447	hypothetical protein
+total.lomaiviticin.cluster29.aln	clade5	0	lomaiviticin	cluster29	840	KNPGFKEA_03447	hypothetical protein
+total.lomaiviticin.cluster29.aln	clade7	18	lomaiviticin	cluster29	840	KNPGFKEA_03447	hypothetical protein
+total.lomaiviticin.cluster29.aln	clade10	0	lomaiviticin	cluster29	840	KNPGFKEA_03447	hypothetical protein
+total.lomaiviticin.cluster3.aln	clade6	0	lomaiviticin	cluster3	966	trmI	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+total.lomaiviticin.cluster3.aln	clade2	4	lomaiviticin	cluster3	966	trmI	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+total.lomaiviticin.cluster3.aln	clade7	11.3333333333333	lomaiviticin	cluster3	966	trmI	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+total.lomaiviticin.cluster3.aln	clade5	0	lomaiviticin	cluster3	966	trmI	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+total.lomaiviticin.cluster3.aln	clade4	0	lomaiviticin	cluster3	966	trmI	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+total.lomaiviticin.cluster3.aln	clade10	0	lomaiviticin	cluster3	966	trmI	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+total.lomaiviticin.cluster3.aln	clade3	0	lomaiviticin	cluster3	966	trmI	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+total.lomaiviticin.cluster3.aln	clade8	5.82608695652174	lomaiviticin	cluster3	966	trmI	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+total.lomaiviticin.cluster3.aln	clade1	1.13636363636364	lomaiviticin	cluster3	966	trmI	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+total.lomaiviticin.cluster30.aln	clade2	1	lomaiviticin	cluster30	216	pup	Prokaryotic ubiquitin-like protein Pup
+total.lomaiviticin.cluster30.aln	clade8	1.23320158102767	lomaiviticin	cluster30	216	pup	Prokaryotic ubiquitin-like protein Pup
+total.lomaiviticin.cluster30.aln	clade1	0.696969696969697	lomaiviticin	cluster30	216	pup	Prokaryotic ubiquitin-like protein Pup
+total.lomaiviticin.cluster30.aln	clade3	0	lomaiviticin	cluster30	216	pup	Prokaryotic ubiquitin-like protein Pup
+total.lomaiviticin.cluster30.aln	clade4	0	lomaiviticin	cluster30	216	pup	Prokaryotic ubiquitin-like protein Pup
+total.lomaiviticin.cluster30.aln	clade5	0	lomaiviticin	cluster30	216	pup	Prokaryotic ubiquitin-like protein Pup
+total.lomaiviticin.cluster30.aln	clade6	0	lomaiviticin	cluster30	216	pup	Prokaryotic ubiquitin-like protein Pup
+total.lomaiviticin.cluster30.aln	clade10	0	lomaiviticin	cluster30	216	pup	Prokaryotic ubiquitin-like protein Pup
+total.lomaiviticin.cluster30.aln	clade7	4	lomaiviticin	cluster30	216	pup	Prokaryotic ubiquitin-like protein Pup
+total.lomaiviticin.cluster31.aln	clade3	0	lomaiviticin	cluster31	1518	dop	Depupylase
+total.lomaiviticin.cluster31.aln	clade6	0	lomaiviticin	cluster31	1518	dop	Depupylase
+total.lomaiviticin.cluster31.aln	clade4	0	lomaiviticin	cluster31	1518	dop	Depupylase
+total.lomaiviticin.cluster31.aln	clade7	24.6666666666667	lomaiviticin	cluster31	1518	dop	Depupylase
+total.lomaiviticin.cluster31.aln	clade8	10.901185770751	lomaiviticin	cluster31	1518	dop	Depupylase
+total.lomaiviticin.cluster31.aln	clade5	0	lomaiviticin	cluster31	1518	dop	Depupylase
+total.lomaiviticin.cluster31.aln	clade1	0.863636363636364	lomaiviticin	cluster31	1518	dop	Depupylase
+total.lomaiviticin.cluster31.aln	clade2	7	lomaiviticin	cluster31	1518	dop	Depupylase
+total.lomaiviticin.cluster31.aln	clade10	0	lomaiviticin	cluster31	1518	dop	Depupylase
+total.lomaiviticin.cluster32.aln	clade7	15.3333333333333	lomaiviticin	cluster32	1359	pafA	Pup--protein ligase
+total.lomaiviticin.cluster32.aln	clade4	0	lomaiviticin	cluster32	1359	pafA	Pup--protein ligase
+total.lomaiviticin.cluster32.aln	clade1	2.31818181818182	lomaiviticin	cluster32	1359	pafA	Pup--protein ligase
+total.lomaiviticin.cluster32.aln	clade2	2	lomaiviticin	cluster32	1359	pafA	Pup--protein ligase
+total.lomaiviticin.cluster32.aln	clade8	8.08695652173913	lomaiviticin	cluster32	1359	pafA	Pup--protein ligase
+total.lomaiviticin.cluster32.aln	clade5	0	lomaiviticin	cluster32	1359	pafA	Pup--protein ligase
+total.lomaiviticin.cluster32.aln	clade10	0	lomaiviticin	cluster32	1359	pafA	Pup--protein ligase
+total.lomaiviticin.cluster32.aln	clade3	0	lomaiviticin	cluster32	1359	pafA	Pup--protein ligase
+total.lomaiviticin.cluster32.aln	clade6	0	lomaiviticin	cluster32	1359	pafA	Pup--protein ligase
+total.lomaiviticin.cluster33.aln	clade3	0	lomaiviticin	cluster33	1272	HHFHFFJP_01333	Actinorhodin polyketide putative beta-ketoacyl synthase 1
+total.lomaiviticin.cluster33.aln	clade6	0	lomaiviticin	cluster33	1272	HHFHFFJP_01333	Actinorhodin polyketide putative beta-ketoacyl synthase 1
+total.lomaiviticin.cluster33.aln	clade10	0	lomaiviticin	cluster33	1272	HHFHFFJP_01333	Actinorhodin polyketide putative beta-ketoacyl synthase 1
+total.lomaiviticin.cluster33.aln	clade7	32.6666666666667	lomaiviticin	cluster33	1272	HHFHFFJP_01333	Actinorhodin polyketide putative beta-ketoacyl synthase 1
+total.lomaiviticin.cluster33.aln	clade8	4.35573122529644	lomaiviticin	cluster33	1272	HHFHFFJP_01333	Actinorhodin polyketide putative beta-ketoacyl synthase 1
+total.lomaiviticin.cluster33.aln	clade4	0	lomaiviticin	cluster33	1272	HHFHFFJP_01333	Actinorhodin polyketide putative beta-ketoacyl synthase 1
+total.lomaiviticin.cluster33.aln	clade5	0	lomaiviticin	cluster33	1272	HHFHFFJP_01333	Actinorhodin polyketide putative beta-ketoacyl synthase 1
+total.lomaiviticin.cluster33.aln	clade1	1.8030303030303	lomaiviticin	cluster33	1272	HHFHFFJP_01333	Actinorhodin polyketide putative beta-ketoacyl synthase 1
+total.lomaiviticin.cluster33.aln	clade2	2	lomaiviticin	cluster33	1272	HHFHFFJP_01333	Actinorhodin polyketide putative beta-ketoacyl synthase 1
+total.lomaiviticin.cluster34.aln	clade8	9.05928853754941	lomaiviticin	cluster34	1329	HHFHFFJP_01334	Actinorhodin polyketide putative beta-ketoacyl synthase 2
+total.lomaiviticin.cluster34.aln	clade4	0	lomaiviticin	cluster34	1329	HHFHFFJP_01334	Actinorhodin polyketide putative beta-ketoacyl synthase 2
+total.lomaiviticin.cluster34.aln	clade10	0	lomaiviticin	cluster34	1329	HHFHFFJP_01334	Actinorhodin polyketide putative beta-ketoacyl synthase 2
+total.lomaiviticin.cluster34.aln	clade7	29.3333333333333	lomaiviticin	cluster34	1329	HHFHFFJP_01334	Actinorhodin polyketide putative beta-ketoacyl synthase 2
+total.lomaiviticin.cluster34.aln	clade2	2	lomaiviticin	cluster34	1329	HHFHFFJP_01334	Actinorhodin polyketide putative beta-ketoacyl synthase 2
+total.lomaiviticin.cluster34.aln	clade5	0	lomaiviticin	cluster34	1329	HHFHFFJP_01334	Actinorhodin polyketide putative beta-ketoacyl synthase 2
+total.lomaiviticin.cluster34.aln	clade1	2.68181818181818	lomaiviticin	cluster34	1329	HHFHFFJP_01334	Actinorhodin polyketide putative beta-ketoacyl synthase 2
+total.lomaiviticin.cluster34.aln	clade3	0	lomaiviticin	cluster34	1329	HHFHFFJP_01334	Actinorhodin polyketide putative beta-ketoacyl synthase 2
+total.lomaiviticin.cluster34.aln	clade6	0	lomaiviticin	cluster34	1329	HHFHFFJP_01334	Actinorhodin polyketide putative beta-ketoacyl synthase 2
+total.lomaiviticin.cluster35.aln	clade2	2	lomaiviticin	cluster35	192	GHFKALDJ_02817	hypothetical protein
+total.lomaiviticin.cluster35.aln	clade3	0	lomaiviticin	cluster35	192	GHFKALDJ_02817	hypothetical protein
+total.lomaiviticin.cluster35.aln	clade10	0	lomaiviticin	cluster35	192	GHFKALDJ_02817	hypothetical protein
+total.lomaiviticin.cluster35.aln	clade1	0.333333333333333	lomaiviticin	cluster35	192	GHFKALDJ_02817	hypothetical protein
+total.lomaiviticin.cluster35.aln	clade8	1.76284584980237	lomaiviticin	cluster35	192	GHFKALDJ_02817	hypothetical protein
+total.lomaiviticin.cluster35.aln	clade4	0	lomaiviticin	cluster35	192	GHFKALDJ_02817	hypothetical protein
+total.lomaiviticin.cluster35.aln	clade6	0	lomaiviticin	cluster35	192	GHFKALDJ_02817	hypothetical protein
+total.lomaiviticin.cluster35.aln	clade7	1.33333333333333	lomaiviticin	cluster35	192	GHFKALDJ_02817	hypothetical protein
+total.lomaiviticin.cluster35.aln	clade5	0	lomaiviticin	cluster35	192	GHFKALDJ_02817	hypothetical protein
+total.lomaiviticin.cluster36.aln	clade1	3.60606060606061	lomaiviticin	cluster36	2550	HHFHFFJP_01343	hypothetical protein
+total.lomaiviticin.cluster36.aln	clade2	13	lomaiviticin	cluster36	2550	HHFHFFJP_01343	hypothetical protein
+total.lomaiviticin.cluster36.aln	clade10	0	lomaiviticin	cluster36	2550	HHFHFFJP_01343	hypothetical protein
+total.lomaiviticin.cluster36.aln	clade7	57.3333333333333	lomaiviticin	cluster36	2550	HHFHFFJP_01343	hypothetical protein
+total.lomaiviticin.cluster36.aln	clade3	0	lomaiviticin	cluster36	2550	HHFHFFJP_01343	hypothetical protein
+total.lomaiviticin.cluster36.aln	clade4	0	lomaiviticin	cluster36	2550	HHFHFFJP_01343	hypothetical protein
+total.lomaiviticin.cluster36.aln	clade5	0	lomaiviticin	cluster36	2550	HHFHFFJP_01343	hypothetical protein
+total.lomaiviticin.cluster36.aln	clade8	48.3162055335968	lomaiviticin	cluster36	2550	HHFHFFJP_01343	hypothetical protein
+total.lomaiviticin.cluster36.aln	clade6	0	lomaiviticin	cluster36	2550	HHFHFFJP_01343	hypothetical protein
+total.lomaiviticin.cluster37.aln	clade10	0	lomaiviticin	cluster37	2769	helY	putative helicase HelY
+total.lomaiviticin.cluster37.aln	clade2	6	lomaiviticin	cluster37	2769	helY	putative helicase HelY
+total.lomaiviticin.cluster37.aln	clade5	0	lomaiviticin	cluster37	2769	helY	putative helicase HelY
+total.lomaiviticin.cluster37.aln	clade1	3.1969696969697	lomaiviticin	cluster37	2769	helY	putative helicase HelY
+total.lomaiviticin.cluster37.aln	clade3	0	lomaiviticin	cluster37	2769	helY	putative helicase HelY
+total.lomaiviticin.cluster37.aln	clade4	0	lomaiviticin	cluster37	2769	helY	putative helicase HelY
+total.lomaiviticin.cluster37.aln	clade6	0	lomaiviticin	cluster37	2769	helY	putative helicase HelY
+total.lomaiviticin.cluster37.aln	clade7	33.3333333333333	lomaiviticin	cluster37	2769	helY	putative helicase HelY
+total.lomaiviticin.cluster37.aln	clade8	11.3280632411067	lomaiviticin	cluster37	2769	helY	putative helicase HelY
+total.lomaiviticin.cluster38.aln	clade2	6	lomaiviticin	cluster38	1782	arc	Proteasome-associated ATPase
+total.lomaiviticin.cluster38.aln	clade4	0	lomaiviticin	cluster38	1782	arc	Proteasome-associated ATPase
+total.lomaiviticin.cluster38.aln	clade10	0	lomaiviticin	cluster38	1782	arc	Proteasome-associated ATPase
+total.lomaiviticin.cluster38.aln	clade1	3.12121212121212	lomaiviticin	cluster38	1782	arc	Proteasome-associated ATPase
+total.lomaiviticin.cluster38.aln	clade3	0	lomaiviticin	cluster38	1782	arc	Proteasome-associated ATPase
+total.lomaiviticin.cluster38.aln	clade5	0	lomaiviticin	cluster38	1782	arc	Proteasome-associated ATPase
+total.lomaiviticin.cluster38.aln	clade7	21.3333333333333	lomaiviticin	cluster38	1782	arc	Proteasome-associated ATPase
+total.lomaiviticin.cluster38.aln	clade8	8.48221343873518	lomaiviticin	cluster38	1782	arc	Proteasome-associated ATPase
+total.lomaiviticin.cluster38.aln	clade6	0	lomaiviticin	cluster38	1782	arc	Proteasome-associated ATPase
+total.lomaiviticin.cluster4.aln	clade10	0	lomaiviticin	cluster4	951	tatC	Sec-independent protein translocase protein TatC
+total.lomaiviticin.cluster4.aln	clade2	4	lomaiviticin	cluster4	951	tatC	Sec-independent protein translocase protein TatC
+total.lomaiviticin.cluster4.aln	clade3	0	lomaiviticin	cluster4	951	tatC	Sec-independent protein translocase protein TatC
+total.lomaiviticin.cluster4.aln	clade5	0	lomaiviticin	cluster4	951	tatC	Sec-independent protein translocase protein TatC
+total.lomaiviticin.cluster4.aln	clade1	2.1969696969697	lomaiviticin	cluster4	951	tatC	Sec-independent protein translocase protein TatC
+total.lomaiviticin.cluster4.aln	clade4	0	lomaiviticin	cluster4	951	tatC	Sec-independent protein translocase protein TatC
+total.lomaiviticin.cluster4.aln	clade7	20	lomaiviticin	cluster4	951	tatC	Sec-independent protein translocase protein TatC
+total.lomaiviticin.cluster4.aln	clade6	0	lomaiviticin	cluster4	951	tatC	Sec-independent protein translocase protein TatC
+total.lomaiviticin.cluster4.aln	clade8	4.90118577075099	lomaiviticin	cluster4	951	tatC	Sec-independent protein translocase protein TatC
+total.lomaiviticin.cluster40.aln	clade2	3	lomaiviticin	cluster40	1770	HHFHFFJP_01318	Putative multidrug export ATP-binding/permease protein
+total.lomaiviticin.cluster40.aln	clade3	0	lomaiviticin	cluster40	1770	HHFHFFJP_01318	Putative multidrug export ATP-binding/permease protein
+total.lomaiviticin.cluster40.aln	clade10	0	lomaiviticin	cluster40	1770	HHFHFFJP_01318	Putative multidrug export ATP-binding/permease protein
+total.lomaiviticin.cluster40.aln	clade1	1.8030303030303	lomaiviticin	cluster40	1770	HHFHFFJP_01318	Putative multidrug export ATP-binding/permease protein
+total.lomaiviticin.cluster40.aln	clade8	11.1699604743083	lomaiviticin	cluster40	1770	HHFHFFJP_01318	Putative multidrug export ATP-binding/permease protein
+total.lomaiviticin.cluster40.aln	clade4	0	lomaiviticin	cluster40	1770	HHFHFFJP_01318	Putative multidrug export ATP-binding/permease protein
+total.lomaiviticin.cluster40.aln	clade5	0	lomaiviticin	cluster40	1770	HHFHFFJP_01318	Putative multidrug export ATP-binding/permease protein
+total.lomaiviticin.cluster40.aln	clade7	23.3333333333333	lomaiviticin	cluster40	1770	HHFHFFJP_01318	Putative multidrug export ATP-binding/permease protein
+total.lomaiviticin.cluster40.aln	clade6	0	lomaiviticin	cluster40	1770	HHFHFFJP_01318	Putative multidrug export ATP-binding/permease protein
+total.lomaiviticin.cluster41.aln	clade1	1.31818181818182	lomaiviticin	cluster41	1143	rip3_1	Putative zinc metalloprotease Rip3
+total.lomaiviticin.cluster41.aln	clade2	1	lomaiviticin	cluster41	1143	rip3_1	Putative zinc metalloprotease Rip3
+total.lomaiviticin.cluster41.aln	clade10	0	lomaiviticin	cluster41	1143	rip3_1	Putative zinc metalloprotease Rip3
+total.lomaiviticin.cluster41.aln	clade7	28.6666666666667	lomaiviticin	cluster41	1143	rip3_1	Putative zinc metalloprotease Rip3
+total.lomaiviticin.cluster41.aln	clade3	0	lomaiviticin	cluster41	1143	rip3_1	Putative zinc metalloprotease Rip3
+total.lomaiviticin.cluster41.aln	clade4	0	lomaiviticin	cluster41	1143	rip3_1	Putative zinc metalloprotease Rip3
+total.lomaiviticin.cluster41.aln	clade5	0	lomaiviticin	cluster41	1143	rip3_1	Putative zinc metalloprotease Rip3
+total.lomaiviticin.cluster41.aln	clade8	8.43478260869565	lomaiviticin	cluster41	1143	rip3_1	Putative zinc metalloprotease Rip3
+total.lomaiviticin.cluster41.aln	clade6	0	lomaiviticin	cluster41	1143	rip3_1	Putative zinc metalloprotease Rip3
+total.lomaiviticin.cluster42.aln	clade10	0	lomaiviticin	cluster42	249	HHFHFFJP_01362	hypothetical protein
+total.lomaiviticin.cluster42.aln	clade2	2	lomaiviticin	cluster42	249	HHFHFFJP_01362	hypothetical protein
+total.lomaiviticin.cluster42.aln	clade5	0	lomaiviticin	cluster42	249	HHFHFFJP_01362	hypothetical protein
+total.lomaiviticin.cluster42.aln	clade1	0.409090909090909	lomaiviticin	cluster42	249	HHFHFFJP_01362	hypothetical protein
+total.lomaiviticin.cluster42.aln	clade3	0	lomaiviticin	cluster42	249	HHFHFFJP_01362	hypothetical protein
+total.lomaiviticin.cluster42.aln	clade4	0	lomaiviticin	cluster42	249	HHFHFFJP_01362	hypothetical protein
+total.lomaiviticin.cluster42.aln	clade6	0	lomaiviticin	cluster42	249	HHFHFFJP_01362	hypothetical protein
+total.lomaiviticin.cluster42.aln	clade7	11.3333333333333	lomaiviticin	cluster42	249	HHFHFFJP_01362	hypothetical protein
+total.lomaiviticin.cluster42.aln	clade8	1.55731225296443	lomaiviticin	cluster42	249	HHFHFFJP_01362	hypothetical protein
+total.lomaiviticin.cluster44.aln	clade2	3	lomaiviticin	cluster44	1041	novM_2	L-demethylnoviosyl transferase
+total.lomaiviticin.cluster44.aln	clade10	0	lomaiviticin	cluster44	1041	novM_2	L-demethylnoviosyl transferase
+total.lomaiviticin.cluster44.aln	clade1	1.68181818181818	lomaiviticin	cluster44	1041	novM_2	L-demethylnoviosyl transferase
+total.lomaiviticin.cluster44.aln	clade7	12.6666666666667	lomaiviticin	cluster44	1041	novM_2	L-demethylnoviosyl transferase
+total.lomaiviticin.cluster44.aln	clade3	0	lomaiviticin	cluster44	1041	novM_2	L-demethylnoviosyl transferase
+total.lomaiviticin.cluster44.aln	clade4	0	lomaiviticin	cluster44	1041	novM_2	L-demethylnoviosyl transferase
+total.lomaiviticin.cluster44.aln	clade5	0	lomaiviticin	cluster44	1041	novM_2	L-demethylnoviosyl transferase
+total.lomaiviticin.cluster44.aln	clade8	6.65612648221344	lomaiviticin	cluster44	1041	novM_2	L-demethylnoviosyl transferase
+total.lomaiviticin.cluster44.aln	clade6	0	lomaiviticin	cluster44	1041	novM_2	L-demethylnoviosyl transferase
+total.lomaiviticin.cluster45.aln	clade10	0	lomaiviticin	cluster45	1053	strE_2	dTDP-glucose 4,6-dehydratase
+total.lomaiviticin.cluster45.aln	clade3	0	lomaiviticin	cluster45	1053	strE_2	dTDP-glucose 4,6-dehydratase
+total.lomaiviticin.cluster45.aln	clade2	10	lomaiviticin	cluster45	1053	strE_2	dTDP-glucose 4,6-dehydratase
+total.lomaiviticin.cluster45.aln	clade1	2.66666666666667	lomaiviticin	cluster45	1053	strE_2	dTDP-glucose 4,6-dehydratase
+total.lomaiviticin.cluster45.aln	clade8	9.27272727272727	lomaiviticin	cluster45	1053	strE_2	dTDP-glucose 4,6-dehydratase
+total.lomaiviticin.cluster45.aln	clade4	0	lomaiviticin	cluster45	1053	strE_2	dTDP-glucose 4,6-dehydratase
+total.lomaiviticin.cluster45.aln	clade5	0	lomaiviticin	cluster45	1053	strE_2	dTDP-glucose 4,6-dehydratase
+total.lomaiviticin.cluster45.aln	clade7	15.3333333333333	lomaiviticin	cluster45	1053	strE_2	dTDP-glucose 4,6-dehydratase
+total.lomaiviticin.cluster45.aln	clade6	0	lomaiviticin	cluster45	1053	strE_2	dTDP-glucose 4,6-dehydratase
+total.lomaiviticin.cluster46.aln	clade3	0	lomaiviticin	cluster46	1056	KNPGFKEA_03442	hypothetical protein
+total.lomaiviticin.cluster46.aln	clade2	7	lomaiviticin	cluster46	1056	KNPGFKEA_03442	hypothetical protein
+total.lomaiviticin.cluster46.aln	clade5	0	lomaiviticin	cluster46	1056	KNPGFKEA_03442	hypothetical protein
+total.lomaiviticin.cluster46.aln	clade7	26	lomaiviticin	cluster46	1056	KNPGFKEA_03442	hypothetical protein
+total.lomaiviticin.cluster46.aln	clade4	0	lomaiviticin	cluster46	1056	KNPGFKEA_03442	hypothetical protein
+total.lomaiviticin.cluster46.aln	clade10	0	lomaiviticin	cluster46	1056	KNPGFKEA_03442	hypothetical protein
+total.lomaiviticin.cluster46.aln	clade6	0	lomaiviticin	cluster46	1056	KNPGFKEA_03442	hypothetical protein
+total.lomaiviticin.cluster46.aln	clade8	7.11462450592885	lomaiviticin	cluster46	1056	KNPGFKEA_03442	hypothetical protein
+total.lomaiviticin.cluster46.aln	clade1	3.18181818181818	lomaiviticin	cluster46	1056	KNPGFKEA_03442	hypothetical protein
+total.lomaiviticin.cluster47.aln	clade6	0	lomaiviticin	cluster47	1257	vioA	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+total.lomaiviticin.cluster47.aln	clade3	0	lomaiviticin	cluster47	1257	vioA	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+total.lomaiviticin.cluster47.aln	clade10	0	lomaiviticin	cluster47	1257	vioA	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+total.lomaiviticin.cluster47.aln	clade7	11.3333333333333	lomaiviticin	cluster47	1257	vioA	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+total.lomaiviticin.cluster47.aln	clade5	0	lomaiviticin	cluster47	1257	vioA	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+total.lomaiviticin.cluster47.aln	clade4	0	lomaiviticin	cluster47	1257	vioA	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+total.lomaiviticin.cluster47.aln	clade2	4	lomaiviticin	cluster47	1257	vioA	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+total.lomaiviticin.cluster47.aln	clade1	0.696969696969697	lomaiviticin	cluster47	1257	vioA	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+total.lomaiviticin.cluster47.aln	clade8	5.76284584980237	lomaiviticin	cluster47	1257	vioA	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+total.lomaiviticin.cluster6.aln	clade7	6	lomaiviticin	cluster6	297	JPECDPKM_00463	hypothetical protein
+total.lomaiviticin.cluster6.aln	clade10	0	lomaiviticin	cluster6	297	JPECDPKM_00463	hypothetical protein
+total.lomaiviticin.cluster6.aln	clade2	0	lomaiviticin	cluster6	297	JPECDPKM_00463	hypothetical protein
+total.lomaiviticin.cluster6.aln	clade4	0	lomaiviticin	cluster6	297	JPECDPKM_00463	hypothetical protein
+total.lomaiviticin.cluster6.aln	clade8	2.03162055335968	lomaiviticin	cluster6	297	JPECDPKM_00463	hypothetical protein
+total.lomaiviticin.cluster6.aln	clade1	0.333333333333333	lomaiviticin	cluster6	297	JPECDPKM_00463	hypothetical protein
+total.lomaiviticin.cluster6.aln	clade3	0	lomaiviticin	cluster6	297	JPECDPKM_00463	hypothetical protein
+total.lomaiviticin.cluster6.aln	clade5	0	lomaiviticin	cluster6	297	JPECDPKM_00463	hypothetical protein
+total.lomaiviticin.cluster6.aln	clade6	0	lomaiviticin	cluster6	297	JPECDPKM_00463	hypothetical protein
+total.lomaiviticin.cluster7.aln	clade10	0	lomaiviticin	cluster7	984	ppsE_1	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+total.lomaiviticin.cluster7.aln	clade1	0.166666666666667	lomaiviticin	cluster7	984	ppsE_1	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+total.lomaiviticin.cluster7.aln	clade3	0	lomaiviticin	cluster7	984	ppsE_1	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+total.lomaiviticin.cluster7.aln	clade4	0	lomaiviticin	cluster7	984	ppsE_1	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+total.lomaiviticin.cluster7.aln	clade5	0	lomaiviticin	cluster7	984	ppsE_1	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+total.lomaiviticin.cluster7.aln	clade6	0	lomaiviticin	cluster7	984	ppsE_1	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+total.lomaiviticin.cluster7.aln	clade2	5	lomaiviticin	cluster7	984	ppsE_1	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+total.lomaiviticin.cluster7.aln	clade8	7.33596837944664	lomaiviticin	cluster7	984	ppsE_1	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+total.lomaiviticin.cluster7.aln	clade7	20.6666666666667	lomaiviticin	cluster7	984	ppsE_1	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+total.lomaiviticin.cluster8.aln	clade7	19.3333333333333	lomaiviticin	cluster8	1023	rdmB	Aclacinomycin 10-hydroxylase RdmB
+total.lomaiviticin.cluster8.aln	clade8	6.09486166007905	lomaiviticin	cluster8	1023	rdmB	Aclacinomycin 10-hydroxylase RdmB
+total.lomaiviticin.cluster8.aln	clade6	0	lomaiviticin	cluster8	1023	rdmB	Aclacinomycin 10-hydroxylase RdmB
+total.lomaiviticin.cluster8.aln	clade4	0	lomaiviticin	cluster8	1023	rdmB	Aclacinomycin 10-hydroxylase RdmB
+total.lomaiviticin.cluster8.aln	clade10	0	lomaiviticin	cluster8	1023	rdmB	Aclacinomycin 10-hydroxylase RdmB
+total.lomaiviticin.cluster8.aln	clade1	1.18181818181818	lomaiviticin	cluster8	1023	rdmB	Aclacinomycin 10-hydroxylase RdmB
+total.lomaiviticin.cluster8.aln	clade3	0	lomaiviticin	cluster8	1023	rdmB	Aclacinomycin 10-hydroxylase RdmB
+total.lomaiviticin.cluster8.aln	clade2	1	lomaiviticin	cluster8	1023	rdmB	Aclacinomycin 10-hydroxylase RdmB
+total.lomaiviticin.cluster8.aln	clade5	0	lomaiviticin	cluster8	1023	rdmB	Aclacinomycin 10-hydroxylase RdmB
+total.lymphostin.cluster0.aln	clade7	10	lymphostin	cluster0	858	dnrC_2	Aklanonic acid methyltransferase DnrC
+total.lymphostin.cluster0.aln	clade10	5.21748633879781	lymphostin	cluster0	858	dnrC_2	Aklanonic acid methyltransferase DnrC
+total.lymphostin.cluster0.aln	clade2	2	lymphostin	cluster0	858	dnrC_2	Aklanonic acid methyltransferase DnrC
+total.lymphostin.cluster0.aln	clade8	2.08947368421053	lymphostin	cluster0	858	dnrC_2	Aklanonic acid methyltransferase DnrC
+total.lymphostin.cluster0.aln	clade4	51	lymphostin	cluster0	858	dnrC_2	Aklanonic acid methyltransferase DnrC
+total.lymphostin.cluster0.aln	clade1	0.545454545454545	lymphostin	cluster0	858	dnrC_2	Aklanonic acid methyltransferase DnrC
+total.lymphostin.cluster0.aln	clade3	0	lymphostin	cluster0	858	dnrC_2	Aklanonic acid methyltransferase DnrC
+total.lymphostin.cluster0.aln	clade6	0	lymphostin	cluster0	858	dnrC_2	Aklanonic acid methyltransferase DnrC
+total.lymphostin.cluster0.aln	clade5	11.1428571428571	lymphostin	cluster0	858	dnrC_2	Aklanonic acid methyltransferase DnrC
+total.lymphostin.cluster1.aln	clade10	6.50601092896175	lymphostin	cluster1	1083	LFOLEMLJ_03336	hypothetical protein
+total.lymphostin.cluster1.aln	clade1	2.04545454545455	lymphostin	cluster1	1083	LFOLEMLJ_03336	hypothetical protein
+total.lymphostin.cluster1.aln	clade2	10	lymphostin	cluster1	1083	LFOLEMLJ_03336	hypothetical protein
+total.lymphostin.cluster1.aln	clade4	34	lymphostin	cluster1	1083	LFOLEMLJ_03336	hypothetical protein
+total.lymphostin.cluster1.aln	clade5	12.4761904761905	lymphostin	cluster1	1083	LFOLEMLJ_03336	hypothetical protein
+total.lymphostin.cluster1.aln	clade7	16.6666666666667	lymphostin	cluster1	1083	LFOLEMLJ_03336	hypothetical protein
+total.lymphostin.cluster1.aln	clade3	0	lymphostin	cluster1	1083	LFOLEMLJ_03336	hypothetical protein
+total.lymphostin.cluster1.aln	clade6	0	lymphostin	cluster1	1083	LFOLEMLJ_03336	hypothetical protein
+total.lymphostin.cluster1.aln	clade8	4.01052631578947	lymphostin	cluster1	1083	LFOLEMLJ_03336	hypothetical protein
+total.lymphostin.cluster10.aln	clade8	3.82631578947368	lymphostin	cluster10	1212	LFOLEMLJ_03339	N-acetyldiaminopimelate deacetylase
+total.lymphostin.cluster10.aln	clade10	8.18907103825137	lymphostin	cluster10	1212	LFOLEMLJ_03339	N-acetyldiaminopimelate deacetylase
+total.lymphostin.cluster10.aln	clade7	24	lymphostin	cluster10	1212	LFOLEMLJ_03339	N-acetyldiaminopimelate deacetylase
+total.lymphostin.cluster10.aln	clade3	0	lymphostin	cluster10	1212	LFOLEMLJ_03339	N-acetyldiaminopimelate deacetylase
+total.lymphostin.cluster10.aln	clade5	15.6190476190476	lymphostin	cluster10	1212	LFOLEMLJ_03339	N-acetyldiaminopimelate deacetylase
+total.lymphostin.cluster10.aln	clade2	2	lymphostin	cluster10	1212	LFOLEMLJ_03339	N-acetyldiaminopimelate deacetylase
+total.lymphostin.cluster10.aln	clade6	0	lymphostin	cluster10	1212	LFOLEMLJ_03339	N-acetyldiaminopimelate deacetylase
+total.lymphostin.cluster10.aln	clade1	1.74242424242424	lymphostin	cluster10	1212	LFOLEMLJ_03339	N-acetyldiaminopimelate deacetylase
+total.lymphostin.cluster10.aln	clade4	30	lymphostin	cluster10	1212	LFOLEMLJ_03339	N-acetyldiaminopimelate deacetylase
+total.lymphostin.cluster11.aln	clade10	6.00874316939891	lymphostin	cluster11	1263	BAMJMEEL_00065	hypothetical protein
+total.lymphostin.cluster11.aln	clade2	1	lymphostin	cluster11	1263	BAMJMEEL_00065	hypothetical protein
+total.lymphostin.cluster11.aln	clade3	0	lymphostin	cluster11	1263	BAMJMEEL_00065	hypothetical protein
+total.lymphostin.cluster11.aln	clade6	0	lymphostin	cluster11	1263	BAMJMEEL_00065	hypothetical protein
+total.lymphostin.cluster11.aln	clade1	2.60606060606061	lymphostin	cluster11	1263	BAMJMEEL_00065	hypothetical protein
+total.lymphostin.cluster11.aln	clade4	22	lymphostin	cluster11	1263	BAMJMEEL_00065	hypothetical protein
+total.lymphostin.cluster11.aln	clade5	17.9047619047619	lymphostin	cluster11	1263	BAMJMEEL_00065	hypothetical protein
+total.lymphostin.cluster11.aln	clade7	15.3333333333333	lymphostin	cluster11	1263	BAMJMEEL_00065	hypothetical protein
+total.lymphostin.cluster11.aln	clade8	4.03157894736842	lymphostin	cluster11	1263	BAMJMEEL_00065	hypothetical protein
+total.lymphostin.cluster12.aln	clade3	0	lymphostin	cluster12	2436	LFOLEMLJ_03331	hypothetical protein
+total.lymphostin.cluster12.aln	clade4	74	lymphostin	cluster12	2436	LFOLEMLJ_03331	hypothetical protein
+total.lymphostin.cluster12.aln	clade5	30.1904761904762	lymphostin	cluster12	2436	LFOLEMLJ_03331	hypothetical protein
+total.lymphostin.cluster12.aln	clade6	0	lymphostin	cluster12	2436	LFOLEMLJ_03331	hypothetical protein
+total.lymphostin.cluster12.aln	clade8	8.71578947368421	lymphostin	cluster12	2436	LFOLEMLJ_03331	hypothetical protein
+total.lymphostin.cluster12.aln	clade1	4.83333333333333	lymphostin	cluster12	2436	LFOLEMLJ_03331	hypothetical protein
+total.lymphostin.cluster12.aln	clade2	6	lymphostin	cluster12	2436	LFOLEMLJ_03331	hypothetical protein
+total.lymphostin.cluster12.aln	clade7	28	lymphostin	cluster12	2436	LFOLEMLJ_03331	hypothetical protein
+total.lymphostin.cluster12.aln	clade10	14.7737704918033	lymphostin	cluster12	2436	LFOLEMLJ_03331	hypothetical protein
+total.lymphostin.cluster2.aln	clade4	38	lymphostin	cluster2	1971	asnB_3	Asparagine synthetase [glutamine-hydrolyzing] 1
+total.lymphostin.cluster2.aln	clade1	3.81818181818182	lymphostin	cluster2	1971	asnB_3	Asparagine synthetase [glutamine-hydrolyzing] 1
+total.lymphostin.cluster2.aln	clade3	0	lymphostin	cluster2	1971	asnB_3	Asparagine synthetase [glutamine-hydrolyzing] 1
+total.lymphostin.cluster2.aln	clade5	15.1428571428571	lymphostin	cluster2	1971	asnB_3	Asparagine synthetase [glutamine-hydrolyzing] 1
+total.lymphostin.cluster2.aln	clade10	11.6655737704918	lymphostin	cluster2	1971	asnB_3	Asparagine synthetase [glutamine-hydrolyzing] 1
+total.lymphostin.cluster2.aln	clade2	4	lymphostin	cluster2	1971	asnB_3	Asparagine synthetase [glutamine-hydrolyzing] 1
+total.lymphostin.cluster2.aln	clade8	5.1	lymphostin	cluster2	1971	asnB_3	Asparagine synthetase [glutamine-hydrolyzing] 1
+total.lymphostin.cluster2.aln	clade6	0	lymphostin	cluster2	1971	asnB_3	Asparagine synthetase [glutamine-hydrolyzing] 1
+total.lymphostin.cluster2.aln	clade7	14	lymphostin	cluster2	1971	asnB_3	Asparagine synthetase [glutamine-hydrolyzing] 1
+total.lymphostin.cluster3.aln	clade7	32	lymphostin	cluster3	2295	KNEBLNGO_02507	hypothetical protein
+total.lymphostin.cluster3.aln	clade8	7.1421052631579	lymphostin	cluster3	2295	KNEBLNGO_02507	hypothetical protein
+total.lymphostin.cluster3.aln	clade4	60	lymphostin	cluster3	2295	KNEBLNGO_02507	hypothetical protein
+total.lymphostin.cluster3.aln	clade1	3.12121212121212	lymphostin	cluster3	2295	KNEBLNGO_02507	hypothetical protein
+total.lymphostin.cluster3.aln	clade5	33.1428571428571	lymphostin	cluster3	2295	KNEBLNGO_02507	hypothetical protein
+total.lymphostin.cluster3.aln	clade6	0	lymphostin	cluster3	2295	KNEBLNGO_02507	hypothetical protein
+total.lymphostin.cluster3.aln	clade3	0	lymphostin	cluster3	2295	KNEBLNGO_02507	hypothetical protein
+total.lymphostin.cluster3.aln	clade10	17.0393442622951	lymphostin	cluster3	2295	KNEBLNGO_02507	hypothetical protein
+total.lymphostin.cluster3.aln	clade2	7	lymphostin	cluster3	2295	KNEBLNGO_02507	hypothetical protein
+total.lymphostin.cluster4.aln	clade10	12.103825136612	lymphostin	cluster4	2250	LFOLEMLJ_03334	hypothetical protein
+total.lymphostin.cluster4.aln	clade1	4.66666666666667	lymphostin	cluster4	2250	LFOLEMLJ_03334	hypothetical protein
+total.lymphostin.cluster4.aln	clade2	5	lymphostin	cluster4	2250	LFOLEMLJ_03334	hypothetical protein
+total.lymphostin.cluster4.aln	clade3	0	lymphostin	cluster4	2250	LFOLEMLJ_03334	hypothetical protein
+total.lymphostin.cluster4.aln	clade6	0	lymphostin	cluster4	2250	LFOLEMLJ_03334	hypothetical protein
+total.lymphostin.cluster4.aln	clade4	67	lymphostin	cluster4	2250	LFOLEMLJ_03334	hypothetical protein
+total.lymphostin.cluster4.aln	clade5	26.4761904761905	lymphostin	cluster4	2250	LFOLEMLJ_03334	hypothetical protein
+total.lymphostin.cluster4.aln	clade8	8.52631578947368	lymphostin	cluster4	2250	LFOLEMLJ_03334	hypothetical protein
+total.lymphostin.cluster4.aln	clade7	32.6666666666667	lymphostin	cluster4	2250	LFOLEMLJ_03334	hypothetical protein
+total.lymphostin.cluster5.aln	clade6	0	lymphostin	cluster5	675	MGCLLBHH_01603	hypothetical protein
+total.lymphostin.cluster5.aln	clade4	17	lymphostin	cluster5	675	MGCLLBHH_01603	hypothetical protein
+total.lymphostin.cluster5.aln	clade5	5.04761904761905	lymphostin	cluster5	675	MGCLLBHH_01603	hypothetical protein
+total.lymphostin.cluster5.aln	clade3	0	lymphostin	cluster5	675	MGCLLBHH_01603	hypothetical protein
+total.lymphostin.cluster5.aln	clade8	1.65263157894737	lymphostin	cluster5	675	MGCLLBHH_01603	hypothetical protein
+total.lymphostin.cluster5.aln	clade1	0.409090909090909	lymphostin	cluster5	675	MGCLLBHH_01603	hypothetical protein
+total.lymphostin.cluster5.aln	clade2	3	lymphostin	cluster5	675	MGCLLBHH_01603	hypothetical protein
+total.lymphostin.cluster5.aln	clade7	8	lymphostin	cluster5	675	MGCLLBHH_01603	hypothetical protein
+total.lymphostin.cluster5.aln	clade10	4.35628415300546	lymphostin	cluster5	675	MGCLLBHH_01603	hypothetical protein
+total.lymphostin.cluster6.aln	clade2	5	lymphostin	cluster6	1470	LFOLEMLJ_03333	hypothetical protein
+total.lymphostin.cluster6.aln	clade10	9.92349726775956	lymphostin	cluster6	1470	LFOLEMLJ_03333	hypothetical protein
+total.lymphostin.cluster6.aln	clade3	0	lymphostin	cluster6	1470	LFOLEMLJ_03333	hypothetical protein
+total.lymphostin.cluster6.aln	clade4	48	lymphostin	cluster6	1470	LFOLEMLJ_03333	hypothetical protein
+total.lymphostin.cluster6.aln	clade5	22.7619047619048	lymphostin	cluster6	1470	LFOLEMLJ_03333	hypothetical protein
+total.lymphostin.cluster6.aln	clade1	0.878787878787879	lymphostin	cluster6	1470	LFOLEMLJ_03333	hypothetical protein
+total.lymphostin.cluster6.aln	clade6	0	lymphostin	cluster6	1470	LFOLEMLJ_03333	hypothetical protein
+total.lymphostin.cluster6.aln	clade7	18.6666666666667	lymphostin	cluster6	1470	LFOLEMLJ_03333	hypothetical protein
+total.lymphostin.cluster6.aln	clade8	5.90526315789474	lymphostin	cluster6	1470	LFOLEMLJ_03333	hypothetical protein
+total.lymphostin.cluster7.aln	clade5	25.8095238095238	lymphostin	cluster7	1524	pepPI_2	Xaa-Pro aminopeptidase 1
+total.lymphostin.cluster7.aln	clade4	32	lymphostin	cluster7	1524	pepPI_2	Xaa-Pro aminopeptidase 1
+total.lymphostin.cluster7.aln	clade1	1.45454545454545	lymphostin	cluster7	1524	pepPI_2	Xaa-Pro aminopeptidase 1
+total.lymphostin.cluster7.aln	clade3	0	lymphostin	cluster7	1524	pepPI_2	Xaa-Pro aminopeptidase 1
+total.lymphostin.cluster7.aln	clade8	6.18421052631579	lymphostin	cluster7	1524	pepPI_2	Xaa-Pro aminopeptidase 1
+total.lymphostin.cluster7.aln	clade6	0	lymphostin	cluster7	1524	pepPI_2	Xaa-Pro aminopeptidase 1
+total.lymphostin.cluster7.aln	clade7	20.6666666666667	lymphostin	cluster7	1524	pepPI_2	Xaa-Pro aminopeptidase 1
+total.lymphostin.cluster7.aln	clade10	8.04699453551913	lymphostin	cluster7	1524	pepPI_2	Xaa-Pro aminopeptidase 1
+total.lymphostin.cluster7.aln	clade2	2	lymphostin	cluster7	1524	pepPI_2	Xaa-Pro aminopeptidase 1
+total.lymphostin.cluster8.aln	clade6	0	lymphostin	cluster8	1803	MKCNELDG_03376	hypothetical protein
+total.lymphostin.cluster8.aln	clade7	27.3333333333333	lymphostin	cluster8	1803	MKCNELDG_03376	hypothetical protein
+total.lymphostin.cluster8.aln	clade3	0	lymphostin	cluster8	1803	MKCNELDG_03376	hypothetical protein
+total.lymphostin.cluster8.aln	clade4	63	lymphostin	cluster8	1803	MKCNELDG_03376	hypothetical protein
+total.lymphostin.cluster8.aln	clade10	13.6579234972678	lymphostin	cluster8	1803	MKCNELDG_03376	hypothetical protein
+total.lymphostin.cluster8.aln	clade1	3.48484848484848	lymphostin	cluster8	1803	MKCNELDG_03376	hypothetical protein
+total.lymphostin.cluster8.aln	clade5	19.2380952380952	lymphostin	cluster8	1803	MKCNELDG_03376	hypothetical protein
+total.lymphostin.cluster8.aln	clade8	5.44736842105263	lymphostin	cluster8	1803	MKCNELDG_03376	hypothetical protein
+total.lymphostin.cluster8.aln	clade2	8	lymphostin	cluster8	1803	MKCNELDG_03376	hypothetical protein
+total.lymphostin.cluster9.aln	clade10	3.80655737704918	lymphostin	cluster9	1104	mnmC	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+total.lymphostin.cluster9.aln	clade2	4	lymphostin	cluster9	1104	mnmC	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+total.lymphostin.cluster9.aln	clade1	1.78787878787879	lymphostin	cluster9	1104	mnmC	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+total.lymphostin.cluster9.aln	clade4	17	lymphostin	cluster9	1104	mnmC	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+total.lymphostin.cluster9.aln	clade7	16	lymphostin	cluster9	1104	mnmC	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+total.lymphostin.cluster9.aln	clade3	0	lymphostin	cluster9	1104	mnmC	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+total.lymphostin.cluster9.aln	clade6	0	lymphostin	cluster9	1104	mnmC	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+total.lymphostin.cluster9.aln	clade8	2.98421052631579	lymphostin	cluster9	1104	mnmC	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+total.lymphostin.cluster9.aln	clade5	8.38095238095238	lymphostin	cluster9	1104	mnmC	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+total.rifamycin.cluster0.aln	clade2	0	rifamycin	cluster0	1278	novM_1	L-demethylnoviosyl transferase
+total.rifamycin.cluster0.aln	clade1	0	rifamycin	cluster0	1278	novM_1	L-demethylnoviosyl transferase
+total.rifamycin.cluster0.aln	clade3	0	rifamycin	cluster0	1278	novM_1	L-demethylnoviosyl transferase
+total.rifamycin.cluster0.aln	clade4	0	rifamycin	cluster0	1278	novM_1	L-demethylnoviosyl transferase
+total.rifamycin.cluster0.aln	clade10	6.82758620689655	rifamycin	cluster0	1278	novM_1	L-demethylnoviosyl transferase
+total.rifamycin.cluster0.aln	clade7	0	rifamycin	cluster0	1278	novM_1	L-demethylnoviosyl transferase
+total.rifamycin.cluster0.aln	clade6	0	rifamycin	cluster0	1278	novM_1	L-demethylnoviosyl transferase
+total.rifamycin.cluster0.aln	clade5	0	rifamycin	cluster0	1278	novM_1	L-demethylnoviosyl transferase
+total.rifamycin.cluster0.aln	clade8	0	rifamycin	cluster0	1278	novM_1	L-demethylnoviosyl transferase
+total.rifamycin.cluster1.aln	clade2	0	rifamycin	cluster1	1269	LFOLEMLJ_03802	Cytochrome P450 107B1
+total.rifamycin.cluster1.aln	clade10	5.97662185856224	rifamycin	cluster1	1269	LFOLEMLJ_03802	Cytochrome P450 107B1
+total.rifamycin.cluster1.aln	clade3	0	rifamycin	cluster1	1269	LFOLEMLJ_03802	Cytochrome P450 107B1
+total.rifamycin.cluster1.aln	clade4	0	rifamycin	cluster1	1269	LFOLEMLJ_03802	Cytochrome P450 107B1
+total.rifamycin.cluster1.aln	clade5	0	rifamycin	cluster1	1269	LFOLEMLJ_03802	Cytochrome P450 107B1
+total.rifamycin.cluster1.aln	clade1	0	rifamycin	cluster1	1269	LFOLEMLJ_03802	Cytochrome P450 107B1
+total.rifamycin.cluster1.aln	clade8	0	rifamycin	cluster1	1269	LFOLEMLJ_03802	Cytochrome P450 107B1
+total.rifamycin.cluster1.aln	clade6	0	rifamycin	cluster1	1269	LFOLEMLJ_03802	Cytochrome P450 107B1
+total.rifamycin.cluster1.aln	clade7	0	rifamycin	cluster1	1269	LFOLEMLJ_03802	Cytochrome P450 107B1
+total.rifamycin.cluster10.aln	clade5	0	rifamycin	cluster10	360	bphA3	Biphenyl 2,3-dioxygenase, ferredoxin component
+total.rifamycin.cluster10.aln	clade10	1.71011104617183	rifamycin	cluster10	360	bphA3	Biphenyl 2,3-dioxygenase, ferredoxin component
+total.rifamycin.cluster10.aln	clade2	0	rifamycin	cluster10	360	bphA3	Biphenyl 2,3-dioxygenase, ferredoxin component
+total.rifamycin.cluster10.aln	clade3	0	rifamycin	cluster10	360	bphA3	Biphenyl 2,3-dioxygenase, ferredoxin component
+total.rifamycin.cluster10.aln	clade1	0	rifamycin	cluster10	360	bphA3	Biphenyl 2,3-dioxygenase, ferredoxin component
+total.rifamycin.cluster10.aln	clade7	0	rifamycin	cluster10	360	bphA3	Biphenyl 2,3-dioxygenase, ferredoxin component
+total.rifamycin.cluster10.aln	clade8	0	rifamycin	cluster10	360	bphA3	Biphenyl 2,3-dioxygenase, ferredoxin component
+total.rifamycin.cluster10.aln	clade6	0	rifamycin	cluster10	360	bphA3	Biphenyl 2,3-dioxygenase, ferredoxin component
+total.rifamycin.cluster10.aln	clade4	0	rifamycin	cluster10	360	bphA3	Biphenyl 2,3-dioxygenase, ferredoxin component
+total.rifamycin.cluster11.aln	clade10	34.3565166569258	rifamycin	cluster11	5376	GBEHECEC_01280	hypothetical protein
+total.rifamycin.cluster11.aln	clade2	0	rifamycin	cluster11	5376	GBEHECEC_01280	hypothetical protein
+total.rifamycin.cluster11.aln	clade3	0	rifamycin	cluster11	5376	GBEHECEC_01280	hypothetical protein
+total.rifamycin.cluster11.aln	clade6	0	rifamycin	cluster11	5376	GBEHECEC_01280	hypothetical protein
+total.rifamycin.cluster11.aln	clade1	0	rifamycin	cluster11	5376	GBEHECEC_01280	hypothetical protein
+total.rifamycin.cluster11.aln	clade4	0	rifamycin	cluster11	5376	GBEHECEC_01280	hypothetical protein
+total.rifamycin.cluster11.aln	clade5	0	rifamycin	cluster11	5376	GBEHECEC_01280	hypothetical protein
+total.rifamycin.cluster11.aln	clade7	0	rifamycin	cluster11	5376	GBEHECEC_01280	hypothetical protein
+total.rifamycin.cluster11.aln	clade8	0	rifamycin	cluster11	5376	GBEHECEC_01280	hypothetical protein
+total.rifamycin.cluster12.aln	clade3	0	rifamycin	cluster12	171	LFOLEMLJ_03809	hypothetical protein
+total.rifamycin.cluster12.aln	clade4	0	rifamycin	cluster12	171	LFOLEMLJ_03809	hypothetical protein
+total.rifamycin.cluster12.aln	clade5	0	rifamycin	cluster12	171	LFOLEMLJ_03809	hypothetical protein
+total.rifamycin.cluster12.aln	clade6	0	rifamycin	cluster12	171	LFOLEMLJ_03809	hypothetical protein
+total.rifamycin.cluster12.aln	clade8	0	rifamycin	cluster12	171	LFOLEMLJ_03809	hypothetical protein
+total.rifamycin.cluster12.aln	clade1	0	rifamycin	cluster12	171	LFOLEMLJ_03809	hypothetical protein
+total.rifamycin.cluster12.aln	clade2	0	rifamycin	cluster12	171	LFOLEMLJ_03809	hypothetical protein
+total.rifamycin.cluster12.aln	clade7	0	rifamycin	cluster12	171	LFOLEMLJ_03809	hypothetical protein
+total.rifamycin.cluster12.aln	clade10	1.92635885447107	rifamycin	cluster12	171	LFOLEMLJ_03809	hypothetical protein
+total.rifamycin.cluster13.aln	clade1	0	rifamycin	cluster13	687	gph_5	Phosphoglycolate phosphatase
+total.rifamycin.cluster13.aln	clade10	5.99532437171245	rifamycin	cluster13	687	gph_5	Phosphoglycolate phosphatase
+total.rifamycin.cluster13.aln	clade6	0	rifamycin	cluster13	687	gph_5	Phosphoglycolate phosphatase
+total.rifamycin.cluster13.aln	clade2	0	rifamycin	cluster13	687	gph_5	Phosphoglycolate phosphatase
+total.rifamycin.cluster13.aln	clade3	0	rifamycin	cluster13	687	gph_5	Phosphoglycolate phosphatase
+total.rifamycin.cluster13.aln	clade4	0	rifamycin	cluster13	687	gph_5	Phosphoglycolate phosphatase
+total.rifamycin.cluster13.aln	clade5	0	rifamycin	cluster13	687	gph_5	Phosphoglycolate phosphatase
+total.rifamycin.cluster13.aln	clade7	0	rifamycin	cluster13	687	gph_5	Phosphoglycolate phosphatase
+total.rifamycin.cluster13.aln	clade8	0	rifamycin	cluster13	687	gph_5	Phosphoglycolate phosphatase
+total.rifamycin.cluster14.aln	clade2	0	rifamycin	cluster14	1350	LFOLEMLJ_03795	putative aminotransferase
+total.rifamycin.cluster14.aln	clade1	0	rifamycin	cluster14	1350	LFOLEMLJ_03795	putative aminotransferase
+total.rifamycin.cluster14.aln	clade5	0	rifamycin	cluster14	1350	LFOLEMLJ_03795	putative aminotransferase
+total.rifamycin.cluster14.aln	clade7	0	rifamycin	cluster14	1350	LFOLEMLJ_03795	putative aminotransferase
+total.rifamycin.cluster14.aln	clade10	11.8912916423144	rifamycin	cluster14	1350	LFOLEMLJ_03795	putative aminotransferase
+total.rifamycin.cluster14.aln	clade4	0	rifamycin	cluster14	1350	LFOLEMLJ_03795	putative aminotransferase
+total.rifamycin.cluster14.aln	clade6	0	rifamycin	cluster14	1350	LFOLEMLJ_03795	putative aminotransferase
+total.rifamycin.cluster14.aln	clade3	0	rifamycin	cluster14	1350	LFOLEMLJ_03795	putative aminotransferase
+total.rifamycin.cluster14.aln	clade8	0	rifamycin	cluster14	1350	LFOLEMLJ_03795	putative aminotransferase
+total.rifamycin.cluster15.aln	clade5	0	rifamycin	cluster15	10548	MGFBLLNL_03405	hypothetical protein
+total.rifamycin.cluster15.aln	clade4	0	rifamycin	cluster15	10548	MGFBLLNL_03405	hypothetical protein
+total.rifamycin.cluster15.aln	clade2	0	rifamycin	cluster15	10548	MGFBLLNL_03405	hypothetical protein
+total.rifamycin.cluster15.aln	clade7	0	rifamycin	cluster15	10548	MGFBLLNL_03405	hypothetical protein
+total.rifamycin.cluster15.aln	clade3	0	rifamycin	cluster15	10548	MGFBLLNL_03405	hypothetical protein
+total.rifamycin.cluster15.aln	clade10	94.3424897720631	rifamycin	cluster15	10548	MGFBLLNL_03405	hypothetical protein
+total.rifamycin.cluster15.aln	clade6	0	rifamycin	cluster15	10548	MGFBLLNL_03405	hypothetical protein
+total.rifamycin.cluster15.aln	clade8	0	rifamycin	cluster15	10548	MGFBLLNL_03405	hypothetical protein
+total.rifamycin.cluster15.aln	clade1	0	rifamycin	cluster15	10548	MGFBLLNL_03405	hypothetical protein
+total.rifamycin.cluster16.aln	clade8	0	rifamycin	cluster16	195	suaB_2	Ferredoxin-1
+total.rifamycin.cluster16.aln	clade1	0	rifamycin	cluster16	195	suaB_2	Ferredoxin-1
+total.rifamycin.cluster16.aln	clade6	0	rifamycin	cluster16	195	suaB_2	Ferredoxin-1
+total.rifamycin.cluster16.aln	clade7	0	rifamycin	cluster16	195	suaB_2	Ferredoxin-1
+total.rifamycin.cluster16.aln	clade10	1.8655756867329	rifamycin	cluster16	195	suaB_2	Ferredoxin-1
+total.rifamycin.cluster16.aln	clade5	0	rifamycin	cluster16	195	suaB_2	Ferredoxin-1
+total.rifamycin.cluster16.aln	clade3	0	rifamycin	cluster16	195	suaB_2	Ferredoxin-1
+total.rifamycin.cluster16.aln	clade4	0	rifamycin	cluster16	195	suaB_2	Ferredoxin-1
+total.rifamycin.cluster16.aln	clade2	0	rifamycin	cluster16	195	suaB_2	Ferredoxin-1
+total.rifamycin.cluster2.aln	clade3	0	rifamycin	cluster2	1308	colD	GDP-4-keto-6-deoxy-D-mannose 3-dehydratase
+total.rifamycin.cluster2.aln	clade1	0	rifamycin	cluster2	1308	colD	GDP-4-keto-6-deoxy-D-mannose 3-dehydratase
+total.rifamycin.cluster2.aln	clade8	0	rifamycin	cluster2	1308	colD	GDP-4-keto-6-deoxy-D-mannose 3-dehydratase
+total.rifamycin.cluster2.aln	clade4	0	rifamycin	cluster2	1308	colD	GDP-4-keto-6-deoxy-D-mannose 3-dehydratase
+total.rifamycin.cluster2.aln	clade10	7.74284044418469	rifamycin	cluster2	1308	colD	GDP-4-keto-6-deoxy-D-mannose 3-dehydratase
+total.rifamycin.cluster2.aln	clade2	0	rifamycin	cluster2	1308	colD	GDP-4-keto-6-deoxy-D-mannose 3-dehydratase
+total.rifamycin.cluster2.aln	clade5	0	rifamycin	cluster2	1308	colD	GDP-4-keto-6-deoxy-D-mannose 3-dehydratase
+total.rifamycin.cluster2.aln	clade6	0	rifamycin	cluster2	1308	colD	GDP-4-keto-6-deoxy-D-mannose 3-dehydratase
+total.rifamycin.cluster2.aln	clade7	0	rifamycin	cluster2	1308	colD	GDP-4-keto-6-deoxy-D-mannose 3-dehydratase
+total.rifamycin.cluster3.aln	clade6	0	rifamycin	cluster3	1344	aroG_2	Phospho-2-dehydro-3-deoxyheptonate aldolase AroG
+total.rifamycin.cluster3.aln	clade8	0	rifamycin	cluster3	1344	aroG_2	Phospho-2-dehydro-3-deoxyheptonate aldolase AroG
+total.rifamycin.cluster3.aln	clade2	0	rifamycin	cluster3	1344	aroG_2	Phospho-2-dehydro-3-deoxyheptonate aldolase AroG
+total.rifamycin.cluster3.aln	clade7	0	rifamycin	cluster3	1344	aroG_2	Phospho-2-dehydro-3-deoxyheptonate aldolase AroG
+total.rifamycin.cluster3.aln	clade10	12.780829924021	rifamycin	cluster3	1344	aroG_2	Phospho-2-dehydro-3-deoxyheptonate aldolase AroG
+total.rifamycin.cluster3.aln	clade4	0	rifamycin	cluster3	1344	aroG_2	Phospho-2-dehydro-3-deoxyheptonate aldolase AroG
+total.rifamycin.cluster3.aln	clade5	0	rifamycin	cluster3	1344	aroG_2	Phospho-2-dehydro-3-deoxyheptonate aldolase AroG
+total.rifamycin.cluster3.aln	clade1	0	rifamycin	cluster3	1344	aroG_2	Phospho-2-dehydro-3-deoxyheptonate aldolase AroG
+total.rifamycin.cluster3.aln	clade3	0	rifamycin	cluster3	1344	aroG_2	Phospho-2-dehydro-3-deoxyheptonate aldolase AroG
+total.rifamycin.cluster4.aln	clade10	7.09643483343074	rifamycin	cluster4	831	rifF	Proansamycin X synthase
+total.rifamycin.cluster4.aln	clade1	0	rifamycin	cluster4	831	rifF	Proansamycin X synthase
+total.rifamycin.cluster4.aln	clade2	0	rifamycin	cluster4	831	rifF	Proansamycin X synthase
+total.rifamycin.cluster4.aln	clade5	0	rifamycin	cluster4	831	rifF	Proansamycin X synthase
+total.rifamycin.cluster4.aln	clade6	0	rifamycin	cluster4	831	rifF	Proansamycin X synthase
+total.rifamycin.cluster4.aln	clade3	0	rifamycin	cluster4	831	rifF	Proansamycin X synthase
+total.rifamycin.cluster4.aln	clade7	0	rifamycin	cluster4	831	rifF	Proansamycin X synthase
+total.rifamycin.cluster4.aln	clade8	0	rifamycin	cluster4	831	rifF	Proansamycin X synthase
+total.rifamycin.cluster4.aln	clade4	0	rifamycin	cluster4	831	rifF	Proansamycin X synthase
+total.rifamycin.cluster5.aln	clade6	0	rifamycin	cluster5	1062	aroB_1	3-dehydroquinate synthase
+total.rifamycin.cluster5.aln	clade1	0	rifamycin	cluster5	1062	aroB_1	3-dehydroquinate synthase
+total.rifamycin.cluster5.aln	clade2	0	rifamycin	cluster5	1062	aroB_1	3-dehydroquinate synthase
+total.rifamycin.cluster5.aln	clade7	0	rifamycin	cluster5	1062	aroB_1	3-dehydroquinate synthase
+total.rifamycin.cluster5.aln	clade8	0	rifamycin	cluster5	1062	aroB_1	3-dehydroquinate synthase
+total.rifamycin.cluster5.aln	clade3	0	rifamycin	cluster5	1062	aroB_1	3-dehydroquinate synthase
+total.rifamycin.cluster5.aln	clade4	0	rifamycin	cluster5	1062	aroB_1	3-dehydroquinate synthase
+total.rifamycin.cluster5.aln	clade10	10.6031560490941	rifamycin	cluster5	1062	aroB_1	3-dehydroquinate synthase
+total.rifamycin.cluster5.aln	clade5	0	rifamycin	cluster5	1062	aroB_1	3-dehydroquinate synthase
+total.rifamycin.cluster6.aln	clade10	5.83284628872005	rifamycin	cluster6	1074	rifL	Putative UDP-kanosamine synthase oxidoreductase subunit
+total.rifamycin.cluster6.aln	clade1	0	rifamycin	cluster6	1074	rifL	Putative UDP-kanosamine synthase oxidoreductase subunit
+total.rifamycin.cluster6.aln	clade2	0	rifamycin	cluster6	1074	rifL	Putative UDP-kanosamine synthase oxidoreductase subunit
+total.rifamycin.cluster6.aln	clade4	0	rifamycin	cluster6	1074	rifL	Putative UDP-kanosamine synthase oxidoreductase subunit
+total.rifamycin.cluster6.aln	clade5	0	rifamycin	cluster6	1074	rifL	Putative UDP-kanosamine synthase oxidoreductase subunit
+total.rifamycin.cluster6.aln	clade3	0	rifamycin	cluster6	1074	rifL	Putative UDP-kanosamine synthase oxidoreductase subunit
+total.rifamycin.cluster6.aln	clade7	0	rifamycin	cluster6	1074	rifL	Putative UDP-kanosamine synthase oxidoreductase subunit
+total.rifamycin.cluster6.aln	clade8	0	rifamycin	cluster6	1074	rifL	Putative UDP-kanosamine synthase oxidoreductase subunit
+total.rifamycin.cluster6.aln	clade6	0	rifamycin	cluster6	1074	rifL	Putative UDP-kanosamine synthase oxidoreductase subunit
+total.rifamycin.cluster7.aln	clade5	0	rifamycin	cluster7	1020	iolU_2	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+total.rifamycin.cluster7.aln	clade4	0	rifamycin	cluster7	1020	iolU_2	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+total.rifamycin.cluster7.aln	clade1	0	rifamycin	cluster7	1020	iolU_2	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+total.rifamycin.cluster7.aln	clade3	0	rifamycin	cluster7	1020	iolU_2	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+total.rifamycin.cluster7.aln	clade8	0	rifamycin	cluster7	1020	iolU_2	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+total.rifamycin.cluster7.aln	clade2	0	rifamycin	cluster7	1020	iolU_2	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+total.rifamycin.cluster7.aln	clade6	0	rifamycin	cluster7	1020	iolU_2	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+total.rifamycin.cluster7.aln	clade7	0	rifamycin	cluster7	1020	iolU_2	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+total.rifamycin.cluster7.aln	clade10	6.78316773816482	rifamycin	cluster7	1020	iolU_2	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+total.rifamycin.cluster8.aln	clade3	0	rifamycin	cluster8	1266	LFOLEMLJ_03801	Cytochrome P450-SU2
+total.rifamycin.cluster8.aln	clade1	0	rifamycin	cluster8	1266	LFOLEMLJ_03801	Cytochrome P450-SU2
+total.rifamycin.cluster8.aln	clade5	0	rifamycin	cluster8	1266	LFOLEMLJ_03801	Cytochrome P450-SU2
+total.rifamycin.cluster8.aln	clade4	0	rifamycin	cluster8	1266	LFOLEMLJ_03801	Cytochrome P450-SU2
+total.rifamycin.cluster8.aln	clade10	9.61659848042081	rifamycin	cluster8	1266	LFOLEMLJ_03801	Cytochrome P450-SU2
+total.rifamycin.cluster8.aln	clade2	0	rifamycin	cluster8	1266	LFOLEMLJ_03801	Cytochrome P450-SU2
+total.rifamycin.cluster8.aln	clade8	0	rifamycin	cluster8	1266	LFOLEMLJ_03801	Cytochrome P450-SU2
+total.rifamycin.cluster8.aln	clade6	0	rifamycin	cluster8	1266	LFOLEMLJ_03801	Cytochrome P450-SU2
+total.rifamycin.cluster8.aln	clade7	0	rifamycin	cluster8	1266	LFOLEMLJ_03801	Cytochrome P450-SU2
+total.rifamycin.cluster9.aln	clade2	0	rifamycin	cluster9	1167	rifK	3-amino-5-hydroxybenzoate synthase
+total.rifamycin.cluster9.aln	clade7	0	rifamycin	cluster9	1167	rifK	3-amino-5-hydroxybenzoate synthase
+total.rifamycin.cluster9.aln	clade3	0	rifamycin	cluster9	1167	rifK	3-amino-5-hydroxybenzoate synthase
+total.rifamycin.cluster9.aln	clade4	0	rifamycin	cluster9	1167	rifK	3-amino-5-hydroxybenzoate synthase
+total.rifamycin.cluster9.aln	clade8	0	rifamycin	cluster9	1167	rifK	3-amino-5-hydroxybenzoate synthase
+total.rifamycin.cluster9.aln	clade10	7.0239625949737	rifamycin	cluster9	1167	rifK	3-amino-5-hydroxybenzoate synthase
+total.rifamycin.cluster9.aln	clade5	0	rifamycin	cluster9	1167	rifK	3-amino-5-hydroxybenzoate synthase
+total.rifamycin.cluster9.aln	clade1	0	rifamycin	cluster9	1167	rifK	3-amino-5-hydroxybenzoate synthase
+total.rifamycin.cluster9.aln	clade6	0	rifamycin	cluster9	1167	rifK	3-amino-5-hydroxybenzoate synthase
+total.salinichelin.cluster0.aln	clade2	0	salinichelin	cluster0	783	DEDNAJPJ_03775	hypothetical protein
+total.salinichelin.cluster0.aln	clade10	0.4	salinichelin	cluster0	783	DEDNAJPJ_03775	hypothetical protein
+total.salinichelin.cluster0.aln	clade3	0	salinichelin	cluster0	783	DEDNAJPJ_03775	hypothetical protein
+total.salinichelin.cluster0.aln	clade4	0	salinichelin	cluster0	783	DEDNAJPJ_03775	hypothetical protein
+total.salinichelin.cluster0.aln	clade5	0	salinichelin	cluster0	783	DEDNAJPJ_03775	hypothetical protein
+total.salinichelin.cluster0.aln	clade1	0	salinichelin	cluster0	783	DEDNAJPJ_03775	hypothetical protein
+total.salinichelin.cluster0.aln	clade7	0	salinichelin	cluster0	783	DEDNAJPJ_03775	hypothetical protein
+total.salinichelin.cluster0.aln	clade8	2.59473684210526	salinichelin	cluster0	783	DEDNAJPJ_03775	hypothetical protein
+total.salinichelin.cluster0.aln	clade6	0	salinichelin	cluster0	783	DEDNAJPJ_03775	hypothetical protein
+total.salinichelin.cluster1.aln	clade3	0	salinichelin	cluster1	879	fepC_2	Ferric enterobactin transport ATP-binding protein FepC
+total.salinichelin.cluster1.aln	clade1	0	salinichelin	cluster1	879	fepC_2	Ferric enterobactin transport ATP-binding protein FepC
+total.salinichelin.cluster1.aln	clade2	0	salinichelin	cluster1	879	fepC_2	Ferric enterobactin transport ATP-binding protein FepC
+total.salinichelin.cluster1.aln	clade4	0	salinichelin	cluster1	879	fepC_2	Ferric enterobactin transport ATP-binding protein FepC
+total.salinichelin.cluster1.aln	clade10	2	salinichelin	cluster1	879	fepC_2	Ferric enterobactin transport ATP-binding protein FepC
+total.salinichelin.cluster1.aln	clade7	0	salinichelin	cluster1	879	fepC_2	Ferric enterobactin transport ATP-binding protein FepC
+total.salinichelin.cluster1.aln	clade8	3.72105263157895	salinichelin	cluster1	879	fepC_2	Ferric enterobactin transport ATP-binding protein FepC
+total.salinichelin.cluster1.aln	clade5	0	salinichelin	cluster1	879	fepC_2	Ferric enterobactin transport ATP-binding protein FepC
+total.salinichelin.cluster1.aln	clade6	0	salinichelin	cluster1	879	fepC_2	Ferric enterobactin transport ATP-binding protein FepC
+total.salinichelin.cluster10.aln	clade2	0	salinichelin	cluster10	1833	DEDNAJPJ_03792	Putative multidrug export ATP-binding/permease protein
+total.salinichelin.cluster10.aln	clade7	0	salinichelin	cluster10	1833	DEDNAJPJ_03792	Putative multidrug export ATP-binding/permease protein
+total.salinichelin.cluster10.aln	clade3	0	salinichelin	cluster10	1833	DEDNAJPJ_03792	Putative multidrug export ATP-binding/permease protein
+total.salinichelin.cluster10.aln	clade8	11.6526315789474	salinichelin	cluster10	1833	DEDNAJPJ_03792	Putative multidrug export ATP-binding/permease protein
+total.salinichelin.cluster10.aln	clade10	4.8	salinichelin	cluster10	1833	DEDNAJPJ_03792	Putative multidrug export ATP-binding/permease protein
+total.salinichelin.cluster10.aln	clade4	0	salinichelin	cluster10	1833	DEDNAJPJ_03792	Putative multidrug export ATP-binding/permease protein
+total.salinichelin.cluster10.aln	clade5	0	salinichelin	cluster10	1833	DEDNAJPJ_03792	Putative multidrug export ATP-binding/permease protein
+total.salinichelin.cluster10.aln	clade1	0	salinichelin	cluster10	1833	DEDNAJPJ_03792	Putative multidrug export ATP-binding/permease protein
+total.salinichelin.cluster10.aln	clade6	0	salinichelin	cluster10	1833	DEDNAJPJ_03792	Putative multidrug export ATP-binding/permease protein
+total.salinichelin.cluster11.aln	clade1	0	salinichelin	cluster11	15504	lgrD_2	Linear gramicidin synthase subunit D
+total.salinichelin.cluster11.aln	clade2	0	salinichelin	cluster11	15504	lgrD_2	Linear gramicidin synthase subunit D
+total.salinichelin.cluster11.aln	clade10	21	salinichelin	cluster11	15504	lgrD_2	Linear gramicidin synthase subunit D
+total.salinichelin.cluster11.aln	clade6	0	salinichelin	cluster11	15504	lgrD_2	Linear gramicidin synthase subunit D
+total.salinichelin.cluster11.aln	clade8	95.0578947368421	salinichelin	cluster11	15504	lgrD_2	Linear gramicidin synthase subunit D
+total.salinichelin.cluster11.aln	clade4	0	salinichelin	cluster11	15504	lgrD_2	Linear gramicidin synthase subunit D
+total.salinichelin.cluster11.aln	clade3	0	salinichelin	cluster11	15504	lgrD_2	Linear gramicidin synthase subunit D
+total.salinichelin.cluster11.aln	clade7	0	salinichelin	cluster11	15504	lgrD_2	Linear gramicidin synthase subunit D
+total.salinichelin.cluster11.aln	clade5	0	salinichelin	cluster11	15504	lgrD_2	Linear gramicidin synthase subunit D
+total.salinichelin.cluster12.aln	clade8	0.678947368421053	salinichelin	cluster12	210	mbtH_3	Protein MbtH
+total.salinichelin.cluster12.aln	clade4	0	salinichelin	cluster12	210	mbtH_3	Protein MbtH
+total.salinichelin.cluster12.aln	clade5	0	salinichelin	cluster12	210	mbtH_3	Protein MbtH
+total.salinichelin.cluster12.aln	clade6	0	salinichelin	cluster12	210	mbtH_3	Protein MbtH
+total.salinichelin.cluster12.aln	clade3	0	salinichelin	cluster12	210	mbtH_3	Protein MbtH
+total.salinichelin.cluster12.aln	clade1	0	salinichelin	cluster12	210	mbtH_3	Protein MbtH
+total.salinichelin.cluster12.aln	clade2	0	salinichelin	cluster12	210	mbtH_3	Protein MbtH
+total.salinichelin.cluster12.aln	clade7	0	salinichelin	cluster12	210	mbtH_3	Protein MbtH
+total.salinichelin.cluster12.aln	clade10	0.4	salinichelin	cluster12	210	mbtH_3	Protein MbtH
+total.salinichelin.cluster14.aln	clade2	0	salinichelin	cluster14	585	DEDNAJPJ_03779	hypothetical protein
+total.salinichelin.cluster14.aln	clade10	3	salinichelin	cluster14	585	DEDNAJPJ_03779	hypothetical protein
+total.salinichelin.cluster14.aln	clade1	0	salinichelin	cluster14	585	DEDNAJPJ_03779	hypothetical protein
+total.salinichelin.cluster14.aln	clade5	0	salinichelin	cluster14	585	DEDNAJPJ_03779	hypothetical protein
+total.salinichelin.cluster14.aln	clade3	0	salinichelin	cluster14	585	DEDNAJPJ_03779	hypothetical protein
+total.salinichelin.cluster14.aln	clade4	0	salinichelin	cluster14	585	DEDNAJPJ_03779	hypothetical protein
+total.salinichelin.cluster14.aln	clade6	0	salinichelin	cluster14	585	DEDNAJPJ_03779	hypothetical protein
+total.salinichelin.cluster14.aln	clade7	0	salinichelin	cluster14	585	DEDNAJPJ_03779	hypothetical protein
+total.salinichelin.cluster14.aln	clade8	2.41578947368421	salinichelin	cluster14	585	DEDNAJPJ_03779	hypothetical protein
+total.salinichelin.cluster15.aln	clade5	0	salinichelin	cluster15	390	HHFHFFJP_02255	hypothetical protein
+total.salinichelin.cluster15.aln	clade3	0	salinichelin	cluster15	390	HHFHFFJP_02255	hypothetical protein
+total.salinichelin.cluster15.aln	clade6	0	salinichelin	cluster15	390	HHFHFFJP_02255	hypothetical protein
+total.salinichelin.cluster15.aln	clade7	0	salinichelin	cluster15	390	HHFHFFJP_02255	hypothetical protein
+total.salinichelin.cluster15.aln	clade2	0	salinichelin	cluster15	390	HHFHFFJP_02255	hypothetical protein
+total.salinichelin.cluster15.aln	clade4	0	salinichelin	cluster15	390	HHFHFFJP_02255	hypothetical protein
+total.salinichelin.cluster15.aln	clade8	1.02631578947368	salinichelin	cluster15	390	HHFHFFJP_02255	hypothetical protein
+total.salinichelin.cluster15.aln	clade1	0	salinichelin	cluster15	390	HHFHFFJP_02255	hypothetical protein
+total.salinichelin.cluster15.aln	clade10	0	salinichelin	cluster15	390	HHFHFFJP_02255	hypothetical protein
+total.salinichelin.cluster16.aln	clade8	9.42631578947369	salinichelin	cluster16	1713	DEDNAJPJ_03791	putative ABC transporter ATP-binding protein
+total.salinichelin.cluster16.aln	clade10	1.2	salinichelin	cluster16	1713	DEDNAJPJ_03791	putative ABC transporter ATP-binding protein
+total.salinichelin.cluster16.aln	clade1	0	salinichelin	cluster16	1713	DEDNAJPJ_03791	putative ABC transporter ATP-binding protein
+total.salinichelin.cluster16.aln	clade6	0	salinichelin	cluster16	1713	DEDNAJPJ_03791	putative ABC transporter ATP-binding protein
+total.salinichelin.cluster16.aln	clade3	0	salinichelin	cluster16	1713	DEDNAJPJ_03791	putative ABC transporter ATP-binding protein
+total.salinichelin.cluster16.aln	clade4	0	salinichelin	cluster16	1713	DEDNAJPJ_03791	putative ABC transporter ATP-binding protein
+total.salinichelin.cluster16.aln	clade7	0	salinichelin	cluster16	1713	DEDNAJPJ_03791	putative ABC transporter ATP-binding protein
+total.salinichelin.cluster16.aln	clade5	0	salinichelin	cluster16	1713	DEDNAJPJ_03791	putative ABC transporter ATP-binding protein
+total.salinichelin.cluster16.aln	clade2	0	salinichelin	cluster16	1713	DEDNAJPJ_03791	putative ABC transporter ATP-binding protein
+total.salinichelin.cluster2.aln	clade1	0	salinichelin	cluster2	1026	DEDNAJPJ_03795	hypothetical protein
+total.salinichelin.cluster2.aln	clade2	0	salinichelin	cluster2	1026	DEDNAJPJ_03795	hypothetical protein
+total.salinichelin.cluster2.aln	clade3	0	salinichelin	cluster2	1026	DEDNAJPJ_03795	hypothetical protein
+total.salinichelin.cluster2.aln	clade4	0	salinichelin	cluster2	1026	DEDNAJPJ_03795	hypothetical protein
+total.salinichelin.cluster2.aln	clade10	10	salinichelin	cluster2	1026	DEDNAJPJ_03795	hypothetical protein
+total.salinichelin.cluster2.aln	clade7	0	salinichelin	cluster2	1026	DEDNAJPJ_03795	hypothetical protein
+total.salinichelin.cluster2.aln	clade5	0	salinichelin	cluster2	1026	DEDNAJPJ_03795	hypothetical protein
+total.salinichelin.cluster2.aln	clade6	0	salinichelin	cluster2	1026	DEDNAJPJ_03795	hypothetical protein
+total.salinichelin.cluster2.aln	clade8	7.32105263157895	salinichelin	cluster2	1026	DEDNAJPJ_03795	hypothetical protein
+total.salinichelin.cluster3.aln	clade7	0	salinichelin	cluster3	1353	pvdA_2	L-ornithine N(5)-monooxygenase
+total.salinichelin.cluster3.aln	clade8	6.14736842105263	salinichelin	cluster3	1353	pvdA_2	L-ornithine N(5)-monooxygenase
+total.salinichelin.cluster3.aln	clade2	0	salinichelin	cluster3	1353	pvdA_2	L-ornithine N(5)-monooxygenase
+total.salinichelin.cluster3.aln	clade3	0	salinichelin	cluster3	1353	pvdA_2	L-ornithine N(5)-monooxygenase
+total.salinichelin.cluster3.aln	clade10	1.4	salinichelin	cluster3	1353	pvdA_2	L-ornithine N(5)-monooxygenase
+total.salinichelin.cluster3.aln	clade4	0	salinichelin	cluster3	1353	pvdA_2	L-ornithine N(5)-monooxygenase
+total.salinichelin.cluster3.aln	clade5	0	salinichelin	cluster3	1353	pvdA_2	L-ornithine N(5)-monooxygenase
+total.salinichelin.cluster3.aln	clade1	0	salinichelin	cluster3	1353	pvdA_2	L-ornithine N(5)-monooxygenase
+total.salinichelin.cluster3.aln	clade6	0	salinichelin	cluster3	1353	pvdA_2	L-ornithine N(5)-monooxygenase
+total.salinichelin.cluster4.aln	clade1	0	salinichelin	cluster4	1158	fepG_2	Ferric enterobactin transport system permease protein FepG
+total.salinichelin.cluster4.aln	clade6	0	salinichelin	cluster4	1158	fepG_2	Ferric enterobactin transport system permease protein FepG
+total.salinichelin.cluster4.aln	clade10	4	salinichelin	cluster4	1158	fepG_2	Ferric enterobactin transport system permease protein FepG
+total.salinichelin.cluster4.aln	clade5	0	salinichelin	cluster4	1158	fepG_2	Ferric enterobactin transport system permease protein FepG
+total.salinichelin.cluster4.aln	clade8	8.17368421052632	salinichelin	cluster4	1158	fepG_2	Ferric enterobactin transport system permease protein FepG
+total.salinichelin.cluster4.aln	clade2	0	salinichelin	cluster4	1158	fepG_2	Ferric enterobactin transport system permease protein FepG
+total.salinichelin.cluster4.aln	clade3	0	salinichelin	cluster4	1158	fepG_2	Ferric enterobactin transport system permease protein FepG
+total.salinichelin.cluster4.aln	clade7	0	salinichelin	cluster4	1158	fepG_2	Ferric enterobactin transport system permease protein FepG
+total.salinichelin.cluster4.aln	clade4	0	salinichelin	cluster4	1158	fepG_2	Ferric enterobactin transport system permease protein FepG
+total.salinichelin.cluster5.aln	clade8	4.49473684210526	salinichelin	cluster5	1068	fepD	Ferric enterobactin transport system permease protein FepD
+total.salinichelin.cluster5.aln	clade10	1.2	salinichelin	cluster5	1068	fepD	Ferric enterobactin transport system permease protein FepD
+total.salinichelin.cluster5.aln	clade1	0	salinichelin	cluster5	1068	fepD	Ferric enterobactin transport system permease protein FepD
+total.salinichelin.cluster5.aln	clade6	0	salinichelin	cluster5	1068	fepD	Ferric enterobactin transport system permease protein FepD
+total.salinichelin.cluster5.aln	clade5	0	salinichelin	cluster5	1068	fepD	Ferric enterobactin transport system permease protein FepD
+total.salinichelin.cluster5.aln	clade2	0	salinichelin	cluster5	1068	fepD	Ferric enterobactin transport system permease protein FepD
+total.salinichelin.cluster5.aln	clade7	0	salinichelin	cluster5	1068	fepD	Ferric enterobactin transport system permease protein FepD
+total.salinichelin.cluster5.aln	clade3	0	salinichelin	cluster5	1068	fepD	Ferric enterobactin transport system permease protein FepD
+total.salinichelin.cluster5.aln	clade4	0	salinichelin	cluster5	1068	fepD	Ferric enterobactin transport system permease protein FepD
+total.salinichelin.cluster6.aln	clade10	2	salinichelin	cluster6	1209	argA_1	Amino-acid acetyltransferase
+total.salinichelin.cluster6.aln	clade5	0	salinichelin	cluster6	1209	argA_1	Amino-acid acetyltransferase
+total.salinichelin.cluster6.aln	clade2	0	salinichelin	cluster6	1209	argA_1	Amino-acid acetyltransferase
+total.salinichelin.cluster6.aln	clade4	0	salinichelin	cluster6	1209	argA_1	Amino-acid acetyltransferase
+total.salinichelin.cluster6.aln	clade8	5.21052631578947	salinichelin	cluster6	1209	argA_1	Amino-acid acetyltransferase
+total.salinichelin.cluster6.aln	clade1	0	salinichelin	cluster6	1209	argA_1	Amino-acid acetyltransferase
+total.salinichelin.cluster6.aln	clade3	0	salinichelin	cluster6	1209	argA_1	Amino-acid acetyltransferase
+total.salinichelin.cluster6.aln	clade7	0	salinichelin	cluster6	1209	argA_1	Amino-acid acetyltransferase
+total.salinichelin.cluster6.aln	clade6	0	salinichelin	cluster6	1209	argA_1	Amino-acid acetyltransferase
+total.salinichelin.cluster7.aln	clade8	5.95789473684211	salinichelin	cluster7	948	arnA	Bifunctional polymyxin resistance protein ArnA
+total.salinichelin.cluster7.aln	clade1	0	salinichelin	cluster7	948	arnA	Bifunctional polymyxin resistance protein ArnA
+total.salinichelin.cluster7.aln	clade6	0	salinichelin	cluster7	948	arnA	Bifunctional polymyxin resistance protein ArnA
+total.salinichelin.cluster7.aln	clade7	0	salinichelin	cluster7	948	arnA	Bifunctional polymyxin resistance protein ArnA
+total.salinichelin.cluster7.aln	clade5	0	salinichelin	cluster7	948	arnA	Bifunctional polymyxin resistance protein ArnA
+total.salinichelin.cluster7.aln	clade2	0	salinichelin	cluster7	948	arnA	Bifunctional polymyxin resistance protein ArnA
+total.salinichelin.cluster7.aln	clade3	0	salinichelin	cluster7	948	arnA	Bifunctional polymyxin resistance protein ArnA
+total.salinichelin.cluster7.aln	clade4	0	salinichelin	cluster7	948	arnA	Bifunctional polymyxin resistance protein ArnA
+total.salinichelin.cluster7.aln	clade10	1.2	salinichelin	cluster7	948	arnA	Bifunctional polymyxin resistance protein ArnA
+total.salinichelin.cluster8.aln	clade10	3.2	salinichelin	cluster8	1584	nfdA_1	N-substituted formamide deformylase
+total.salinichelin.cluster8.aln	clade1	0	salinichelin	cluster8	1584	nfdA_1	N-substituted formamide deformylase
+total.salinichelin.cluster8.aln	clade3	0	salinichelin	cluster8	1584	nfdA_1	N-substituted formamide deformylase
+total.salinichelin.cluster8.aln	clade4	0	salinichelin	cluster8	1584	nfdA_1	N-substituted formamide deformylase
+total.salinichelin.cluster8.aln	clade7	0	salinichelin	cluster8	1584	nfdA_1	N-substituted formamide deformylase
+total.salinichelin.cluster8.aln	clade2	0	salinichelin	cluster8	1584	nfdA_1	N-substituted formamide deformylase
+total.salinichelin.cluster8.aln	clade5	0	salinichelin	cluster8	1584	nfdA_1	N-substituted formamide deformylase
+total.salinichelin.cluster8.aln	clade6	0	salinichelin	cluster8	1584	nfdA_1	N-substituted formamide deformylase
+total.salinichelin.cluster8.aln	clade8	12.9105263157895	salinichelin	cluster8	1584	nfdA_1	N-substituted formamide deformylase
+total.salinichelin.cluster9.aln	clade4	0	salinichelin	cluster9	381	DEDNAJPJ_03776	hypothetical protein
+total.salinichelin.cluster9.aln	clade2	0	salinichelin	cluster9	381	DEDNAJPJ_03776	hypothetical protein
+total.salinichelin.cluster9.aln	clade10	0	salinichelin	cluster9	381	DEDNAJPJ_03776	hypothetical protein
+total.salinichelin.cluster9.aln	clade1	0	salinichelin	cluster9	381	DEDNAJPJ_03776	hypothetical protein
+total.salinichelin.cluster9.aln	clade7	0	salinichelin	cluster9	381	DEDNAJPJ_03776	hypothetical protein
+total.salinichelin.cluster9.aln	clade5	0	salinichelin	cluster9	381	DEDNAJPJ_03776	hypothetical protein
+total.salinichelin.cluster9.aln	clade6	0	salinichelin	cluster9	381	DEDNAJPJ_03776	hypothetical protein
+total.salinichelin.cluster9.aln	clade8	1.56315789473684	salinichelin	cluster9	381	DEDNAJPJ_03776	hypothetical protein
+total.salinichelin.cluster9.aln	clade3	0	salinichelin	cluster9	381	DEDNAJPJ_03776	hypothetical protein
+total.salinilactam.cluster0.aln	clade10	0	salinilactam	cluster0	588	HHFHFFJP_04307	hypothetical protein
+total.salinilactam.cluster0.aln	clade1	0	salinilactam	cluster0	588	HHFHFFJP_04307	hypothetical protein
+total.salinilactam.cluster0.aln	clade2	0	salinilactam	cluster0	588	HHFHFFJP_04307	hypothetical protein
+total.salinilactam.cluster0.aln	clade4	0	salinilactam	cluster0	588	HHFHFFJP_04307	hypothetical protein
+total.salinilactam.cluster0.aln	clade5	0	salinilactam	cluster0	588	HHFHFFJP_04307	hypothetical protein
+total.salinilactam.cluster0.aln	clade7	0	salinilactam	cluster0	588	HHFHFFJP_04307	hypothetical protein
+total.salinilactam.cluster0.aln	clade3	0	salinilactam	cluster0	588	HHFHFFJP_04307	hypothetical protein
+total.salinilactam.cluster0.aln	clade6	0	salinilactam	cluster0	588	HHFHFFJP_04307	hypothetical protein
+total.salinilactam.cluster0.aln	clade8	6.45054945054945	salinilactam	cluster0	588	HHFHFFJP_04307	hypothetical protein
+total.salinilactam.cluster1.aln	clade2	0	salinilactam	cluster1	1842	mdtD_1	Putative multidrug resistance protein MdtD
+total.salinilactam.cluster1.aln	clade5	0	salinilactam	cluster1	1842	mdtD_1	Putative multidrug resistance protein MdtD
+total.salinilactam.cluster1.aln	clade7	0	salinilactam	cluster1	1842	mdtD_1	Putative multidrug resistance protein MdtD
+total.salinilactam.cluster1.aln	clade3	0	salinilactam	cluster1	1842	mdtD_1	Putative multidrug resistance protein MdtD
+total.salinilactam.cluster1.aln	clade6	0	salinilactam	cluster1	1842	mdtD_1	Putative multidrug resistance protein MdtD
+total.salinilactam.cluster1.aln	clade1	2.75555555555556	salinilactam	cluster1	1842	mdtD_1	Putative multidrug resistance protein MdtD
+total.salinilactam.cluster1.aln	clade8	18.0659340659341	salinilactam	cluster1	1842	mdtD_1	Putative multidrug resistance protein MdtD
+total.salinilactam.cluster1.aln	clade4	0	salinilactam	cluster1	1842	mdtD_1	Putative multidrug resistance protein MdtD
+total.salinilactam.cluster1.aln	clade10	0	salinilactam	cluster1	1842	mdtD_1	Putative multidrug resistance protein MdtD
+total.salinilactam.cluster2.aln	clade1	0	salinilactam	cluster2	267	HHFHFFJP_04308	hypothetical protein
+total.salinilactam.cluster2.aln	clade10	0	salinilactam	cluster2	267	HHFHFFJP_04308	hypothetical protein
+total.salinilactam.cluster2.aln	clade2	0	salinilactam	cluster2	267	HHFHFFJP_04308	hypothetical protein
+total.salinilactam.cluster2.aln	clade3	0	salinilactam	cluster2	267	HHFHFFJP_04308	hypothetical protein
+total.salinilactam.cluster2.aln	clade6	0	salinilactam	cluster2	267	HHFHFFJP_04308	hypothetical protein
+total.salinilactam.cluster2.aln	clade7	0	salinilactam	cluster2	267	HHFHFFJP_04308	hypothetical protein
+total.salinilactam.cluster2.aln	clade4	0	salinilactam	cluster2	267	HHFHFFJP_04308	hypothetical protein
+total.salinilactam.cluster2.aln	clade8	2.68131868131868	salinilactam	cluster2	267	HHFHFFJP_04308	hypothetical protein
+total.salinilactam.cluster2.aln	clade5	0	salinilactam	cluster2	267	HHFHFFJP_04308	hypothetical protein
+total.salinipostin.cluster0.aln	clade2	0	salinipostin	cluster0	909	LFOLEMLJ_04756	hypothetical protein
+total.salinipostin.cluster0.aln	clade10	9.09717514124294	salinipostin	cluster0	909	LFOLEMLJ_04756	hypothetical protein
+total.salinipostin.cluster0.aln	clade3	0	salinipostin	cluster0	909	LFOLEMLJ_04756	hypothetical protein
+total.salinipostin.cluster0.aln	clade4	30	salinipostin	cluster0	909	LFOLEMLJ_04756	hypothetical protein
+total.salinipostin.cluster0.aln	clade5	13.9242424242424	salinipostin	cluster0	909	LFOLEMLJ_04756	hypothetical protein
+total.salinipostin.cluster0.aln	clade1	2.45454545454545	salinipostin	cluster0	909	LFOLEMLJ_04756	hypothetical protein
+total.salinipostin.cluster0.aln	clade8	7.0197628458498	salinipostin	cluster0	909	LFOLEMLJ_04756	hypothetical protein
+total.salinipostin.cluster0.aln	clade6	0	salinipostin	cluster0	909	LFOLEMLJ_04756	hypothetical protein
+total.salinipostin.cluster0.aln	clade7	0	salinipostin	cluster0	909	LFOLEMLJ_04756	hypothetical protein
+total.salinipostin.cluster1.aln	clade6	0	salinipostin	cluster1	1101	LFOLEMLJ_04758	hypothetical protein
+total.salinipostin.cluster1.aln	clade7	0	salinipostin	cluster1	1101	LFOLEMLJ_04758	hypothetical protein
+total.salinipostin.cluster1.aln	clade3	0	salinipostin	cluster1	1101	LFOLEMLJ_04758	hypothetical protein
+total.salinipostin.cluster1.aln	clade4	25.3333333333333	salinipostin	cluster1	1101	LFOLEMLJ_04758	hypothetical protein
+total.salinipostin.cluster1.aln	clade10	6.49717514124294	salinipostin	cluster1	1101	LFOLEMLJ_04758	hypothetical protein
+total.salinipostin.cluster1.aln	clade1	2.89393939393939	salinipostin	cluster1	1101	LFOLEMLJ_04758	hypothetical protein
+total.salinipostin.cluster1.aln	clade8	9.72332015810277	salinipostin	cluster1	1101	LFOLEMLJ_04758	hypothetical protein
+total.salinipostin.cluster1.aln	clade2	0	salinipostin	cluster1	1101	LFOLEMLJ_04758	hypothetical protein
+total.salinipostin.cluster1.aln	clade5	19.8484848484848	salinipostin	cluster1	1101	LFOLEMLJ_04758	hypothetical protein
+total.salinipostin.cluster2.aln	clade1	2.62121212121212	salinipostin	cluster2	891	fgd_4	F420-dependent glucose-6-phosphate dehydrogenase
+total.salinipostin.cluster2.aln	clade10	7.17175141242938	salinipostin	cluster2	891	fgd_4	F420-dependent glucose-6-phosphate dehydrogenase
+total.salinipostin.cluster2.aln	clade2	0	salinipostin	cluster2	891	fgd_4	F420-dependent glucose-6-phosphate dehydrogenase
+total.salinipostin.cluster2.aln	clade4	22	salinipostin	cluster2	891	fgd_4	F420-dependent glucose-6-phosphate dehydrogenase
+total.salinipostin.cluster2.aln	clade6	0	salinipostin	cluster2	891	fgd_4	F420-dependent glucose-6-phosphate dehydrogenase
+total.salinipostin.cluster2.aln	clade7	0	salinipostin	cluster2	891	fgd_4	F420-dependent glucose-6-phosphate dehydrogenase
+total.salinipostin.cluster2.aln	clade3	0	salinipostin	cluster2	891	fgd_4	F420-dependent glucose-6-phosphate dehydrogenase
+total.salinipostin.cluster2.aln	clade5	13.6363636363636	salinipostin	cluster2	891	fgd_4	F420-dependent glucose-6-phosphate dehydrogenase
+total.salinipostin.cluster2.aln	clade8	9.39920948616601	salinipostin	cluster2	891	fgd_4	F420-dependent glucose-6-phosphate dehydrogenase
+total.salinipostin.cluster3.aln	clade7	0	salinipostin	cluster3	1083	DIFGDKJP_01419	hypothetical protein
+total.salinipostin.cluster3.aln	clade2	0	salinipostin	cluster3	1083	DIFGDKJP_01419	hypothetical protein
+total.salinipostin.cluster3.aln	clade3	0	salinipostin	cluster3	1083	DIFGDKJP_01419	hypothetical protein
+total.salinipostin.cluster3.aln	clade8	9.94466403162055	salinipostin	cluster3	1083	DIFGDKJP_01419	hypothetical protein
+total.salinipostin.cluster3.aln	clade10	8.87344632768361	salinipostin	cluster3	1083	DIFGDKJP_01419	hypothetical protein
+total.salinipostin.cluster3.aln	clade4	42.6666666666667	salinipostin	cluster3	1083	DIFGDKJP_01419	hypothetical protein
+total.salinipostin.cluster3.aln	clade5	19.1212121212121	salinipostin	cluster3	1083	DIFGDKJP_01419	hypothetical protein
+total.salinipostin.cluster3.aln	clade1	1.15151515151515	salinipostin	cluster3	1083	DIFGDKJP_01419	hypothetical protein
+total.salinipostin.cluster3.aln	clade6	0	salinipostin	cluster3	1083	DIFGDKJP_01419	hypothetical protein
+total.salinipostin.cluster4.aln	clade1	3.07575757575758	salinipostin	cluster4	981	ndk	Nucleoside diphosphate kinase
+total.salinipostin.cluster4.aln	clade10	13.2361581920904	salinipostin	cluster4	981	ndk	Nucleoside diphosphate kinase
+total.salinipostin.cluster4.aln	clade3	0	salinipostin	cluster4	981	ndk	Nucleoside diphosphate kinase
+total.salinipostin.cluster4.aln	clade5	19.969696969697	salinipostin	cluster4	981	ndk	Nucleoside diphosphate kinase
+total.salinipostin.cluster4.aln	clade2	0	salinipostin	cluster4	981	ndk	Nucleoside diphosphate kinase
+total.salinipostin.cluster4.aln	clade4	34.6666666666667	salinipostin	cluster4	981	ndk	Nucleoside diphosphate kinase
+total.salinipostin.cluster4.aln	clade7	0	salinipostin	cluster4	981	ndk	Nucleoside diphosphate kinase
+total.salinipostin.cluster4.aln	clade6	0	salinipostin	cluster4	981	ndk	Nucleoside diphosphate kinase
+total.salinipostin.cluster4.aln	clade8	9.26482213438735	salinipostin	cluster4	981	ndk	Nucleoside diphosphate kinase
+total.salinipostin.cluster5.aln	clade8	1.42292490118577	salinipostin	cluster5	261	LFOLEMLJ_04759	hypothetical protein
+total.salinipostin.cluster5.aln	clade7	0	salinipostin	cluster5	261	LFOLEMLJ_04759	hypothetical protein
+total.salinipostin.cluster5.aln	clade10	2.33107344632768	salinipostin	cluster5	261	LFOLEMLJ_04759	hypothetical protein
+total.salinipostin.cluster5.aln	clade4	8	salinipostin	cluster5	261	LFOLEMLJ_04759	hypothetical protein
+total.salinipostin.cluster5.aln	clade6	0	salinipostin	cluster5	261	LFOLEMLJ_04759	hypothetical protein
+total.salinipostin.cluster5.aln	clade1	0.636363636363636	salinipostin	cluster5	261	LFOLEMLJ_04759	hypothetical protein
+total.salinipostin.cluster5.aln	clade2	0	salinipostin	cluster5	261	LFOLEMLJ_04759	hypothetical protein
+total.salinipostin.cluster5.aln	clade5	5.37878787878788	salinipostin	cluster5	261	LFOLEMLJ_04759	hypothetical protein
+total.salinipostin.cluster5.aln	clade3	0	salinipostin	cluster5	261	LFOLEMLJ_04759	hypothetical protein
+total.salinosporamide.cluster1.aln	clade2	11	salinosporamide	cluster1	1914	lgrB_3	Linear gramicidin synthase subunit B
+total.salinosporamide.cluster1.aln	clade5	13.4	salinosporamide	cluster1	1914	lgrB_3	Linear gramicidin synthase subunit B
+total.salinosporamide.cluster1.aln	clade8	0	salinosporamide	cluster1	1914	lgrB_3	Linear gramicidin synthase subunit B
+total.salinosporamide.cluster1.aln	clade3	0	salinosporamide	cluster1	1914	lgrB_3	Linear gramicidin synthase subunit B
+total.salinosporamide.cluster1.aln	clade10	5.33333333333333	salinosporamide	cluster1	1914	lgrB_3	Linear gramicidin synthase subunit B
+total.salinosporamide.cluster1.aln	clade6	0	salinosporamide	cluster1	1914	lgrB_3	Linear gramicidin synthase subunit B
+total.salinosporamide.cluster1.aln	clade7	0	salinosporamide	cluster1	1914	lgrB_3	Linear gramicidin synthase subunit B
+total.salinosporamide.cluster1.aln	clade4	99	salinosporamide	cluster1	1914	lgrB_3	Linear gramicidin synthase subunit B
+total.salinosporamide.cluster1.aln	clade1	1.96969696969697	salinosporamide	cluster1	1914	lgrB_3	Linear gramicidin synthase subunit B
+total.salinosporamide.cluster2.aln	clade10	4.26666666666667	salinosporamide	cluster2	1794	ppsE	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+total.salinosporamide.cluster2.aln	clade2	8	salinosporamide	cluster2	1794	ppsE	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+total.salinosporamide.cluster2.aln	clade1	3.15151515151515	salinosporamide	cluster2	1794	ppsE	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+total.salinosporamide.cluster2.aln	clade4	72	salinosporamide	cluster2	1794	ppsE	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+total.salinosporamide.cluster2.aln	clade6	0	salinosporamide	cluster2	1794	ppsE	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+total.salinosporamide.cluster2.aln	clade7	0	salinosporamide	cluster2	1794	ppsE	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+total.salinosporamide.cluster2.aln	clade3	0	salinosporamide	cluster2	1794	ppsE	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+total.salinosporamide.cluster2.aln	clade5	9.2	salinosporamide	cluster2	1794	ppsE	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+total.salinosporamide.cluster2.aln	clade8	0	salinosporamide	cluster2	1794	ppsE	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE
+total.sporolide.cluster1.aln	clade8	0.666666666666667	sporolide	cluster1	987	BFADNKPB_02878	hypothetical protein
+total.sporolide.cluster1.aln	clade6	0	sporolide	cluster1	987	BFADNKPB_02878	hypothetical protein
+total.sporolide.cluster1.aln	clade7	0	sporolide	cluster1	987	BFADNKPB_02878	hypothetical protein
+total.sporolide.cluster1.aln	clade3	0	sporolide	cluster1	987	BFADNKPB_02878	hypothetical protein
+total.sporolide.cluster1.aln	clade10	0	sporolide	cluster1	987	BFADNKPB_02878	hypothetical protein
+total.sporolide.cluster1.aln	clade1	1.48888888888889	sporolide	cluster1	987	BFADNKPB_02878	hypothetical protein
+total.sporolide.cluster1.aln	clade4	0	sporolide	cluster1	987	BFADNKPB_02878	hypothetical protein
+total.sporolide.cluster1.aln	clade2	0	sporolide	cluster1	987	BFADNKPB_02878	hypothetical protein
+total.sporolide.cluster1.aln	clade5	0	sporolide	cluster1	987	BFADNKPB_02878	hypothetical protein
+total.sporolide.cluster10.aln	clade3	0	sporolide	cluster10	786	rhaR_6	HTH-type transcriptional activator RhaR
+total.sporolide.cluster10.aln	clade10	0	sporolide	cluster10	786	rhaR_6	HTH-type transcriptional activator RhaR
+total.sporolide.cluster10.aln	clade2	0	sporolide	cluster10	786	rhaR_6	HTH-type transcriptional activator RhaR
+total.sporolide.cluster10.aln	clade5	0	sporolide	cluster10	786	rhaR_6	HTH-type transcriptional activator RhaR
+total.sporolide.cluster10.aln	clade1	0.355555555555556	sporolide	cluster10	786	rhaR_6	HTH-type transcriptional activator RhaR
+total.sporolide.cluster10.aln	clade4	0	sporolide	cluster10	786	rhaR_6	HTH-type transcriptional activator RhaR
+total.sporolide.cluster10.aln	clade7	0	sporolide	cluster10	786	rhaR_6	HTH-type transcriptional activator RhaR
+total.sporolide.cluster10.aln	clade6	0	sporolide	cluster10	786	rhaR_6	HTH-type transcriptional activator RhaR
+total.sporolide.cluster10.aln	clade8	1.33333333333333	sporolide	cluster10	786	rhaR_6	HTH-type transcriptional activator RhaR
+total.sporolide.cluster11.aln	clade6	0	sporolide	cluster11	465	BJKHBJBP_02656	hypothetical protein
+total.sporolide.cluster11.aln	clade10	0	sporolide	cluster11	465	BJKHBJBP_02656	hypothetical protein
+total.sporolide.cluster11.aln	clade3	0	sporolide	cluster11	465	BJKHBJBP_02656	hypothetical protein
+total.sporolide.cluster11.aln	clade7	0	sporolide	cluster11	465	BJKHBJBP_02656	hypothetical protein
+total.sporolide.cluster11.aln	clade8	0.666666666666667	sporolide	cluster11	465	BJKHBJBP_02656	hypothetical protein
+total.sporolide.cluster11.aln	clade4	0	sporolide	cluster11	465	BJKHBJBP_02656	hypothetical protein
+total.sporolide.cluster11.aln	clade5	0	sporolide	cluster11	465	BJKHBJBP_02656	hypothetical protein
+total.sporolide.cluster11.aln	clade1	0.2	sporolide	cluster11	465	BJKHBJBP_02656	hypothetical protein
+total.sporolide.cluster11.aln	clade2	0	sporolide	cluster11	465	BJKHBJBP_02656	hypothetical protein
+total.sporolide.cluster12.aln	clade8	0.666666666666667	sporolide	cluster12	498	BJKHBJBP_02672	hypothetical protein
+total.sporolide.cluster12.aln	clade1	0.955555555555556	sporolide	cluster12	498	BJKHBJBP_02672	hypothetical protein
+total.sporolide.cluster12.aln	clade2	0	sporolide	cluster12	498	BJKHBJBP_02672	hypothetical protein
+total.sporolide.cluster12.aln	clade6	0	sporolide	cluster12	498	BJKHBJBP_02672	hypothetical protein
+total.sporolide.cluster12.aln	clade10	0	sporolide	cluster12	498	BJKHBJBP_02672	hypothetical protein
+total.sporolide.cluster12.aln	clade5	0	sporolide	cluster12	498	BJKHBJBP_02672	hypothetical protein
+total.sporolide.cluster12.aln	clade7	0	sporolide	cluster12	498	BJKHBJBP_02672	hypothetical protein
+total.sporolide.cluster12.aln	clade4	0	sporolide	cluster12	498	BJKHBJBP_02672	hypothetical protein
+total.sporolide.cluster12.aln	clade3	0	sporolide	cluster12	498	BJKHBJBP_02672	hypothetical protein
+total.sporolide.cluster13.aln	clade10	0	sporolide	cluster13	441	BJKHBJBP_02663	hypothetical protein
+total.sporolide.cluster13.aln	clade1	0	sporolide	cluster13	441	BJKHBJBP_02663	hypothetical protein
+total.sporolide.cluster13.aln	clade2	0	sporolide	cluster13	441	BJKHBJBP_02663	hypothetical protein
+total.sporolide.cluster13.aln	clade7	0	sporolide	cluster13	441	BJKHBJBP_02663	hypothetical protein
+total.sporolide.cluster13.aln	clade3	0	sporolide	cluster13	441	BJKHBJBP_02663	hypothetical protein
+total.sporolide.cluster13.aln	clade4	0	sporolide	cluster13	441	BJKHBJBP_02663	hypothetical protein
+total.sporolide.cluster13.aln	clade5	0	sporolide	cluster13	441	BJKHBJBP_02663	hypothetical protein
+total.sporolide.cluster13.aln	clade8	0	sporolide	cluster13	441	BJKHBJBP_02663	hypothetical protein
+total.sporolide.cluster13.aln	clade6	0	sporolide	cluster13	441	BJKHBJBP_02663	hypothetical protein
+total.sporolide.cluster14.aln	clade10	0	sporolide	cluster14	372	BJKHBJBP_02673	hypothetical protein
+total.sporolide.cluster14.aln	clade1	0.555555555555556	sporolide	cluster14	372	BJKHBJBP_02673	hypothetical protein
+total.sporolide.cluster14.aln	clade2	0	sporolide	cluster14	372	BJKHBJBP_02673	hypothetical protein
+total.sporolide.cluster14.aln	clade7	0	sporolide	cluster14	372	BJKHBJBP_02673	hypothetical protein
+total.sporolide.cluster14.aln	clade3	0	sporolide	cluster14	372	BJKHBJBP_02673	hypothetical protein
+total.sporolide.cluster14.aln	clade4	0	sporolide	cluster14	372	BJKHBJBP_02673	hypothetical protein
+total.sporolide.cluster14.aln	clade5	0	sporolide	cluster14	372	BJKHBJBP_02673	hypothetical protein
+total.sporolide.cluster14.aln	clade8	0	sporolide	cluster14	372	BJKHBJBP_02673	hypothetical protein
+total.sporolide.cluster14.aln	clade6	0	sporolide	cluster14	372	BJKHBJBP_02673	hypothetical protein
+total.sporolide.cluster15.aln	clade4	0	sporolide	cluster15	432	BJKHBJBP_02674	hypothetical protein
+total.sporolide.cluster15.aln	clade5	0	sporolide	cluster15	432	BJKHBJBP_02674	hypothetical protein
+total.sporolide.cluster15.aln	clade1	0.2	sporolide	cluster15	432	BJKHBJBP_02674	hypothetical protein
+total.sporolide.cluster15.aln	clade6	0	sporolide	cluster15	432	BJKHBJBP_02674	hypothetical protein
+total.sporolide.cluster15.aln	clade3	0	sporolide	cluster15	432	BJKHBJBP_02674	hypothetical protein
+total.sporolide.cluster15.aln	clade2	0	sporolide	cluster15	432	BJKHBJBP_02674	hypothetical protein
+total.sporolide.cluster15.aln	clade7	0	sporolide	cluster15	432	BJKHBJBP_02674	hypothetical protein
+total.sporolide.cluster15.aln	clade8	0	sporolide	cluster15	432	BJKHBJBP_02674	hypothetical protein
+total.sporolide.cluster15.aln	clade10	0	sporolide	cluster15	432	BJKHBJBP_02674	hypothetical protein
+total.sporolide.cluster16.aln	clade1	0.555555555555556	sporolide	cluster16	633	BJKHBJBP_02660	hypothetical protein
+total.sporolide.cluster16.aln	clade10	0	sporolide	cluster16	633	BJKHBJBP_02660	hypothetical protein
+total.sporolide.cluster16.aln	clade3	0	sporolide	cluster16	633	BJKHBJBP_02660	hypothetical protein
+total.sporolide.cluster16.aln	clade8	1.33333333333333	sporolide	cluster16	633	BJKHBJBP_02660	hypothetical protein
+total.sporolide.cluster16.aln	clade2	0	sporolide	cluster16	633	BJKHBJBP_02660	hypothetical protein
+total.sporolide.cluster16.aln	clade4	0	sporolide	cluster16	633	BJKHBJBP_02660	hypothetical protein
+total.sporolide.cluster16.aln	clade6	0	sporolide	cluster16	633	BJKHBJBP_02660	hypothetical protein
+total.sporolide.cluster16.aln	clade5	0	sporolide	cluster16	633	BJKHBJBP_02660	hypothetical protein
+total.sporolide.cluster16.aln	clade7	0	sporolide	cluster16	633	BJKHBJBP_02660	hypothetical protein
+total.sporolide.cluster17.aln	clade4	0	sporolide	cluster17	669	MKOOBEOE_02772	hypothetical protein
+total.sporolide.cluster17.aln	clade1	3.2	sporolide	cluster17	669	MKOOBEOE_02772	hypothetical protein
+total.sporolide.cluster17.aln	clade5	0	sporolide	cluster17	669	MKOOBEOE_02772	hypothetical protein
+total.sporolide.cluster17.aln	clade6	0	sporolide	cluster17	669	MKOOBEOE_02772	hypothetical protein
+total.sporolide.cluster17.aln	clade10	0	sporolide	cluster17	669	MKOOBEOE_02772	hypothetical protein
+total.sporolide.cluster17.aln	clade3	0	sporolide	cluster17	669	MKOOBEOE_02772	hypothetical protein
+total.sporolide.cluster17.aln	clade8	0.666666666666667	sporolide	cluster17	669	MKOOBEOE_02772	hypothetical protein
+total.sporolide.cluster17.aln	clade2	0	sporolide	cluster17	669	MKOOBEOE_02772	hypothetical protein
+total.sporolide.cluster17.aln	clade7	0	sporolide	cluster17	669	MKOOBEOE_02772	hypothetical protein
+total.sporolide.cluster18.aln	clade1	0.4	sporolide	cluster18	594	MKOOBEOE_02774	hypothetical protein
+total.sporolide.cluster18.aln	clade10	0	sporolide	cluster18	594	MKOOBEOE_02774	hypothetical protein
+total.sporolide.cluster18.aln	clade3	0	sporolide	cluster18	594	MKOOBEOE_02774	hypothetical protein
+total.sporolide.cluster18.aln	clade4	0	sporolide	cluster18	594	MKOOBEOE_02774	hypothetical protein
+total.sporolide.cluster18.aln	clade2	0	sporolide	cluster18	594	MKOOBEOE_02774	hypothetical protein
+total.sporolide.cluster18.aln	clade5	0	sporolide	cluster18	594	MKOOBEOE_02774	hypothetical protein
+total.sporolide.cluster18.aln	clade6	0	sporolide	cluster18	594	MKOOBEOE_02774	hypothetical protein
+total.sporolide.cluster18.aln	clade7	0	sporolide	cluster18	594	MKOOBEOE_02774	hypothetical protein
+total.sporolide.cluster18.aln	clade8	4.66666666666667	sporolide	cluster18	594	MKOOBEOE_02774	hypothetical protein
+total.sporolide.cluster19.aln	clade2	0	sporolide	cluster19	537	ntaB	FMN reductase (NADH) NtaB
+total.sporolide.cluster19.aln	clade3	0	sporolide	cluster19	537	ntaB	FMN reductase (NADH) NtaB
+total.sporolide.cluster19.aln	clade1	0	sporolide	cluster19	537	ntaB	FMN reductase (NADH) NtaB
+total.sporolide.cluster19.aln	clade6	0	sporolide	cluster19	537	ntaB	FMN reductase (NADH) NtaB
+total.sporolide.cluster19.aln	clade7	0	sporolide	cluster19	537	ntaB	FMN reductase (NADH) NtaB
+total.sporolide.cluster19.aln	clade10	0	sporolide	cluster19	537	ntaB	FMN reductase (NADH) NtaB
+total.sporolide.cluster19.aln	clade4	0	sporolide	cluster19	537	ntaB	FMN reductase (NADH) NtaB
+total.sporolide.cluster19.aln	clade8	0.666666666666667	sporolide	cluster19	537	ntaB	FMN reductase (NADH) NtaB
+total.sporolide.cluster19.aln	clade5	0	sporolide	cluster19	537	ntaB	FMN reductase (NADH) NtaB
+total.sporolide.cluster2.aln	clade10	0	sporolide	cluster2	999	BJKHBJBP_02652	hypothetical protein
+total.sporolide.cluster2.aln	clade1	1.15555555555556	sporolide	cluster2	999	BJKHBJBP_02652	hypothetical protein
+total.sporolide.cluster2.aln	clade3	0	sporolide	cluster2	999	BJKHBJBP_02652	hypothetical protein
+total.sporolide.cluster2.aln	clade4	0	sporolide	cluster2	999	BJKHBJBP_02652	hypothetical protein
+total.sporolide.cluster2.aln	clade2	0	sporolide	cluster2	999	BJKHBJBP_02652	hypothetical protein
+total.sporolide.cluster2.aln	clade7	0	sporolide	cluster2	999	BJKHBJBP_02652	hypothetical protein
+total.sporolide.cluster2.aln	clade5	0	sporolide	cluster2	999	BJKHBJBP_02652	hypothetical protein
+total.sporolide.cluster2.aln	clade6	0	sporolide	cluster2	999	BJKHBJBP_02652	hypothetical protein
+total.sporolide.cluster2.aln	clade8	1.33333333333333	sporolide	cluster2	999	BJKHBJBP_02652	hypothetical protein
+total.sporolide.cluster20.aln	clade2	0	sporolide	cluster20	564	BJKHBJBP_02647	hypothetical protein
+total.sporolide.cluster20.aln	clade7	0	sporolide	cluster20	564	BJKHBJBP_02647	hypothetical protein
+total.sporolide.cluster20.aln	clade3	0	sporolide	cluster20	564	BJKHBJBP_02647	hypothetical protein
+total.sporolide.cluster20.aln	clade4	0	sporolide	cluster20	564	BJKHBJBP_02647	hypothetical protein
+total.sporolide.cluster20.aln	clade8	0.666666666666667	sporolide	cluster20	564	BJKHBJBP_02647	hypothetical protein
+total.sporolide.cluster20.aln	clade10	0	sporolide	cluster20	564	BJKHBJBP_02647	hypothetical protein
+total.sporolide.cluster20.aln	clade5	0	sporolide	cluster20	564	BJKHBJBP_02647	hypothetical protein
+total.sporolide.cluster20.aln	clade6	0	sporolide	cluster20	564	BJKHBJBP_02647	hypothetical protein
+total.sporolide.cluster20.aln	clade1	0.355555555555556	sporolide	cluster20	564	BJKHBJBP_02647	hypothetical protein
+total.sporolide.cluster21.aln	clade5	0	sporolide	cluster21	2169	aml	Alpha-amylase
+total.sporolide.cluster21.aln	clade7	0	sporolide	cluster21	2169	aml	Alpha-amylase
+total.sporolide.cluster21.aln	clade3	0	sporolide	cluster21	2169	aml	Alpha-amylase
+total.sporolide.cluster21.aln	clade4	0	sporolide	cluster21	2169	aml	Alpha-amylase
+total.sporolide.cluster21.aln	clade8	7.33333333333333	sporolide	cluster21	2169	aml	Alpha-amylase
+total.sporolide.cluster21.aln	clade1	1.95555555555556	sporolide	cluster21	2169	aml	Alpha-amylase
+total.sporolide.cluster21.aln	clade6	0	sporolide	cluster21	2169	aml	Alpha-amylase
+total.sporolide.cluster21.aln	clade10	0	sporolide	cluster21	2169	aml	Alpha-amylase
+total.sporolide.cluster21.aln	clade2	0	sporolide	cluster21	2169	aml	Alpha-amylase
+total.sporolide.cluster22.aln	clade7	0	sporolide	cluster22	5772	MKOOBEOE_02785	hypothetical protein
+total.sporolide.cluster22.aln	clade10	0	sporolide	cluster22	5772	MKOOBEOE_02785	hypothetical protein
+total.sporolide.cluster22.aln	clade5	0	sporolide	cluster22	5772	MKOOBEOE_02785	hypothetical protein
+total.sporolide.cluster22.aln	clade8	8.66666666666666	sporolide	cluster22	5772	MKOOBEOE_02785	hypothetical protein
+total.sporolide.cluster22.aln	clade4	0	sporolide	cluster22	5772	MKOOBEOE_02785	hypothetical protein
+total.sporolide.cluster22.aln	clade3	0	sporolide	cluster22	5772	MKOOBEOE_02785	hypothetical protein
+total.sporolide.cluster22.aln	clade1	9.82222222222222	sporolide	cluster22	5772	MKOOBEOE_02785	hypothetical protein
+total.sporolide.cluster22.aln	clade6	0	sporolide	cluster22	5772	MKOOBEOE_02785	hypothetical protein
+total.sporolide.cluster22.aln	clade2	0	sporolide	cluster22	5772	MKOOBEOE_02785	hypothetical protein
+total.sporolide.cluster23.aln	clade10	0	sporolide	cluster23	1653	BJKHBJBP_02648	hypothetical protein
+total.sporolide.cluster23.aln	clade2	0	sporolide	cluster23	1653	BJKHBJBP_02648	hypothetical protein
+total.sporolide.cluster23.aln	clade3	0	sporolide	cluster23	1653	BJKHBJBP_02648	hypothetical protein
+total.sporolide.cluster23.aln	clade1	2.35555555555556	sporolide	cluster23	1653	BJKHBJBP_02648	hypothetical protein
+total.sporolide.cluster23.aln	clade6	0	sporolide	cluster23	1653	BJKHBJBP_02648	hypothetical protein
+total.sporolide.cluster23.aln	clade4	0	sporolide	cluster23	1653	BJKHBJBP_02648	hypothetical protein
+total.sporolide.cluster23.aln	clade5	0	sporolide	cluster23	1653	BJKHBJBP_02648	hypothetical protein
+total.sporolide.cluster23.aln	clade7	0	sporolide	cluster23	1653	BJKHBJBP_02648	hypothetical protein
+total.sporolide.cluster23.aln	clade8	0	sporolide	cluster23	1653	BJKHBJBP_02648	hypothetical protein
+total.sporolide.cluster24.aln	clade10	0	sporolide	cluster24	1974	BJKHBJBP_02653	hypothetical protein
+total.sporolide.cluster24.aln	clade3	0	sporolide	cluster24	1974	BJKHBJBP_02653	hypothetical protein
+total.sporolide.cluster24.aln	clade5	0	sporolide	cluster24	1974	BJKHBJBP_02653	hypothetical protein
+total.sporolide.cluster24.aln	clade1	2.11111111111111	sporolide	cluster24	1974	BJKHBJBP_02653	hypothetical protein
+total.sporolide.cluster24.aln	clade2	0	sporolide	cluster24	1974	BJKHBJBP_02653	hypothetical protein
+total.sporolide.cluster24.aln	clade4	0	sporolide	cluster24	1974	BJKHBJBP_02653	hypothetical protein
+total.sporolide.cluster24.aln	clade6	0	sporolide	cluster24	1974	BJKHBJBP_02653	hypothetical protein
+total.sporolide.cluster24.aln	clade8	8	sporolide	cluster24	1974	BJKHBJBP_02653	hypothetical protein
+total.sporolide.cluster24.aln	clade7	0	sporolide	cluster24	1974	BJKHBJBP_02653	hypothetical protein
+total.sporolide.cluster3.aln	clade10	0	sporolide	cluster3	921	MKOOBEOE_02794	hypothetical protein
+total.sporolide.cluster3.aln	clade1	0.755555555555556	sporolide	cluster3	921	MKOOBEOE_02794	hypothetical protein
+total.sporolide.cluster3.aln	clade3	0	sporolide	cluster3	921	MKOOBEOE_02794	hypothetical protein
+total.sporolide.cluster3.aln	clade5	0	sporolide	cluster3	921	MKOOBEOE_02794	hypothetical protein
+total.sporolide.cluster3.aln	clade8	1.33333333333333	sporolide	cluster3	921	MKOOBEOE_02794	hypothetical protein
+total.sporolide.cluster3.aln	clade2	0	sporolide	cluster3	921	MKOOBEOE_02794	hypothetical protein
+total.sporolide.cluster3.aln	clade4	0	sporolide	cluster3	921	MKOOBEOE_02794	hypothetical protein
+total.sporolide.cluster3.aln	clade6	0	sporolide	cluster3	921	MKOOBEOE_02794	hypothetical protein
+total.sporolide.cluster3.aln	clade7	0	sporolide	cluster3	921	MKOOBEOE_02794	hypothetical protein
+total.sporolide.cluster4.aln	clade1	0.555555555555556	sporolide	cluster4	987	MKOOBEOE_02786	hypothetical protein
+total.sporolide.cluster4.aln	clade3	0	sporolide	cluster4	987	MKOOBEOE_02786	hypothetical protein
+total.sporolide.cluster4.aln	clade2	0	sporolide	cluster4	987	MKOOBEOE_02786	hypothetical protein
+total.sporolide.cluster4.aln	clade4	0	sporolide	cluster4	987	MKOOBEOE_02786	hypothetical protein
+total.sporolide.cluster4.aln	clade6	0	sporolide	cluster4	987	MKOOBEOE_02786	hypothetical protein
+total.sporolide.cluster4.aln	clade10	0	sporolide	cluster4	987	MKOOBEOE_02786	hypothetical protein
+total.sporolide.cluster4.aln	clade5	0	sporolide	cluster4	987	MKOOBEOE_02786	hypothetical protein
+total.sporolide.cluster4.aln	clade8	0.666666666666667	sporolide	cluster4	987	MKOOBEOE_02786	hypothetical protein
+total.sporolide.cluster4.aln	clade7	0	sporolide	cluster4	987	MKOOBEOE_02786	hypothetical protein
+total.sporolide.cluster6.aln	clade4	0	sporolide	cluster6	1359	BJKHBJBP_02658	Epi-isozizaene 5-monooxygenase/(E)-beta-farnesene synthase
+total.sporolide.cluster6.aln	clade10	0	sporolide	cluster6	1359	BJKHBJBP_02658	Epi-isozizaene 5-monooxygenase/(E)-beta-farnesene synthase
+total.sporolide.cluster6.aln	clade2	0	sporolide	cluster6	1359	BJKHBJBP_02658	Epi-isozizaene 5-monooxygenase/(E)-beta-farnesene synthase
+total.sporolide.cluster6.aln	clade7	0	sporolide	cluster6	1359	BJKHBJBP_02658	Epi-isozizaene 5-monooxygenase/(E)-beta-farnesene synthase
+total.sporolide.cluster6.aln	clade5	0	sporolide	cluster6	1359	BJKHBJBP_02658	Epi-isozizaene 5-monooxygenase/(E)-beta-farnesene synthase
+total.sporolide.cluster6.aln	clade1	1.97777777777778	sporolide	cluster6	1359	BJKHBJBP_02658	Epi-isozizaene 5-monooxygenase/(E)-beta-farnesene synthase
+total.sporolide.cluster6.aln	clade3	0	sporolide	cluster6	1359	BJKHBJBP_02658	Epi-isozizaene 5-monooxygenase/(E)-beta-farnesene synthase
+total.sporolide.cluster6.aln	clade8	0	sporolide	cluster6	1359	BJKHBJBP_02658	Epi-isozizaene 5-monooxygenase/(E)-beta-farnesene synthase
+total.sporolide.cluster6.aln	clade6	0	sporolide	cluster6	1359	BJKHBJBP_02658	Epi-isozizaene 5-monooxygenase/(E)-beta-farnesene synthase
+total.sporolide.cluster7.aln	clade8	2	sporolide	cluster7	1083	BJKHBJBP_02649	hypothetical protein
+total.sporolide.cluster7.aln	clade1	1.8	sporolide	cluster7	1083	BJKHBJBP_02649	hypothetical protein
+total.sporolide.cluster7.aln	clade6	0	sporolide	cluster7	1083	BJKHBJBP_02649	hypothetical protein
+total.sporolide.cluster7.aln	clade7	0	sporolide	cluster7	1083	BJKHBJBP_02649	hypothetical protein
+total.sporolide.cluster7.aln	clade10	0	sporolide	cluster7	1083	BJKHBJBP_02649	hypothetical protein
+total.sporolide.cluster7.aln	clade2	0	sporolide	cluster7	1083	BJKHBJBP_02649	hypothetical protein
+total.sporolide.cluster7.aln	clade3	0	sporolide	cluster7	1083	BJKHBJBP_02649	hypothetical protein
+total.sporolide.cluster7.aln	clade4	0	sporolide	cluster7	1083	BJKHBJBP_02649	hypothetical protein
+total.sporolide.cluster7.aln	clade5	0	sporolide	cluster7	1083	BJKHBJBP_02649	hypothetical protein
+total.sporolide.cluster8.aln	clade10	0	sporolide	cluster8	1020	BJKHBJBP_02675	Acyl-CoA dehydrogenase FadE28
+total.sporolide.cluster8.aln	clade1	1.71111111111111	sporolide	cluster8	1020	BJKHBJBP_02675	Acyl-CoA dehydrogenase FadE28
+total.sporolide.cluster8.aln	clade3	0	sporolide	cluster8	1020	BJKHBJBP_02675	Acyl-CoA dehydrogenase FadE28
+total.sporolide.cluster8.aln	clade4	0	sporolide	cluster8	1020	BJKHBJBP_02675	Acyl-CoA dehydrogenase FadE28
+total.sporolide.cluster8.aln	clade7	0	sporolide	cluster8	1020	BJKHBJBP_02675	Acyl-CoA dehydrogenase FadE28
+total.sporolide.cluster8.aln	clade2	0	sporolide	cluster8	1020	BJKHBJBP_02675	Acyl-CoA dehydrogenase FadE28
+total.sporolide.cluster8.aln	clade5	0	sporolide	cluster8	1020	BJKHBJBP_02675	Acyl-CoA dehydrogenase FadE28
+total.sporolide.cluster8.aln	clade6	0	sporolide	cluster8	1020	BJKHBJBP_02675	Acyl-CoA dehydrogenase FadE28
+total.sporolide.cluster8.aln	clade8	1.33333333333333	sporolide	cluster8	1020	BJKHBJBP_02675	Acyl-CoA dehydrogenase FadE28
+total.sporolide.cluster9.aln	clade4	0	sporolide	cluster9	1065	BJKHBJBP_02650	hypothetical protein
+total.sporolide.cluster9.aln	clade7	0	sporolide	cluster9	1065	BJKHBJBP_02650	hypothetical protein
+total.sporolide.cluster9.aln	clade2	0	sporolide	cluster9	1065	BJKHBJBP_02650	hypothetical protein
+total.sporolide.cluster9.aln	clade6	0	sporolide	cluster9	1065	BJKHBJBP_02650	hypothetical protein
+total.sporolide.cluster9.aln	clade3	0	sporolide	cluster9	1065	BJKHBJBP_02650	hypothetical protein
+total.sporolide.cluster9.aln	clade5	0	sporolide	cluster9	1065	BJKHBJBP_02650	hypothetical protein
+total.sporolide.cluster9.aln	clade1	2.57777777777778	sporolide	cluster9	1065	BJKHBJBP_02650	hypothetical protein
+total.sporolide.cluster9.aln	clade8	1.33333333333333	sporolide	cluster9	1065	BJKHBJBP_02650	hypothetical protein
+total.sporolide.cluster9.aln	clade10	0	sporolide	cluster9	1065	BJKHBJBP_02650	hypothetical protein
+total.staurosporine.cluster0.aln	clade2	0	staurosporine	cluster0	1308	rebG	4-demethylrebeccamycin synthase
+total.staurosporine.cluster0.aln	clade1	0	staurosporine	cluster0	1308	rebG	4-demethylrebeccamycin synthase
+total.staurosporine.cluster0.aln	clade3	0	staurosporine	cluster0	1308	rebG	4-demethylrebeccamycin synthase
+total.staurosporine.cluster0.aln	clade4	46.6666666666667	staurosporine	cluster0	1308	rebG	4-demethylrebeccamycin synthase
+total.staurosporine.cluster0.aln	clade10	9.42732240437158	staurosporine	cluster0	1308	rebG	4-demethylrebeccamycin synthase
+total.staurosporine.cluster0.aln	clade7	0	staurosporine	cluster0	1308	rebG	4-demethylrebeccamycin synthase
+total.staurosporine.cluster0.aln	clade8	0	staurosporine	cluster0	1308	rebG	4-demethylrebeccamycin synthase
+total.staurosporine.cluster0.aln	clade5	24.8636363636364	staurosporine	cluster0	1308	rebG	4-demethylrebeccamycin synthase
+total.staurosporine.cluster0.aln	clade6	0	staurosporine	cluster0	1308	rebG	4-demethylrebeccamycin synthase
+total.staurosporine.cluster1.aln	clade1	0	staurosporine	cluster1	1515	rebO	Flavin-dependent L-tryptophan oxidase RebO
+total.staurosporine.cluster1.aln	clade8	0	staurosporine	cluster1	1515	rebO	Flavin-dependent L-tryptophan oxidase RebO
+total.staurosporine.cluster1.aln	clade2	0	staurosporine	cluster1	1515	rebO	Flavin-dependent L-tryptophan oxidase RebO
+total.staurosporine.cluster1.aln	clade3	0	staurosporine	cluster1	1515	rebO	Flavin-dependent L-tryptophan oxidase RebO
+total.staurosporine.cluster1.aln	clade4	57.3333333333333	staurosporine	cluster1	1515	rebO	Flavin-dependent L-tryptophan oxidase RebO
+total.staurosporine.cluster1.aln	clade5	25.2424242424242	staurosporine	cluster1	1515	rebO	Flavin-dependent L-tryptophan oxidase RebO
+total.staurosporine.cluster1.aln	clade7	0	staurosporine	cluster1	1515	rebO	Flavin-dependent L-tryptophan oxidase RebO
+total.staurosporine.cluster1.aln	clade10	8.69726775956284	staurosporine	cluster1	1515	rebO	Flavin-dependent L-tryptophan oxidase RebO
+total.staurosporine.cluster1.aln	clade6	0	staurosporine	cluster1	1515	rebO	Flavin-dependent L-tryptophan oxidase RebO
+total.staurosporine.cluster2.aln	clade2	0	staurosporine	cluster2	1707	tfdB	2,4-dichlorophenol 6-monooxygenase
+total.staurosporine.cluster2.aln	clade4	57.3333333333333	staurosporine	cluster2	1707	tfdB	2,4-dichlorophenol 6-monooxygenase
+total.staurosporine.cluster2.aln	clade7	0	staurosporine	cluster2	1707	tfdB	2,4-dichlorophenol 6-monooxygenase
+total.staurosporine.cluster2.aln	clade1	0	staurosporine	cluster2	1707	tfdB	2,4-dichlorophenol 6-monooxygenase
+total.staurosporine.cluster2.aln	clade6	0	staurosporine	cluster2	1707	tfdB	2,4-dichlorophenol 6-monooxygenase
+total.staurosporine.cluster2.aln	clade3	0	staurosporine	cluster2	1707	tfdB	2,4-dichlorophenol 6-monooxygenase
+total.staurosporine.cluster2.aln	clade5	32.6060606060606	staurosporine	cluster2	1707	tfdB	2,4-dichlorophenol 6-monooxygenase
+total.staurosporine.cluster2.aln	clade10	13.4284153005464	staurosporine	cluster2	1707	tfdB	2,4-dichlorophenol 6-monooxygenase
+total.staurosporine.cluster2.aln	clade8	0	staurosporine	cluster2	1707	tfdB	2,4-dichlorophenol 6-monooxygenase
+total.staurosporine.cluster3.aln	clade3	0	staurosporine	cluster3	1257	yjiB	Putative cytochrome P450 YjiB
+total.staurosporine.cluster3.aln	clade10	9.89617486338798	staurosporine	cluster3	1257	yjiB	Putative cytochrome P450 YjiB
+total.staurosporine.cluster3.aln	clade4	52.6666666666667	staurosporine	cluster3	1257	yjiB	Putative cytochrome P450 YjiB
+total.staurosporine.cluster3.aln	clade8	0	staurosporine	cluster3	1257	yjiB	Putative cytochrome P450 YjiB
+total.staurosporine.cluster3.aln	clade1	0	staurosporine	cluster3	1257	yjiB	Putative cytochrome P450 YjiB
+total.staurosporine.cluster3.aln	clade2	0	staurosporine	cluster3	1257	yjiB	Putative cytochrome P450 YjiB
+total.staurosporine.cluster3.aln	clade7	0	staurosporine	cluster3	1257	yjiB	Putative cytochrome P450 YjiB
+total.staurosporine.cluster3.aln	clade5	22.8030303030303	staurosporine	cluster3	1257	yjiB	Putative cytochrome P450 YjiB
+total.staurosporine.cluster3.aln	clade6	0	staurosporine	cluster3	1257	yjiB	Putative cytochrome P450 YjiB
+total.staurosporine.cluster4.aln	clade6	0	staurosporine	cluster4	657	gerF	dTDP-4-dehydro-6-deoxyglucose 3-epimerase
+total.staurosporine.cluster4.aln	clade3	0	staurosporine	cluster4	657	gerF	dTDP-4-dehydro-6-deoxyglucose 3-epimerase
+total.staurosporine.cluster4.aln	clade1	0	staurosporine	cluster4	657	gerF	dTDP-4-dehydro-6-deoxyglucose 3-epimerase
+total.staurosporine.cluster4.aln	clade4	22.6666666666667	staurosporine	cluster4	657	gerF	dTDP-4-dehydro-6-deoxyglucose 3-epimerase
+total.staurosporine.cluster4.aln	clade5	11.1212121212121	staurosporine	cluster4	657	gerF	dTDP-4-dehydro-6-deoxyglucose 3-epimerase
+total.staurosporine.cluster4.aln	clade2	0	staurosporine	cluster4	657	gerF	dTDP-4-dehydro-6-deoxyglucose 3-epimerase
+total.staurosporine.cluster4.aln	clade7	0	staurosporine	cluster4	657	gerF	dTDP-4-dehydro-6-deoxyglucose 3-epimerase
+total.staurosporine.cluster4.aln	clade8	0	staurosporine	cluster4	657	gerF	dTDP-4-dehydro-6-deoxyglucose 3-epimerase
+total.staurosporine.cluster4.aln	clade10	3.99344262295082	staurosporine	cluster4	657	gerF	dTDP-4-dehydro-6-deoxyglucose 3-epimerase
+total.staurosporine.cluster5.aln	clade7	0	staurosporine	cluster5	1227	LFOLEMLJ_01454	Cytochrome P450 107B1
+total.staurosporine.cluster5.aln	clade10	5.97049180327869	staurosporine	cluster5	1227	LFOLEMLJ_01454	Cytochrome P450 107B1
+total.staurosporine.cluster5.aln	clade2	0	staurosporine	cluster5	1227	LFOLEMLJ_01454	Cytochrome P450 107B1
+total.staurosporine.cluster5.aln	clade8	0	staurosporine	cluster5	1227	LFOLEMLJ_01454	Cytochrome P450 107B1
+total.staurosporine.cluster5.aln	clade5	19.7272727272727	staurosporine	cluster5	1227	LFOLEMLJ_01454	Cytochrome P450 107B1
+total.staurosporine.cluster5.aln	clade1	0	staurosporine	cluster5	1227	LFOLEMLJ_01454	Cytochrome P450 107B1
+total.staurosporine.cluster5.aln	clade6	0	staurosporine	cluster5	1227	LFOLEMLJ_01454	Cytochrome P450 107B1
+total.staurosporine.cluster5.aln	clade4	35.3333333333333	staurosporine	cluster5	1227	LFOLEMLJ_01454	Cytochrome P450 107B1
+total.staurosporine.cluster5.aln	clade3	0	staurosporine	cluster5	1227	LFOLEMLJ_01454	Cytochrome P450 107B1
+total.staurosporine.cluster6.aln	clade2	0	staurosporine	cluster6	1122	megDII	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+total.staurosporine.cluster6.aln	clade10	6.41857923497268	staurosporine	cluster6	1122	megDII	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+total.staurosporine.cluster6.aln	clade3	0	staurosporine	cluster6	1122	megDII	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+total.staurosporine.cluster6.aln	clade4	36	staurosporine	cluster6	1122	megDII	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+total.staurosporine.cluster6.aln	clade5	17.3333333333333	staurosporine	cluster6	1122	megDII	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+total.staurosporine.cluster6.aln	clade1	0	staurosporine	cluster6	1122	megDII	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+total.staurosporine.cluster6.aln	clade6	0	staurosporine	cluster6	1122	megDII	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+total.staurosporine.cluster6.aln	clade7	0	staurosporine	cluster6	1122	megDII	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+total.staurosporine.cluster6.aln	clade8	0	staurosporine	cluster6	1122	megDII	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+total.staurosporine.cluster7.aln	clade8	0	staurosporine	cluster7	3216	rebD	Dichlorochromopyrrolate synthase
+total.staurosporine.cluster7.aln	clade1	0	staurosporine	cluster7	3216	rebD	Dichlorochromopyrrolate synthase
+total.staurosporine.cluster7.aln	clade6	0	staurosporine	cluster7	3216	rebD	Dichlorochromopyrrolate synthase
+total.staurosporine.cluster7.aln	clade7	0	staurosporine	cluster7	3216	rebD	Dichlorochromopyrrolate synthase
+total.staurosporine.cluster7.aln	clade10	20.4087431693989	staurosporine	cluster7	3216	rebD	Dichlorochromopyrrolate synthase
+total.staurosporine.cluster7.aln	clade2	0	staurosporine	cluster7	3216	rebD	Dichlorochromopyrrolate synthase
+total.staurosporine.cluster7.aln	clade3	0	staurosporine	cluster7	3216	rebD	Dichlorochromopyrrolate synthase
+total.staurosporine.cluster7.aln	clade4	106	staurosporine	cluster7	3216	rebD	Dichlorochromopyrrolate synthase
+total.staurosporine.cluster7.aln	clade5	54.2424242424242	staurosporine	cluster7	3216	rebD	Dichlorochromopyrrolate synthase
+total.staurosporine.cluster8.aln	clade10	7.55846994535519	staurosporine	cluster8	1005	fcl_1	GDP-L-fucose synthase
+total.staurosporine.cluster8.aln	clade1	0	staurosporine	cluster8	1005	fcl_1	GDP-L-fucose synthase
+total.staurosporine.cluster8.aln	clade3	0	staurosporine	cluster8	1005	fcl_1	GDP-L-fucose synthase
+total.staurosporine.cluster8.aln	clade4	31.3333333333333	staurosporine	cluster8	1005	fcl_1	GDP-L-fucose synthase
+total.staurosporine.cluster8.aln	clade7	0	staurosporine	cluster8	1005	fcl_1	GDP-L-fucose synthase
+total.staurosporine.cluster8.aln	clade2	0	staurosporine	cluster8	1005	fcl_1	GDP-L-fucose synthase
+total.staurosporine.cluster8.aln	clade5	14.6212121212121	staurosporine	cluster8	1005	fcl_1	GDP-L-fucose synthase
+total.staurosporine.cluster8.aln	clade6	0	staurosporine	cluster8	1005	fcl_1	GDP-L-fucose synthase
+total.staurosporine.cluster8.aln	clade8	0	staurosporine	cluster8	1005	fcl_1	GDP-L-fucose synthase
+total.staurosporine.cluster9.aln	clade7	0	staurosporine	cluster9	849	LFOLEMLJ_01449	27-O-demethylrifamycin SV methyltransferase
+total.staurosporine.cluster9.aln	clade8	0	staurosporine	cluster9	849	LFOLEMLJ_01449	27-O-demethylrifamycin SV methyltransferase
+total.staurosporine.cluster9.aln	clade2	0	staurosporine	cluster9	849	LFOLEMLJ_01449	27-O-demethylrifamycin SV methyltransferase
+total.staurosporine.cluster9.aln	clade5	12.2272727272727	staurosporine	cluster9	849	LFOLEMLJ_01449	27-O-demethylrifamycin SV methyltransferase
+total.staurosporine.cluster9.aln	clade4	24.6666666666667	staurosporine	cluster9	849	LFOLEMLJ_01449	27-O-demethylrifamycin SV methyltransferase
+total.staurosporine.cluster9.aln	clade6	0	staurosporine	cluster9	849	LFOLEMLJ_01449	27-O-demethylrifamycin SV methyltransferase
+total.staurosporine.cluster9.aln	clade10	4.56612021857923	staurosporine	cluster9	849	LFOLEMLJ_01449	27-O-demethylrifamycin SV methyltransferase
+total.staurosporine.cluster9.aln	clade3	0	staurosporine	cluster9	849	LFOLEMLJ_01449	27-O-demethylrifamycin SV methyltransferase
+total.staurosporine.cluster9.aln	clade1	0	staurosporine	cluster9	849	LFOLEMLJ_01449	27-O-demethylrifamycin SV methyltransferase
